@@ -1,0 +1,1310 @@
+ID,class,name,sex,age,hometown,nationality,boarding,lifeboat,survival
+1,3,Braund, Mr. Owen Harris,male,22,Bridgerule,England,Southampton,,no
+2,1,Cumings, Mrs. John Bradley (Florence Briggs Thayer),female,38,NewYork,US,Cherbourg,4,yes
+3,3,Heikkinen, Miss. Laina,female,26,Jyväskylä,Finland,Southampton,14,yes
+4,1,Futrelle, Mrs. Jacques Heath (Lily May Peel),female,35,Scituate,US,Southampton,D,yes
+5,3,Allen, Mr. William Henry,male,35,Birmingham,England,Southampton,,no
+6,3,Moran, Mr. James,male,,Cork,Ireland,Queenstown,,no
+7,1,McCarthy, Mr. Timothy J,male,54,Dorchester,US,Southampton,,no
+8,3,Palsson, Master. Gosta Leonard,male,2,Bjuv,Sweden,Southampton,,no
+9,3,Johnson, Mrs. Oscar W (Elisabeth Vilhelmina Berg),female,27,St.Charles,US,Southampton,15,yes
+10,2,Nasser, Mrs. Nicholas (Adele Achem),female,14,Zahlé,OttomanEmpire,Cherbourg,?,yes
+11,3,Sandstrom, Miss. Marguerite Rut,female,4,Motala,Sweden,Southampton,13,yes
+12,1,Bonnell, Miss. Elizabeth,female,58,Youngstown,US,Southampton,8,yes
+13,3,Saundercock, Mr. William Henry,male,20,StAustell,England,Southampton,,no
+14,3,Andersson, Mr. Anders Johan,male,39,Kisa,Sweden,Southampton,,no
+15,3,Vestrom, Miss. Hulda Amanda Adolfina,female,14,Salmunds,Sweden,Southampton,,no
+16,2,Hewlett, Mrs. (Mary D Kingcome) ,female,55,Lucknow,UK,Southampton,13,yes
+17,3,Rice, Master. Eugene,male,2,Athlone,Ireland,Queenstown,,no
+18,2,Williams, Mr. Charles Eugene,male,,Harrow,England,Southampton,14,yes
+19,3,Vander Planke, Mrs. Julius (Emelia Maria Vandemoortele),female,31,Pittem,Belgium,Southampton,,no
+20,3,Masselmani, Mrs. Fatima,female,,Tebnine,Lebanon,Cherbourg,C,yes
+21,2,Fynney, Mr. Joseph J,male,35,Liverpool,England,Southampton,,no
+22,2,Beesley, Mr. Lawrence,male,34,London,UK,Southampton,13,yes
+23,3,"McGowan, Miss. Anna ""Annie""",female,15,Massbrook,Ireland,Queenstown,13,yes
+24,1,Sloper, Mr. William Thompson,male,28,NewBritain,US,Southampton,7,yes
+25,3,Palsson, Miss. Torborg Danira,female,8,Bjuv,Sweden,Southampton,,no
+26,3,Asplund, Mrs. Carl Oscar (Selma Augusta Emilia Johansson),female,38,Alseda,Sweden,Southampton,15,yes
+27,3,Emir, Mr. Farred Chehab,male,,Hadath,Lebanon,Cherbourg,,no
+28,1,Fortune, Mr. Charles Alexander,male,19,Winnipeg,Canada,Southampton,,no
+29,3,"O'Dwyer, Miss. Ellen ""Nellie""",female,,Limerick,Ireland,Queenstown,?,yes
+30,3,Todoroff, Mr. Lalio,male,,Unknown,Bulgaria,Southampton,,no
+31,1,Uruchurtu, Don. Manuel E,male,40,MexicoCity,Mexico,Cherbourg,,no
+32,1,Spencer, Mrs. William Augustus (Marie Eugenie),female,,NewYork,US,Cherbourg,6,yes
+33,3,Glynn, Miss. Mary Agatha,female,,Killaloe,Ireland,Queenstown,13,yes
+34,2,Wheadon, Mr. Edward H,male,66,Guernsey,England,Southampton,,no
+35,1,Meyer, Mr. Edgar Joseph,male,28,NewYork,US,Cherbourg,,no
+36,1,Holverson, Mr. Alexander Oskar,male,42,NewYork,US,Southampton,,no
+37,3,Mamee, Mr. Hanna,male,,Tripoli,Lebanon,Cherbourg,15,yes
+38,3,Cann, Mr. Ernest Charles,male,21,Penwithick,England,Southampton,,no
+39,3,Vander Planke, Miss. Augusta Maria,female,18,Zwevezele,Belgium,Southampton,,no
+40,3,Nicola-Yarred, Miss. Jamila,female,14,El-Hakour,Lebanon,Cherbourg,C,yes
+41,3,Ahlin, Mrs. Johan (Johanna Persdotter Larsson),female,40,Göteborg,Sweden,Southampton,,no
+42,2,Turpin, Mrs. William John Robert (Dorothy Ann Wonnacott),female,27,Plymouth,England,Southampton,,no
+43,3,Kraeff, Mr. Theodor,male,,Vetren,Bulgaria,Cherbourg,,no
+44,2,Laroche, Miss. Simonne Marie Anne Andree,female,3,Paris,France,Cherbourg,14,yes
+45,3,Devaney, Miss. Margaret Delia,female,19,Kilmacowen,Ireland,Queenstown,C,yes
+46,3,Rogers, Mr. William John,male,,Pontardawe,Wales,Southampton,,no
+47,3,Lennon, Mr. Denis,male,,Ballymahon,Ireland,Queenstown,,no
+48,3,O'Driscoll, Miss. Bridget,female,,Ballydehob,Ireland,Queenstown,D,yes
+49,3,Samaan, Mr. Youssef,male,,Hardîne,Lebanon,Cherbourg,,no
+50,3,Arnold-Franchi, Mrs. Josef (Josefine Franchi),female,18,Altdorf,Switzerland,Southampton,,no
+51,3,Panula, Master. Juha Niilo,male,7,Ylihärmä,Finland,Southampton,,no
+52,3,Nosworthy, Mr. Richard Cater,male,21,NewtonAbbot,England,Southampton,,no
+53,1,Harper, Mrs. Henry Sleeper (Myna Haxtun),female,49,NewYork,US,Cherbourg,3,yes
+54,2,Faunthorpe, Mrs. Lizzie (Elizabeth Anne Wilkinson),female,29,Manchester,England,Southampton,16,yes
+55,1,Ostby, Mr. Engelhart Cornelius,male,65,Providence,US,Southampton,,no
+56,1,Woolner, Mr. Hugh,male,,London,UK,Southampton,D,yes
+57,2,Rugg, Miss. Emily,female,21,Guernsey,England,Southampton,12,yes
+58,3,Novel, Mr. Mansouer,male,44,KafrMishki,Lebanon,Cherbourg,,no
+59,2,West, Miss. Constance Mirium,female,5,Bournemouth,England,Southampton,10,yes
+60,3,Goodwin, Master. William Frederick,male,11,Fulham,England,Southampton,,no
+61,3,Sirayanian, Mr. Orsen,male,22,Kiğı,Turkey,Cherbourg,,no
+62,1,Icard, Miss. Amelie,female,38,NewYork,US,Southampton,6,yes
+63,1,Harris, Mr. Henry Birkhardt,male,45,NewYork,US,Southampton,,no
+64,3,Skoog, Master. Harald,male,4,Hällekis,Sweden,Southampton,,no
+65,1,Stewart, Mr. Albert A,male,,Cincinnati,US,Cherbourg,,no
+66,3,Moubarek, Master. Gerios,male,,Hardîne,Lebanon,Cherbourg,C,yes
+67,2,Nye, Mrs. (Elizabeth Ramell),female,29,EastOrange,US,Southampton,11,yes
+68,3,Crease, Mr. Ernest James,male,19,Bristol,England,Southampton,,no
+69,3,Andersson, Miss. Erna Alexandra,female,17,Kullaa,Finland,Southampton,D,yes
+70,3,Kink, Mr. Vincenz,male,26,Zürich,Switzerland,Southampton,,no
+71,2,Jenkin, Mr. Stephen Curnow,male,32,St.Ives,England,Southampton,,no
+72,3,Goodwin, Miss. Lillian Amy,female,16,Fulham,England,Southampton,,no
+73,2,Hood, Mr. Ambrose Jr,male,21,Fritham,England,Southampton,,no
+74,3,Chronopoulos, Mr. Apostolos,male,26,AgiosSostis,Greece,Cherbourg,,no
+75,3,Bing, Mr. Lee,male,32,HongKong,China,Southampton,C,yes
+76,3,Moen, Mr. Sigurd Hansen,male,25,Bergen,Norway,Southampton,,no
+77,3,Staneff, Mr. Ivan,male,,Debnevo,Bulgaria,Southampton,,no
+78,3,Moutal, Mr. Rahamin Haim,male,,London,England,Southampton,,no
+79,2,Caldwell, Master. Alden Gates,male,1,Bangkok,Siam,Southampton,13,yes
+80,3,Dowdell, Miss. Elizabeth,female,30,NewYorkCity,US,Southampton,13,yes
+81,3,Waelens, Mr. Achille,male,22,Ruiselede,Belgium,Southampton,,no
+82,3,Sheerlinck, Mr. Jan Baptist,male,29,Haaltert,Belgium,Southampton,11,yes
+83,3,McDermott, Miss. Brigdet Delia,female,,Lahardane,Ireland,Queenstown,13,yes
+84,1,Carrau, Mr. Francisco M,male,28,Montevideo,Uruguay,Southampton,,no
+85,2,Ilett, Miss. Bertha,female,17,Jersey,England,Southampton,?,yes
+86,3,Backstrom, Mrs. Karl Alfred (Maria Mathilda Gustafsson),female,33,Kotka,Finland,Southampton,D,yes
+87,3,Ford, Mr. William Neal,male,16,Rotherfield,England,Southampton,,no
+88,3,Slocovski, Mr. Selman Francis,male,,London,England,Southampton,,no
+89,1,Fortune, Miss. Mabel Helen,female,23,Winnipeg,Canada,Southampton,10,yes
+90,3,Celotti, Mr. Francesco,male,24,Milan[83],Italy,Southampton,,no
+91,3,Christmann, Mr. Emil,male,29,London,England,Southampton,,no
+92,3,Andreasson, Mr. Paul Edvin,male,20,Kalfsnäs,Sweden,Southampton,,no
+93,1,Chaffee, Mr. Herbert Fuller,male,46,Amenia,US,Southampton,,no
+94,3,Dean, Mr. Bertram Frank,male,26,BartleyFarm,England,Southampton,,no
+95,3,Coxon, Mr. Daniel,male,59,London,England,Southampton,,no
+96,3,Shorney, Mr. Charles Joseph,male,,Heron'sGhyll,England,Southampton,,no
+97,1,Goldschmidt, Mr. George B,male,71,NewYork,US,Cherbourg,,no
+98,1,Greenfield, Mr. William Bertram,male,23,NewYork,US,Cherbourg,7,yes
+99,2,Doling, Mrs. John T (Ada Julia Bone),female,34,Southampton,England,Southampton,?,yes
+100,2,Kantor, Mr. Sinai,male,34,Vitebsk,RussianEmpire,Southampton,,no
+101,3,Petranec, Miss. Matilda,female,28,Vagovina,Croatia,Southampton,,no
+102,3,"Petroff, Mr. Pastcho (""Pentcho"")",male,,Belish,Bulgaria,Southampton,,no
+103,1,White, Mr. Richard Frasar,male,21,Brunswick,US,Southampton,,no
+104,3,Johansson, Mr. Gustaf Joel,male,33,Bäckebo,Sweden,Southampton,,no
+105,3,Gustafsson, Mr. Anders Vilhelm,male,37,Ruotsinpyhtää,Finland,Southampton,,no
+106,3,Mionoff, Mr. Stoytcho,male,28,Gumostnik,Bulgaria,Southampton,,no
+107,3,Salkjelsvik, Miss. Anna Kristine,female,21,Ålesund,Norway,Southampton,C,yes
+108,3,Moss, Mr. Albert Johan,male,,Bergen,Norway,Southampton,B,yes
+109,3,Rekic, Mr. Tido,male,38,BosanskaKrupa,Bosnia,Southampton,,no
+110,3,Moran, Miss. Bertha,female,,Askeaton,Ireland,Queenstown,16,yes
+111,1,Porter, Mr. Walter Chamberlain,male,47,Worcester,US,Southampton,,no
+112,3,Zabour, Miss. Hileni,female,44,Unknown,Syria,Cherbourg,,no
+113,3,Barton, Mr. David John,male,22,Cambridge,England,Southampton,,no
+114,3,Jussila, Miss. Katriina,female,20,Paavola,Finland,Southampton,,no
+115,3,Attalah, Miss. Malake,female,17,Beirut,Lebanon,Cherbourg,,no
+116,3,Pekoniemi, Mr. Edvard,male,21,Heinola,Finland,Southampton,,no
+117,3,Connors, Mr. Patrick,male,70,Charleville,Ireland,Queenstown,,no
+118,2,Turpin, Mr. William John Robert,male,29,Plymouth,England,Southampton,,no
+119,1,Baxter, Mr. Quigg Edmond,male,24,Montreal,Canada,Cherbourg,,no
+120,3,Andersson, Miss. Ellis Anna Maria,female,2,Kisa,Sweden,Southampton,,no
+121,2,Hickman, Mr. Stanley George,male,21,Fritham,England,Southampton,,no
+122,3,Moore, Mr. Leonard Charles,male,,KingstonuponThames,England,Southampton,,no
+123,2,Nasser, Mr. Nicholas,male,32,Zahlé,Lebanon,Cherbourg,,no
+124,2,Webber, Miss. Susan,female,32,Bude,England,Southampton,12,yes
+125,1,White, Mr. Percival Wayland,male,54,Brunswick,US,Southampton,,no
+126,3,Nicola-Yarred, Master. Elias,male,12,El-Hakour,Lebanon,Cherbourg,C,yes
+127,3,McMahon, Mr. Martin,male,,Craghbrien,Ireland,Queenstown,,no
+128,3,Madsen, Mr. Fridtjof Arne,male,24,Trondheim,Norway,Southampton,13,yes
+129,3,Peter, Miss. Anna,female,,Sar'al,Syria,Cherbourg,C,yes
+130,3,Ekstrom, Mr. Johan,male,45,EffingtonRut,US,Southampton,,no
+131,3,Drazenoic, Mr. Jozef,male,33,Hrastelnica,Croatia,Cherbourg,,no
+132,3,Coelho, Mr. Domingos Fernandeo,male,20,Funchal,Portugal,Southampton,,no
+133,3,Robins, Mrs. Alexander A (Grace Charity Laury),female,47,StAustell,England,Southampton,,no
+134,2,Weisz, Mrs. Leopold (Mathilde Francoise Pede),female,29,Bromsgrove,England,Southampton,10,yes
+135,2,Sobey, Mr. Samuel James Hayden,male,25,Porthallow,England,Southampton,,no
+136,2,Richard, Mr. Emile,male,23,Paris,France,Cherbourg,,no
+137,1,Newsom, Miss. Helen Monypeny,female,19,NewYork,US,Southampton,5,yes
+138,1,Futrelle, Mr. Jacques Heath,male,37,Scituate,US,Southampton,,no
+139,3,Osen, Mr. Olaf Elon,male,16,Hedesunda,Sweden,Southampton,,no
+140,1,Giglio, Mr. Victor,male,24,Paris,France,Cherbourg,,no
+141,3,Boulos, Mrs. Joseph (Sultana),female,,Unknown,Lebanon,Cherbourg,,no
+142,3,Nysten, Miss. Anna Sofia,female,22,Kisa,Sweden,Southampton,13,yes
+143,3,Hakkarainen, Mrs. Pekka Pietari (Elin Matilda Dolck),female,24,Helsinki,Finland,Southampton,15,yes
+144,3,Burke, Mr. Jeremiah,male,19,Glanmire,Ireland,Queenstown,,no
+145,2,Andrew, Mr. Edgardo Samuel,male,18,SanAmbrosio,Argentina,Southampton,,no
+146,2,Nicholls, Mr. Joseph Charles,male,19,St.Ives,England,Southampton,,no
+147,3,"Andersson, Mr. August Edvard (""Wennerstrom"")",male,27,Malmö,Sweden,Southampton,A,yes
+148,3,"Ford, Miss. Robina Maggie ""Ruby""",female,9,Rotherfield,England,Southampton,,no
+149,2,"Navratil, Mr. Michel (""Louis M Hoffman"")",male,36,Nice,France,Southampton,,no
+150,2,Byles, Rev. Thomas Roussel Davids,male,42,London,England,Southampton,,no
+151,2,Bateman, Rev. Robert James,male,51,Jacksonville,US,Southampton,,no
+152,1,Pears, Mrs. Thomas (Edith Wearne),female,22,Isleworth,England,Southampton,8,yes
+153,3,Meo, Mr. Alfonzo,male,55,Bournemouth,England,Southampton,,no
+154,3,van Billiard, Mr. Austin Blyler,male,40,London,England,Southampton,,no
+155,3,Olsen, Mr. Ole Martin,male,,Sunnhordland,Norway,Southampton,,no
+156,1,Williams, Mr. Charles Duane,male,51,Geneva,Switzerland,Cherbourg,,no
+157,3,"Gilnagh, Miss. Katherine ""Katie""",female,16,Esker,Ireland,Queenstown,16,yes
+158,3,Corn, Mr. Harry,male,30,London,England,Southampton,,no
+159,3,Smiljanic, Mr. Mile,male,,Pisac,Croatia,Southampton,,no
+160,3,Sage, Master. Thomas Henry,male,,Peterborough,England,Southampton,,no
+161,3,Cribb, Mr. John Hatfield,male,44,Bournemouth,England,Southampton,,no
+162,2,"Watt, Mrs. James (Elizabeth ""Bessie"" Inglis Milne)",female,40,Aberdeen,Scotland,Southampton,9,yes
+163,3,Bengtsson, Mr. John Viktor,male,26,Fridhemsberg,Sweden,Southampton,,no
+164,3,Calic, Mr. Jovo,male,17,Brezik,Croatia,Southampton,,no
+165,3,Panula, Master. Eino Viljami,male,1,Ylihärmä,Finland,Southampton,,no
+166,3,"Goldsmith, Master. Frank John William ""Frankie""",male,9,Strood,England,Southampton,C,yes
+167,1,Chibnall, Mrs. (Edith Martha Bowerman),female,,StLeonards-on-Sea,England,Southampton,6,yes
+168,3,Skoog, Mrs. William (Anna Bernhardina Karlsson),female,45,Hällekis,Sweden,Southampton,,no
+169,1,Baumann, Mr. John D,male,,NewYork,US,Cherbourg,,no
+170,3,Ling, Mr. Lee,male,28,HongKong,China,Southampton,,no
+171,1,Van der hoef, Mr. Wyckoff,male,61,Brooklyn,US,Belfast,,no
+172,3,Rice, Master. Arthur,male,4,Athlone,Ireland,Queenstown,,no
+173,3,Johnson, Miss. Eleanor Ileen,female,1,St.Charles,US,Southampton,15,yes
+174,3,Sivola, Mr. Antti Wilhelm,male,21,MountainHome,US,Southampton,,no
+175,1,Smith, Mr. James Clinch,male,56,Paris,France,Cherbourg,,no
+176,3,Klasen, Mr. Klas Albin,male,18,Grimshut,Sweden,Southampton,,no
+177,3,Lefebre, Master. Henry Forbes,male,,Liévin,France,Southampton,,no
+178,1,Isham, Miss. Ann Elizabeth,female,50,Chicago,US,Cherbourg,,no
+179,2,Hale, Mr. Reginald,male,30,Auburn,US,Southampton,,no
+180,3,Leonard, Mr. Lionel,male,36,NewYorkCity,US,Southampton,,no
+181,3,Sage, Miss. Constance Gladys,female,,Peterborough,England,Southampton,,no
+182,2,Pernot, Mr. Rene,male,,Paris,France,Cherbourg,,no
+183,3,Asplund, Master. Clarence Gustaf Hugo,male,9,Alseda,Sweden,Southampton,,no
+184,2,Becker, Master. Richard F,male,1,Guntur,BritishIndia,Southampton,11,yes
+185,3,Kink-Heilmann, Miss. Luise Gretchen,female,4,Zürich,Switzerland,Southampton,2,yes
+186,1,Rood, Mr. Hugh Roscoe,male,,Seattle,US,Southampton,,no
+187,3,"O'Brien, Mrs. Thomas (Johanna ""Hannah"" Godfrey)",female,,Pallasgreen,Ireland,Queenstown,?,yes
+188,1,"Romaine, Mr. Charles Hallace (""Mr C Rolmane"")",male,45,NewYork,US,Southampton,9,yes
+189,3,Bourke, Mr. John,male,40,Carrowskehine,Ireland,Queenstown,,no
+190,3,Turcin, Mr. Stjepan,male,36,Bratina,Croatia,Southampton,,no
+191,2,Pinsky, Mrs. (Rosa),female,32,Brooklyn,US,Southampton,9,yes
+192,2,Carbines, Mr. William,male,19,St.Ives,England,Southampton,,no
+193,3,Andersen-Jensen, Miss. Carla Christine Nielsine,female,19,Eskilstrup,Denmark,Southampton,16,yes
+194,2,Navratil, Master. Michel M,male,3,Nice,France,Southampton,D,yes
+195,1,Brown, Mrs. James Joseph (Margaret Tobin),female,44,Denver,US,Cherbourg,6,yes
+196,1,Lurette, Miss. Elise,female,58,NewYork,US,Cherbourg,6,yes
+197,3,Mernagh, Mr. Robert,male,,Ballywilliam,Ireland,Queenstown,,no
+198,3,Olsen, Mr. Karl Siegwart Andreas,male,42,Trondheim,Norway,Southampton,,no
+199,3,"Madigan, Miss. Margaret ""Maggie""",female,,Askeaton,Ireland,Queenstown,15,yes
+200,2,"Yrois, Miss. Henriette (""Mrs Harbeck"")",female,24,Paris,France,Southampton,,no
+201,3,Vande Walle, Mr. Nestor Cyriel,male,28,Westrozebeke,Belgium,Southampton,,no
+202,3,Sage, Mr. Frederick,male,,Peterborough,England,Southampton,,no
+203,3,Johanson, Mr. Jakob Alfred,male,34,Munsala,Finland,Southampton,,no
+204,3,Youseff, Mr. Gerious,male,45,Hardîne,Lebanon,Cherbourg,,no
+205,3,"Cohen, Mr. Gurshon ""Gus""",male,18,London,England,Southampton,12,yes
+206,3,Strom, Miss. Telma Matilda,female,2,IndianaHarbor,US,Southampton,,no
+207,3,Backstrom, Mr. Karl Alfred,male,32,Kotka,Finland,Southampton,,no
+208,3,Albimona, Mr. Nassef Cassem,male,26,Fredericksburg,US,Cherbourg,15,yes
+209,3,"Carr, Miss. Helen ""Ellen""",female,16,Corglass,Ireland,Queenstown,16,yes
+210,1,Blank, Mr. Henry,male,40,GlenRidge,US,Cherbourg,7,yes
+211,3,Ali, Mr. Ahmed,male,24,BuenosAires,Argentina,Southampton,,no
+212,2,Cameron, Miss. Clear Annie,female,35,London,UK,Southampton,14,yes
+213,3,Perkin, Mr. John Henry,male,22,Holsworthy,England,Southampton,,no
+214,2,Givard, Mr. Hans Kristensen,male,30,Kølsen,Denmark,Southampton,,no
+215,3,Kiernan, Mr. Philip,male,,Aughnacliffe,Ireland,Queenstown,,no
+216,1,Newell, Miss. Madeleine,female,31,Lexington,US,Cherbourg,6,yes
+217,3,Honkanen, Miss. Eliina,female,27,Saarijärvi,Finland,Southampton,?,yes
+218,2,Jacobsohn, Mr. Sidney Samuel,male,42,London,England,Southampton,,no
+219,1,Bazzani, Miss. Albina,female,32,Philadelphia,US,Cherbourg,8,yes
+220,2,Harris, Mr. Walter,male,30,London,England,Southampton,,no
+221,3,Sunderland, Mr. Victor Francis,male,16,London,England,Southampton,B,yes
+222,2,Bracken, Mr. James H,male,27,LakeArthur,US,Southampton,,no
+223,3,Green, Mr. George Henry,male,51,Dorking,England,Southampton,,no
+224,3,Nenkoff, Mr. Christo,male,,Unknown,Bulgaria,Southampton,,no
+225,1,Hoyt, Mr. Frederick Maxfield,male,38,NewYork,US,Southampton,D,yes
+226,3,Berglund, Mr. Karl Ivar Sven,male,22,Firtby,Finland,Southampton,,no
+227,2,Mellors, Mr. William John,male,19,Chelsea,England,Southampton,B,yes
+228,3,"Lovell, Mr. John Hall (""Henry"")",male,44336,Northlew,England,Southampton,,no
+229,2,Fahlstrom, Mr. Arne Jonas,male,18,Oslo,Norway,Southampton,,no
+230,3,Lefebre, Miss. Mathilde,female,,Liévin,France,Southampton,,no
+231,1,Harris, Mrs. Henry Birkhardt (Irene Wallach),female,35,NewYork,US,Southampton,D,yes
+232,3,Larsson, Mr. Bengt Edvin,male,29,Nyköping,Sweden,Southampton,,no
+233,2,Sjostedt, Mr. Ernst Adolf,male,59,Hjo,Sweden,Southampton,10,no
+234,3,Asplund, Miss. Lillian Gertrud,female,5,Alseda,Sweden,Southampton,15,yes
+235,2,Leyson, Mr. Robert William Norman,male,24,London,England,Southampton,,no
+236,3,Harknett, Miss. Alice Phoebe,female,,ThorntonHeath,England,Southampton,,no
+237,2,Hold, Mr. Stephen,male,44,Porthoustock,England,Southampton,,no
+238,2,"Collyer, Miss. Marjorie ""Lottie""",female,8,Bishopstoke,England,Southampton,14,yes
+239,2,Pengelly, Mr. Frederick William,male,19,Gunnislake,England,Southampton,,no
+240,2,Hunt, Mr. George Henry,male,33,Philadelphia,US,Southampton,,no
+241,3,Zabour, Miss. Thamine,female,,Unknown,Syria,Cherbourg,,no
+242,3,"Murphy, Miss. Katherine ""Kate""",female,,Aghnacliffe,Ireland,Queenstown,16,yes
+243,2,Coleridge, Mr. Reginald Charles,male,29,London,England,Southampton,,no
+244,3,Maenpaa, Mr. Matti Alexanteri,male,22,Kauhajoki,Finland,Southampton,,no
+245,3,Attalah, Mr. Sleiman,male,30,Ottawa,Canada,Cherbourg,,no
+246,1,Minahan, Dr. William Edward,male,44,FondduLac,US,Southampton,,no
+247,3,Lindahl, Miss. Agda Thorilda Viktoria,female,25,Stockholm,Sweden,Southampton,,no
+248,2,Hamalainen, Mrs. William (Anna),female,24,Detroit,US,Southampton,4,yes
+249,1,Beckwith, Mr. Richard Leonard,male,37,NewYork,US,Southampton,5,yes
+250,2,Carter, Rev. Ernest Courtenay,male,54,London,UK,Southampton,,no
+251,3,Reed, Mr. James George,male,,Penarth,Wales,Southampton,,no
+252,3,Strom, Mrs. Wilhelm (Elna Matilda Persson),female,29,IndianaHarbor,US,Southampton,,no
+253,1,Stead, Mr. William Thomas,male,62,London,UK,Southampton,,no
+254,3,Lobb, Mr. William Arthur,male,30,Scranton,US,Southampton,,no
+255,3,Rosblom, Mrs. Viktor (Helena Wilhelmina),female,41,Suistamo,Finland,Southampton,,no
+256,3,Touma, Mrs. Darwis (Hanne Youssef Razi),female,29,Tibnin,Lebanon,Cherbourg,C,yes
+257,1,Thorne, Mrs. Gertrude Maybelle,female,,NewYork,US,Cherbourg,D,yes
+258,1,Cherry, Miss. Gladys,female,30,London,UK,Southampton,8,yes
+259,1,Ward, Miss. Anna,female,35,Germantown,US,Cherbourg,3,yes
+260,2,Parrish, Mrs. (Lutie Davis),female,50,WoodfordCounty,US,Southampton,12,yes
+261,3,Smith, Mr. Thomas,male,,Caltra,Ireland,Queenstown,,no
+262,3,Asplund, Master. Edvin Rojj Felix,male,3,Alseda,Sweden,Southampton,15,yes
+263,1,Taussig, Mr. Emil,male,52,NewYork,US,Southampton,,no
+264,1,Harrison, Mr. William,male,40,Wallasey,England,Southampton,,no
+265,3,Henry, Miss. Delia,female,,Clonown,Ireland,Queenstown,,no
+266,2,Reeves, Mr. David,male,36,Slinfold,England,Southampton,,no
+267,3,Panula, Mr. Ernesti Arvid,male,16,Ylihärmä,Finland,Southampton,,no
+268,3,Persson, Mr. Ernst Ulrik,male,25,Stockholm,Sweden,Southampton,15,yes
+269,1,Graham, Mrs. William Thompson (Edith Junkins),female,58,Greenwich,US,Southampton,3,yes
+270,1,Bissette, Miss. Amelia,female,35,NewYork,US,Cherbourg,8,yes
+271,1,Cairns, Mr. Alexander,male,,BrynMawr,US,Southampton,,no
+272,3,Tornquist, Mr. William Henry,male,25,Sundbyberg,Sweden,Southampton,15,yes
+273,2,Mellinger, Mrs. (Elizabeth Anne Maidment),female,41,Wimbledon,England,Southampton,14,yes
+274,1,Natsch, Mr. Charles H,male,37,Brooklyn,US,Cherbourg,,no
+275,3,"Healy, Miss. Hanora ""Nora""",female,,Athenry,Ireland,Queenstown,16,yes
+276,1,Andrews, Miss. Kornelia Theodosia,female,63,Hudson,US,Cherbourg,10,yes
+277,3,Lindblom, Miss. Augusta Charlotta,female,45,Stockholm,Sweden,Southampton,,no
+278,2,"Parkes, Mr. Francis ""Frank""",male,,Belfast,Ireland,Belfast,,no
+279,3,Rice, Master. Eric,male,7,Athlone,Ireland,Queenstown,,no
+280,3,Abbott, Mrs. Stanton (Rosa Hunt),female,35,EastProvidence,US,Southampton,A,yes
+281,3,Duane, Mr. Frank,male,65,Bunmahon,Ireland,Queenstown,,no
+282,3,Olsson, Mr. Nils Johan Goransson,male,28,Eslöv,Sweden,Southampton,,no
+283,3,de Pelsmaeker, Mr. Alfons,male,16,Heldergem,EastFlanders,Southampton,,no
+284,3,Dorking, Mr. Edward Arthur,male,19,Liss,England,Southampton,B,yes
+285,1,Smith, Mr. Richard William,male,,Streatham,England,Southampton,,no
+286,3,Stankovic, Mr. Ivan,male,33,Galdovo,Croatia,Cherbourg,,no
+287,3,de Mulder, Mr. Theodore,male,30,Aspelare,Belgium,Southampton,11,yes
+288,3,Naidenoff, Mr. Penko,male,22,Gumostnik,Bulgaria,Southampton,,no
+289,2,Hosono, Mr. Masabumi,male,42,Tokyo,Japan,Southampton,10,yes
+290,3,Connolly, Miss. Kate,female,22,Cortrasna,Ireland,Queenstown,13,yes
+291,1,"Barber, Miss. Ellen ""Nellie""",female,26,London,UK,Southampton,6,yes
+292,1,Bishop, Mrs. Dickinson H (Helen Walton),female,19,Dowagiac,US,Cherbourg,7,yes
+293,2,Levy, Mr. Rene Jacques,male,36,Montreal,Canada,Cherbourg,,no
+294,3,Haas, Miss. Aloisia,female,24,Altdorf,Switzerland,Southampton,,no
+295,3,Mineff, Mr. Ivan,male,24,Unknown,Bulgaria,Southampton,,no
+296,1,Lewy, Mr. Ervin G,male,,Chicago,US,Cherbourg,,no
+297,3,Hanna, Mr. Mansour,male,44339,KfarMechi,Syria,Cherbourg,,no
+298,1,Allison, Miss. Helen Loraine,female,2,Montreal,Canada,Southampton,,no
+299,1,Saalfeld, Mr. Adolphe,male,,Manchester,UK,Southampton,3,yes
+300,1,Baxter, Mrs. James (Helene DeLaudeniere Chaput),female,50,Montreal,Canada,Cherbourg,6,yes
+301,3,"Kelly, Miss. Anna Katherine ""Annie Kate""",female,,Cuilmullagh,Ireland,Queenstown,16,yes
+302,3,McCoy, Mr. Bernard,male,,Carrickatane,Ireland,Queenstown,16,yes
+303,3,Johnson, Mr. William Cahoone Jr,male,19,Hawthorne,US,Southampton,,no
+304,2,Keane, Miss. Nora A,female,,Castleconnell,Ireland[note1],Queenstown,10,yes
+305,3,"Williams, Mr. Howard Hugh ""Harry""",male,,Guernsey,ChannelIslands,Southampton,,no
+306,1,Allison, Master. Hudson Trevor,male,0.92,Montreal,Canada,Southampton,11,yes
+307,1,Fleming, Miss. Margaret,female,,Haverford,US,Cherbourg,4,yes
+308,1,Penasco y Castellana, Mrs. Victor de Satode (Maria Josefa Perez de Soto y Vallejo),female,17,Madrid,Spain,Cherbourg,8,yes
+309,2,Abelson, Mr. Samuel,male,30,Russia,RussianEmpire,Cherbourg,,no
+310,1,Francatelli, Miss. Laura Mabel,female,30,London,UK,Cherbourg,1,yes
+311,1,Hays, Miss. Margaret Bechstein,female,24,NewYork,US,Cherbourg,7,yes
+312,1,Ryerson, Miss. Emily Borie,female,18,Cooperstown,US,Cherbourg,4,yes
+313,2,Lahtinen, Mrs. William (Anna Sylfven),female,26,Minneapolis,US,Southampton,,no
+314,3,Hendekovic, Mr. Ignjac,male,28,Vagovina,Croatia,Southampton,,no
+315,2,Hart, Mr. Benjamin,male,43,Ilford,England,Southampton,,no
+316,3,Nilsson, Miss. Helmina Josefina,female,26,Ramkvilla,Sweden,Southampton,13,yes
+317,2,Kantor, Mrs. Sinai (Miriam Sternin),female,24,Vitebsk,RussianEmpire,Southampton,12,yes
+318,2,Moraweck, Dr. Ernest,male,54,Frankfort,US,Southampton,,no
+319,1,Wick, Miss. Mary Natalie,female,31,Youngstown,US,Southampton,8,yes
+320,1,Spedden, Mrs. Frederic Oakley (Margaretta Corning Stone),female,40,TuxedoPark,US,Cherbourg,3,yes
+321,3,Dennis, Mr. Samuel,male,22,WeekStMary,England,Southampton,,no
+322,3,Danoff, Mr. Yoto,male,27,Unknown,Bulgaria,Southampton,,no
+323,2,Slayter, Miss. Hilda Mary,female,30,Halifax,Canada,Queenstown,13,yes
+324,2,Caldwell, Mrs. Albert Francis (Sylvia Mae Harbaugh),female,22,Bangkok,Siam,Southampton,13,yes
+325,3,Sage, Mr. George John Jr,male,,Peterborough,England,Southampton,,no
+326,1,Young, Miss. Marie Grice,female,36,NewYork,US,Cherbourg,8,yes
+327,3,Nysveen, Mr. Johan Hansen,male,61,Øyer,Norway,Southampton,,no
+328,2,Ball, Mrs. (Ada E Hall),female,36,Bristol,England,Southampton,10,yes
+329,3,Goldsmith, Mrs. Frank John (Emily Alice Brown),female,31,Strood,England,Southampton,C,yes
+330,1,Hippach, Miss. Jean Gertrude,female,16,Chicago,US,Cherbourg,4,yes
+331,3,McCoy, Miss. Agnes,female,,Carrickatane,Ireland,Queenstown,16,yes
+332,1,Partner, Mr. Austen,male,45,Tolworth,England,Southampton,,no
+333,1,Graham, Mr. George Edward,male,38,Winnipeg,Canada,Southampton,,no
+334,3,Vander Planke, Mr. Leo Edmondus,male,16,Zwevezele,Belgium,Southampton,,no
+335,1,Frauenthal, Mrs. Henry William (Clara Heinsheimer),female,,London,England,Southampton,5,yes
+336,3,Denkoff, Mr. Mitto,male,,Unknown,Bulgaria,Southampton,,no
+337,1,Pears, Mr. Thomas Clinton,male,29,Isleworth,England,Southampton,,no
+338,1,Burns, Miss. Elizabeth Margaret,female,41,TuxedoPark,US,Cherbourg,3,yes
+339,3,Dahl, Mr. Karl Edwart,male,45,Adelaide,Australia,Southampton,15,yes
+340,1,Blackwell, Mr. Stephen Weart,male,45,Trenton,US,Southampton,,no
+341,2,Navratil, Master. Edmond Roger,male,2,Nice,France,Southampton,D,yes
+342,1,Fortune, Miss. Alice Elizabeth,female,24,Winnipeg,Canada,Southampton,10,yes
+343,2,Collander, Mr. Erik Gustaf,male,28,Helsinki,RussianEmpire,Southampton,,no
+344,2,Sedgwick, Mr. Charles Frederick Waddington,male,25,Liverpool,England,Southampton,,no
+345,2,Fox, Mr. Stanley Hubert,male,36,Rochester,US,Southampton,,no
+346,2,"Brown, Miss. Amelia ""Mildred""",female,24,London,England,Southampton,11,yes
+347,2,Smith, Miss. Marion Elsie,female,40,Basingstoke,England,Southampton,9,yes
+348,3,Davison, Mrs. Thomas Henry (Mary E Finck),female,,,,,,yes
+349,3,"Coutts, Master. William Loch ""William""",male,3,London,England,Southampton,2,yes
+350,3,Dimic, Mr. Jovan,male,42,Ostrovica,Croatia,Southampton,,no
+351,3,Odahl, Mr. Nils Martin,male,23,Örsjö,Sweden,Southampton,,no
+352,1,Williams-Lambert, Mr. Fletcher Fellows,male,,London,UK,Southampton,,no
+353,3,Elias, Mr. Tannous,male,15,KafrMishki,Lebanon,Cherbourg,,no
+354,3,Arnold-Franchi, Mr. Josef,male,25,Altdorf,Switzerland,Southampton,,no
+355,3,Yousif, Mr. Wazli,male,,Tebnin,Lebanon,Cherbourg,,no
+356,3,Vanden Steen, Mr. Leo Peter,male,28,Haaltert,Belgium,Southampton,,no
+357,1,Bowerman, Miss. Elsie Edith,female,22,StLeonards-on-Sea,England,Southampton,6,yes
+358,2,Funk, Miss. Annie Clemmer,female,38,Janjgir-Champa,UK,Southampton,,no
+359,3,McGovern, Miss. Mary,female,,Corlough,Ireland,Queenstown,13,yes
+360,3,"Mockler, Miss. Helen Mary ""Ellie""",female,,Currafarry,Ireland,Queenstown,16,yes
+361,3,Skoog, Mr. Wilhelm,male,40,Hällekis,Sweden,Southampton,,no
+362,2,del Carlo, Mr. Sebastiano,male,29,Lucca,Italy,Cherbourg,,no
+363,3,Barbara, Mrs. (Catherine David),female,45,KafrMishki,Lebanon,Cherbourg,,no
+364,3,Asim, Mr. Adola,male,35,BuenosAires,Argentina,Southampton,,no
+365,3,O'Brien, Mr. Thomas,male,,Pallasgreen,Ireland,Queenstown,,no
+366,3,Adahl, Mr. Mauritz Nils Martin,male,30,Asarum,Sweden,Southampton,,no
+367,1,Warren, Mrs. Frank Manley (Anna Sophia Atkinson),female,60,Portland,US,Cherbourg,5,yes
+368,3,Moussa, Mrs. (Mantoura Boulos),female,,Hardîne,Lebanon,Cherbourg,?,yes
+369,3,Jermyn, Miss. Annie,female,,Ballydehob,Ireland,Queenstown,D,yes
+370,1,Aubart, Mme. Leontine Pauline,female,24,Paris,France,Cherbourg,9,yes
+371,1,Harder, Mr. George Achilles,male,25,NewYork,US,Cherbourg,5,yes
+372,3,Wiklund, Mr. Jakob Alfred,male,18,Vaasa,Finland,Southampton,,no
+373,3,Beavan, Mr. William Thomas,male,19,Fillingham,England,Southampton,,no
+374,1,Ringhini, Mr. Sante,male,22,NewYork,US,Cherbourg,,no
+375,3,Palsson, Miss. Stina Viola,female,3,Bjuv,Sweden,Southampton,,no
+376,1,Meyer, Mrs. Edgar Joseph (Leila Saks),female,,NewYork,US,Cherbourg,6,yes
+377,3,Landergren, Miss. Aurora Adelia,female,22,Karlshamn,Sweden,Southampton,13,yes
+378,1,Widener, Mr. Harry Elkins,male,27,Philadelphia,US,Southampton,,no
+379,3,Betros, Mr. Tannous,male,20,Zgharta,Lebanon,Cherbourg,,no
+380,3,Gustafsson, Mr. Karl Gideon,male,19,Myren,Sweden,Southampton,,no
+381,1,Bidois, Miss. Rosalie,female,42,NewYork,US,Cherbourg,4,yes
+382,3,"Nakid, Miss. Maria (""Mary"")",female,1,Zgharta,Lebanon,Cherbourg,C,yes
+383,3,Tikkanen, Mr. Juho,male,32,Pielavesi,Finland,Southampton,,no
+384,1,Holverson, Mrs. Alexander Oskar (Mary Aline Towner),female,35,NewYork,US,Southampton,8,yes
+385,3,Plotcharsky, Mr. Vasil,male,,Unknown,Bulgaria,Southampton,,no
+386,2,Davies, Mr. Charles Henry,male,18,Lyndhurst,England,Southampton,,no
+387,3,Goodwin, Master. Sidney Leonard,male,1,Fulham,England,Southampton,,no
+388,2,Buss, Miss. Kate,female,36,Sittingbourne,England,Southampton,9,yes
+389,3,Sadlier, Mr. Matthew,male,,Mohill,Ireland,Queenstown,,no
+390,2,Lehmann, Miss. Bertha,female,17,Lotzwil,Switzerland,Cherbourg,12,yes
+391,1,Carter, Mr. William Ernest,male,36,BrynMawr,US,Southampton,C,yes
+392,3,Jansson, Mr. Carl Olof,male,21,Örebro,Sweden,Southampton,A,yes
+393,3,Gustafsson, Mr. Johan Birger,male,28,Ruotsinpyhtää,Finland,Southampton,,no
+394,1,Newell, Miss. Marjorie,female,23,Lexington,US,Cherbourg,6,yes
+395,3,Sandstrom, Mrs. Hjalmar (Agnes Charlotta Bengtsson),female,24,Motala,Sweden,Southampton,13,yes
+396,3,Johansson, Mr. Erik,male,22,Frostensmåla,Sweden,Southampton,,no
+397,3,Olsson, Miss. Elina,female,31,SödraBrantevik,Sweden,Southampton,,no
+398,2,McKane, Mr. Peter David,male,46,Guernsey,England,Southampton,,no
+399,2,Pain, Dr. Alfred,male,23,Hamilton,Canada,Southampton,,no
+400,2,Trout, Mrs. William H (Jessie L),female,28,Columbus,US,Southampton,9,yes
+401,3,Niskanen, Mr. Juha,male,39,Kivijärvi,Finland,Southampton,9,yes
+402,3,Adams, Mr. John,male,26,Bournemouth,England,Southampton,,no
+403,3,Jussila, Miss. Mari Aina,female,21,Paavola,Finland,Southampton,,no
+404,3,Hakkarainen, Mr. Pekka Pietari,male,28,Helsinki,Finland,Southampton,,no
+405,3,Oreskovic, Miss. Marija,female,20,KonjskoBrdo,Croatia,Southampton,,no
+406,2,Gale, Mr. Shadrach,male,34,Harrowbarrow,England,Southampton,,no
+407,3,Widegren, Mr. Carl/Charles Peter,male,51,Algutsrum,Sweden,Southampton,,no
+408,2,Richards, Master. William Rowe,male,3,Penzance,England,Southampton,4,yes
+409,3,Birkeland, Mr. Hans Martin Monsen,male,21,Bremnes,Norway,Southampton,,no
+410,3,Lefebre, Miss. Ida,female,,Liévin,France,Southampton,,no
+411,3,Sdycoff, Mr. Todor,male,,Unknown,Bulgaria,Southampton,,no
+412,3,Hart, Mr. Henry,male,,Ballysadare,Ireland,Queenstown,,no
+413,1,Minahan, Miss. Daisy E,female,33,FondduLac,US,Southampton,14,yes
+414,2,Cunningham, Mr. Alfred Fleming,male,,Belfast,Ireland,Belfast,,no
+415,3,Sundman, Mr. Johan Julian,male,44,Munsala,Finland,Southampton,15,yes
+416,3,Meek, Mrs. Thomas (Annie Louise Rowley),female,,Penarth,Wales,Southampton,,no
+417,2,Drew, Mrs. James Vivian (Lulu Thorne Christian),female,34,Greenport,US,Southampton,10,yes
+418,2,Silven, Miss. Lyyli Karoliina,female,18,Tornio,RussianEmpire,Southampton,16,yes
+419,2,Matthews, Mr. William John,male,30,StAustell,England,Southampton,,no
+420,3,Van Impe, Miss. Catharina,female,10,Kerksken,Belgium,Southampton,,no
+421,3,Gheorgheff, Mr. Stanio,male,,Unknown,Bulgaria,Cherbourg,,no
+422,3,Charters, Mr. David,male,21,Ballinalee,Ireland,Queenstown,,no
+423,3,Zimmerman, Mr. Leo,male,29,Todtmoos,Bulgaria,Southampton,,no
+424,3,Danbom, Mrs. Ernst Gilbert (Anna Sigrid Maria Brogren),female,28,Göteborg,Sweden,Southampton,,no
+425,3,Rosblom, Mr. Viktor Richard,male,18,Suistamo,Finland,Southampton,,no
+426,3,Wiseman, Mr. Phillippe,male,,London,England,Southampton,,no
+427,2,Clarke, Mrs. Charles V (Ada Maria Winfield),female,28,NetleyAbbey,England,Southampton,14,yes
+428,2,"Phillips, Miss. Kate Florence (""Mrs Kate Louise Phillips Marshall"")",female,19,Birmingham,England,Southampton,11,yes
+429,3,Flynn, Mr. James,male,,Cuilkillew,Ireland,Queenstown,,no
+430,3,Pickard, Mr. Berk (Berk Trembisky),male,32,Warsaw,Poland,Southampton,9,yes
+431,1,Bjornstrom-Steffansson, Mr. Mauritz Hakan,male,28,Stockholm,Sweden,Southampton,D,yes
+432,3,Thorneycroft, Mrs. Percival (Florence Kate White),female,,Maidstone,England,Southampton,10,yes
+433,2,Louch, Mrs. Charles Alexander (Alice Adelaide Slow),female,42,Weston-super-Mare,England,Southampton,14,yes
+434,3,Kallio, Mr. Nikolai Erland,male,17,Kauhajoki,Finland,Southampton,,no
+435,1,Silvey, Mr. William Baird,male,50,Duluth,US,Cherbourg,,no
+436,1,Carter, Miss. Lucile Polk,female,14,BrynMawr,US,Southampton,4,yes
+437,3,"Ford, Miss. Doolina Margaret ""Daisy""",female,21,Rotherfield,England,Southampton,,no
+438,2,Richards, Mrs. Sidney (Emily Hocking),female,24,Penzance,England,Southampton,4,yes
+439,1,Fortune, Mr. Mark,male,64,Winnipeg,Canada,Southampton,,no
+440,2,Kvillner, Mr. Johan Henrik Johannesson,male,31,Trollhättan,Sweden,Southampton,,no
+441,2,Hart, Mrs. Benjamin (Esther Ada Bloomfield),female,45,Ilford,England,Southampton,14,yes
+442,3,Hampe, Mr. Leon,male,20,Westrozebeke,Belgium,Southampton,,no
+443,3,Petterson, Mr. Johan Emil,male,25,Västermo,Sweden,Southampton,,no
+444,2,Reynaldo, Ms. Encarnacion,female,28,Marbella,Spain,Southampton,9,yes
+445,3,Johannesen-Bratthammer, Mr. Bernt,male,,Avaldsnes,Norway,Southampton,13,yes
+446,1,Dodge, Master. Washington,male,4,SanFrancisco,US,Southampton,5,yes
+447,2,Mellinger, Miss. Madeleine Violet,female,13,Wimbledon,England,Southampton,14,yes
+448,1,Seward, Mr. Frederic Kimber,male,34,NewYork,US,Southampton,7,yes
+449,3,Baclini, Miss. Marie Catherine,female,5,ḐuhūrashShuwayr,Lebanon,Cherbourg,C,yes
+450,1,Peuchen, Major. Arthur Godfrey,male,52,Toronto,Canada,Southampton,6,yes
+451,2,West, Mr. Edwy Arthur,male,36,Bournemouth,England,Southampton,,no
+452,3,Hagland, Mr. Ingvald Olai Olsen,male,,Skaare,Norway,Southampton,,no
+453,1,Foreman, Mr. Benjamin Laventall,male,30,NewYork,US,Southampton,,no
+454,1,Goldenberg, Mr. Samuel L,male,49,Paris,France,Cherbourg,5,yes
+455,3,Peduzzi, Mr. Joseph,male,,London,England,Southampton,,no
+456,3,Jalsevac, Mr. Ivan,male,29,Topolovac,Croatia,Cherbourg,15,yes
+457,1,Millet, Mr. Francis Davis,male,65,EastBridgewater,US,Cherbourg,,no
+458,1,Kenyon, Mrs. Frederick R (Marion),female,,Pittsburgh,US,Southampton,8,yes
+459,2,Toomey, Miss. Ellen,female,50,Indianapolis,US,Southampton,9,yes
+460,3,O'Connor, Mr. Maurice,male,,Boherbue,Ireland,Queenstown,,no
+461,1,Anderson, Mr. Harry,male,48,NewYork,US,Southampton,3,yes
+462,3,Morley, Mr. William,male,34,Petworth,England,Southampton,,no
+463,1,Gee, Mr. Arthur H,male,47,StAnnes-on-Sea,England,Southampton,,no
+464,2,Milling, Mr. Jacob Christian,male,48,Odense,Denmark,Southampton,,no
+465,3,Maisner, Mr. Simon,male,,London,England,Southampton,,no
+466,3,Goncalves, Mr. Manuel Estanslas,male,38,Calheta,Portugal,Southampton,,no
+467,2,Campbell, Mr. William,male,,Belfast,Ireland,Belfast,,no
+468,1,Smart, Mr. John Montgomery,male,56,Kildale,England,Southampton,,no
+469,3,Scanlan, Mr. James,male,,Rathkeale,Ireland,Queenstown,,no
+470,3,Baclini, Miss. Helene Barbara,female,0.75,ḐuhūrashShuwayr,Lebanon,Cherbourg,C,yes
+471,3,Keefe, Mr. Arthur,male,,Rahway,US,Southampton,A,no
+472,3,Cacic, Mr. Luka,male,38,ŠirokaKula,Croatia,Southampton,,no
+473,2,West, Mrs. Edwy Arthur (Ada Mary Worth),female,33,Bournemouth,England,Southampton,10,yes
+474,2,Jerwan, Mrs. Amin S (Marie Marthe Thuillard),female,23,NewYorkCity,US,Southampton,11,yes
+475,3,Strandberg, Miss. Ida Sofia,female,22,Turku,Finland,Southampton,,no
+476,1,Clifford, Mr. George Quincy,male,,Stoughton,US,Southampton,,no
+477,2,Renouf, Mr. Peter Henry,male,34,Elizabeth,US,Southampton,,no
+478,3,Braund, Mr. Lewis Richard,male,29,Bridgerule,England,Southampton,,no
+479,3,Karlsson, Mr. Nils August,male,22,Örebro,Sweden,Southampton,,no
+480,3,Hirvonen, Miss. Hildur E,female,2,Taalintehdas,Finland,Southampton,15,yes
+481,3,Goodwin, Master. Harold Victor,male,9,Fulham,England,Southampton,,no
+482,2,"Frost, Mr. Anthony Wood ""Archie""",male,,Belfast,UK,Belfast,,no
+483,3,Rouse, Mr. Richard Henry,male,50,Sittingbourne,England,Southampton,,no
+484,3,Turkula, Mrs. (Hedwig),female,63,Jalasjärvi,Finland,Southampton,15,yes
+485,1,Bishop, Mr. Dickinson H,male,25,Dowagiac,US,Cherbourg,7,yes
+486,3,Lefebre, Miss. Jeannie,female,,Liévin,France,Southampton,,no
+487,1,Hoyt, Mrs. Frederick Maxfield (Jane Anne Forby),female,35,NewYork,US,Southampton,D,yes
+488,1,Kent, Mr. Edward Austin,male,58,Buffalo,US,Cherbourg,,no
+489,3,Somerton, Mr. Francis William,male,30,Greatfield,England,Southampton,,no
+490,3,"Coutts, Master. Eden Leslie ""Neville""",male,9,London,England,Southampton,2,yes
+491,3,Hagland, Mr. Konrad Mathias Reiersen,male,,Skaare,Norway,Southampton,,no
+492,3,Windelov, Mr. Einar,male,21,CapeTown,SouthAfrica,Southampton,,no
+493,1,Molson, Mr. Harry Markland,male,55,Montreal,Canada,Southampton,,no
+494,1,Artagaveytia, Mr. Ramon,male,71,BuenosAires,Argentina,Cherbourg,,no
+495,3,Stanley, Mr. Edward Roland,male,21,Swanage,England,Southampton,,no
+496,3,Yousseff, Mr. Gerious,male,,Hardîne,Lebanon,Cherbourg,,no
+497,1,Eustis, Miss. Elizabeth Mussey,female,54,Brookline,US,Cherbourg,4,yes
+498,3,Shellard, Mr. Frederick William,male,,Bristol,England,Southampton,,no
+499,1,Allison, Mrs. Hudson J C (Bessie Waldo Daniels),female,25,Montreal,Canada,Southampton,,no
+500,3,Svensson, Mr. Olof,male,24,Björkeberga,Sweden,Southampton,,no
+501,3,Calic, Mr. Petar,male,17,Brezik,Croatia,Southampton,,no
+502,3,Canavan, Miss. Mary,female,21,Tonacrick,Ireland,Queenstown,,no
+503,3,O'Sullivan, Miss. Bridget Mary,female,,Glenduff,Ireland,Queenstown,,no
+504,3,Laitinen, Miss. Kristina Sofia,female,37,Helsinki,Finland,Southampton,,no
+505,1,Maioni, Miss. Roberta,female,16,Vancouver,Canada,Southampton,8,yes
+506,1,Penasco y Castellana, Mr. Victor de Satode,male,18,Madrid,Spain,Cherbourg,,no
+507,2,Quick, Mrs. Frederick Charles (Jane Richards),female,33,Plymouth,England,Southampton,11,yes
+508,1,"Bradley, Mr. George (""George Arthur Brayton"")",male,,LosAngeles,US,Southampton,9,yes
+509,3,Olsen, Mr. Henry Margido,male,28,Bergen,Norway,Southampton,,no
+510,3,Lang, Mr. Fang,male,26,HongKong,China,Southampton,14,yes
+511,3,Daly, Mr. Eugene Patrick,male,29,Athlone,Ireland,Queenstown,B,yes
+512,3,Webber, Mr. James,male,,SanFrancisco,US,Southampton,,no
+513,1,McGough, Mr. James Robert,male,36,Philadelphia,US,Southampton,7,yes
+514,1,Rothschild, Mrs. Martin (Elizabeth L. Barrett),female,54,NewYork,US,Cherbourg,6,yes
+515,3,Coleff, Mr. Satio,male,24,Debnevo,Bulgaria,Southampton,,no
+516,1,Walker, Mr. William Anderson,male,47,EastOrange,US,Southampton,,no
+517,2,Lemore, Mrs. (Amelia Milley),female,34,Chicago,US,Southampton,14,yes
+518,3,Ryan, Mr. Patrick,male,,Askeaton,Ireland,Queenstown,,no
+519,2,"Angle, Mrs. William A (Florence ""Mary"" Agnes Hughes)",female,36,Warwick,England,Southampton,11,yes
+520,3,Pavlovic, Mr. Stefo,male,32,Vagovina,Croatia,Southampton,,no
+521,1,Perreault, Miss. Anne,female,30,Montreal,Canada,Southampton,3,yes
+522,3,Vovk, Mr. Janko,male,22,Jesenice,Slovenia,Southampton,,no
+523,3,Lahoud, Mr. Sarkis,male,,Zgharta,Lebanon,Cherbourg,,no
+524,1,Hippach, Mrs. Louis Albert (Ida Sophia Fischer),female,44,Chicago,US,Cherbourg,4,yes
+525,3,Kassem, Mr. Fared,male,,Shana,Lebanon,Cherbourg,,no
+526,3,Farrell, Mr. James,male,40,Killoe,Ireland,Queenstown,,no
+527,2,Ridsdale, Miss. Lucy,female,50,London,England,Southampton,13,yes
+528,1,Farthing, Mr. John,male,,NewYork,US,Southampton,,no
+529,3,Salonen, Mr. Johan Werner,male,39,Aberdeen,US,Southampton,,no
+530,2,Hocking, Mr. Richard George,male,23,Akron,US,Southampton,,no
+531,2,Quick, Miss. Phyllis May,female,2,Plymouth,England,Southampton,11,yes
+532,3,Toufik, Mr. Nakli,male,,Hardîne,Lebanon,Cherbourg,,no
+533,3,Elias, Mr. Joseph Jr,male,17,KafrMishki,Lebanon,Cherbourg,,no
+534,3,Peter, Mrs. Catherine (Catherine Rizk),female,,Sar'al,Syria,Cherbourg,C,yes
+535,3,Cacic, Miss. Marija,female,30,ŠirokaKula,Croatia,Southampton,,no
+536,2,Hart, Miss. Eva Miriam,female,7,Ilford,England,Southampton,14,yes
+537,1,Butt, Major. Archibald Willingham,male,45,Washington,US,Southampton,,no
+538,1,LeRoy, Miss. Bertha,female,30,Minneapolis,US,Cherbourg,2,yes
+539,3,Risien, Mr. Samuel Beard,male,,Deal,England,Southampton,,no
+540,1,Frolicher, Miss. Hedwig Margaritha,female,22,Zürich,Switzerland,Cherbourg,5,yes
+541,1,Crosby, Miss. Harriet R,female,36,Milwaukee,US,Southampton,7,yes
+542,3,Andersson, Miss. Ingeborg Constanzia,female,9,Kisa,Sweden,Southampton,,no
+543,3,Andersson, Miss. Sigrid Elisabeth,female,11,Kisa,Sweden,Southampton,,no
+544,2,Beane, Mr. Edward,male,32,NewYorkCity,US,Southampton,13,yes
+545,1,Douglas, Mr. Walter Donald,male,50,Minneapolis,US,Cherbourg,,no
+546,1,Nicholson, Mr. Arthur Ernest,male,64,Shanklin,England,Southampton,,no
+547,2,Beane, Mrs. Edward (Ethel Clarke),female,19,Norwich,England,Southampton,13,yes
+548,2,Padro y Manent, Mr. Julian,male,,Barcelona,Spain,Cherbourg,9,yes
+549,3,Goldsmith, Mr. Frank John,male,33,Strood,England,Southampton,,no
+550,2,Davies, Master. John Morgan Jr,male,8,St.Ives,England,Southampton,14,yes
+551,1,Thayer, Mr. John Borland Jr,male,17,Haverford,US,Cherbourg,B,yes
+552,2,Sharp, Mr. Percival James R,male,27,London,UK,Southampton,,no
+553,3,O'Brien, Mr. Timothy,male,,Drimoleague,Ireland,Queenstown,,no
+554,3,"Leeni, Mr. Fahim (""Philip Zenni"")",male,22,Toula,Lebanon,Cherbourg,6,yes
+555,3,Ohman, Miss. Velin,female,22,Mariestad,Sweden,Southampton,C,yes
+556,1,Wright, Mr. George,male,62,Halifax,Canada,Southampton,,no
+557,1,"Duff Gordon, Lady. (Lucille Christiana Sutherland) (""Mrs Morgan"")",female,48,London,UK,Cherbourg,1,yes
+558,1,Robbins, Mr. Victor,male,,,,,,no
+559,1,Taussig, Mrs. Emil (Tillie Mandelbaum),female,39,NewYork,US,Southampton,8,yes
+560,3,de Messemaeker, Mrs. Guillaume Joseph (Emma),female,36,Tampico,US,Southampton,13,yes
+561,3,Morrow, Mr. Thomas Rowan,male,,Rathfriland,Ireland,Queenstown,,no
+562,3,Sivic, Mr. Husein,male,40,BosanskaKrupa,Bosnia,Southampton,,no
+563,2,Norman, Mr. Robert Douglas,male,28,Glasgow,Scotland,Southampton,,no
+564,3,Simmons, Mr. John,male,,Leigh,England,Southampton,,no
+565,3,Meanwell, Miss. (Marion Ogden),female,,Eastbourne,England,Southampton,,no
+566,3,Davies, Mr. Alfred J,male,24,WestBromwich,England,Southampton,,no
+567,3,Stoytcheff, Mr. Ilia,male,19,Gumostnik,Bulgaria,Southampton,,no
+568,3,Palsson, Mrs. Nils (Alma Cornelia Berglund),female,29,Bjuv,Sweden,Southampton,,no
+569,3,Doharr, Mr. Tannous,male,,Beirut,Lebanon,Cherbourg,,no
+570,3,Jonsson, Mr. Carl,male,32,Kalfsnäs,Sweden,Southampton,15,yes
+571,2,Harris, Mr. George,male,62,London,England,Southampton,15,yes
+572,1,Appleton, Mrs. Edward Dale (Charlotte Lamson),female,53,NewYork,US,Southampton,2,yes
+573,1,"Flynn, Mr. John Irwin (""Irving"")",male,36,Brooklyn,US,Southampton,5,yes
+574,3,Kelly, Miss. Mary,female,,Castlepollard,Ireland,Queenstown,D,yes
+575,3,Rush, Mr. Alfred George John,male,16,Strood,England,Southampton,,no
+576,3,Patchett, Mr. George,male,19,Wollaston,England,Southampton,,no
+577,2,Garside, Miss. Ethel,female,34,Liverpool,England,Southampton,12,yes
+578,1,Silvey, Mrs. William Baird (Alice Munger),female,39,Duluth,US,Cherbourg,11,yes
+579,3,Caram, Mrs. Joseph (Maria Elias),female,,KfarMechi,Syria,Cherbourg,,no
+580,3,Jussila, Mr. Eiriik,male,32,Elimäki,Finland,Southampton,15,yes
+581,2,Christy, Miss. Julie Rachel,female,25,London,UK,Southampton,12,yes
+582,1,Thayer, Mrs. John Borland (Marian Longstreth Morris),female,39,Haverford,US,Cherbourg,4,yes
+583,2,Downton, Mr. William James,male,54,Rochester,US,Southampton,,no
+584,1,Ross, Mr. John Hugo,male,36,Winnipeg,Canada,Southampton,,no
+585,3,Paulner, Mr. Uscher,male,,,,Cherbourg,,no
+586,1,Taussig, Miss. Ruth,female,18,NewYork,US,Southampton,8,yes
+587,2,Jarvis, Mr. John Denzil,male,47,Stoneygate,England,Southampton,,no
+588,1,Frolicher-Stehli, Mr. Maxmillian,male,60,Zürich,Switzerland,Cherbourg,5,yes
+589,3,Gilinski, Mr. Eliezer,male,22,Abercynon,Wales,Southampton,,no
+590,3,Murdlin, Mr. Joseph,male,,London,England,Southampton,,no
+591,3,Rintamaki, Mr. Matti,male,35,Kyyny,Finland,Southampton,,no
+592,1,Stephenson, Mrs. Walter Bertram (Martha Eustis),female,52,Paris,France,Cherbourg,4,yes
+593,3,Elsbury, Mr. William James,male,47,Taunton,England,Southampton,,no
+594,3,Bourke, Miss. Mary,female,,Carrowskehine,Ireland,Queenstown,,no
+595,2,Chapman, Mr. John Henry,male,37,Liskeard,England,Southampton,,no
+596,3,Van Impe, Mr. Jean Baptiste,male,36,Kerksken,Belgium,Southampton,,no
+597,2,Leitch, Miss. Jessie Wills,female,,London,England,Southampton,11,yes
+598,3,Johnson, Mr. Alfred,male,49,Millwood,England,Southampton,,no
+599,3,Boulos, Mr. Hanna,male,,KfarMechi,Syria,Cherbourg,,no
+600,1,"Duff Gordon, Sir. Cosmo Edmund (""Mr Morgan"")",male,49,London,England,Cherbourg,1,yes
+601,2,Jacobsohn, Mrs. Sidney Samuel (Amy Frances Christy),female,24,London,England,Southampton,12,yes
+602,3,Slabenoff, Mr. Petco,male,,Unknown,Bulgaria,Southampton,,no
+603,1,Harrington, Mr. Charles H,male,,Washington,US,Southampton,,no
+604,3,Torber, Mr. Ernst William,male,44,Unknown,Germany,Southampton,,no
+605,1,"Homer, Mr. Harry (""Mr E Haven"")",male,35,Indianapolis,US,Southampton,15,yes
+606,3,Lindell, Mr. Edvard Bengtsson,male,36,Helsingborg,Sweden,Southampton,A,no
+607,3,Karaic, Mr. Milan,male,30,Vagovina,Croatia,Southampton,,no
+608,1,Daniel, Mr. Robert Williams,male,27,Philadelphia,US,Southampton,3,yes
+609,2,Laroche, Mrs. Joseph (Juliette Marie Louise Lafargue),female,22,Paris,France,Cherbourg,14,yes
+610,1,Shutes, Miss. Elizabeth W,female,40,Greenwich,US,Southampton,3,yes
+611,3,Andersson, Mrs. Anders Johan (Alfrida Konstantia Brogren),female,39,Kisa,Sweden,Southampton,,no
+612,3,Jardin, Mr. Jose Neto,male,,Calheta,Portugal,Southampton,,no
+613,3,Murphy, Miss. Margaret Jane,female,,Fostragh,Ireland,Queenstown,16,yes
+614,3,Horgan, Mr. John,male,,Unknown,Ireland,Queenstown,,no
+615,3,Brocklebank, Mr. William Alfred,male,35,Broomfield,England,Southampton,,no
+616,2,Herman, Miss. Alice,female,24,Yeovil,England,Southampton,9,yes
+617,3,Danbom, Mr. Ernst Gilbert,male,34,Göteborg,Sweden,Southampton,,no
+618,3,Lobb, Mrs. William Arthur (Cordelia K Stanlick),female,26,Scranton,US,Southampton,,no
+619,2,Becker, Miss. Marion Louise,female,4,Guntur,BritishIndia,Southampton,11,yes
+620,2,Gavey, Mr. Lawrence,male,26,Guernsey,England,Southampton,,no
+621,3,Yasbeck, Mr. Antoni,male,27,Unknown,Lebanon,Cherbourg,,no
+622,1,Kimball, Mr. Edwin Nelson Jr,male,42,Boston,US,Southampton,5,yes
+623,3,Nakid, Mr. Sahid,male,20,Zgharta,Lebanon,Cherbourg,C,yes
+624,3,Hansen, Mr. Henry Damsgaard,male,21,Copenhagen,Denmark,Southampton,,no
+625,3,"Bowen, Mr. David John ""Dai""",male,21,Treherbert,Wales,Southampton,,no
+626,1,Sutton, Mr. Frederick,male,61,Haddonfield,US,Southampton,,no
+627,2,Kirkland, Rev. Charles Leonard,male,57,Glasgow,Scotland,Queenstown,,no
+628,1,Longley, Miss. Gretchen Fiske,female,21,Hudson,US,Cherbourg,10,yes
+629,3,Bostandyeff, Mr. Guentcho,male,26,Unknown,Bulgaria,Southampton,,no
+630,3,O'Connell, Mr. Patrick D,male,,Kingwilliamstown,Ireland,Queenstown,,no
+631,1,Barkworth, Mr. Algernon Henry Wilson,male,80,Hessle,England,Southampton,B,yes
+632,3,Lundahl, Mr. Johan Svensson,male,51,Fyrnan,Sweden,Southampton,,no
+633,1,Stahelin-Maeglin, Dr. Max,male,32,Basel,Switzerland,Southampton,3,yes
+634,1,Parr, Mr. William Henry Marsh,male,,Belfast,UK,Belfast,,no
+635,3,Skoog, Miss. Mabel,female,9,Hällekis,Sweden,Southampton,,no
+636,2,Davis, Miss. Mary,female,28,London,UK,Southampton,13,yes
+637,3,Leinonen, Mr. Antti Gustaf,male,32,Valitaipale,Finland,Southampton,,no
+638,2,Collyer, Mr. Harvey,male,31,Bishopstoke,England,Southampton,,no
+639,3,Panula, Mrs. Juha (Maria Emilia Ojala),female,41,Ylihärmä,Finland,Southampton,,no
+640,3,Thorneycroft, Mr. Percival,male,,Maidstone,England,Southampton,,no
+641,3,Jensen, Mr. Hans Peder,male,20,Eskilstrup,Denmark,Southampton,,no
+642,1,Sagesser, Mlle. Emma,female,24,Paris,France,Cherbourg,9,yes
+643,3,Skoog, Miss. Margit Elizabeth,female,2,Hällekis,Sweden,Southampton,,no
+644,3,Foo, Mr. Choong,male,,HongKong,China,Southampton,C,yes
+645,3,Baclini, Miss. Eugenie,female,0.75,ḐuhūrashShuwayr,Lebanon,Cherbourg,C,yes
+646,1,Harper, Mr. Henry Sleeper,male,48,NewYork,US,Cherbourg,3,yes
+647,3,Cor, Mr. Liudevit,male,19,Kricina,Croatia,Southampton,,no
+648,1,Simonius-Blumer, Col. Oberst Alfons,male,56,Basel,Switzerland,Southampton,3,yes
+649,3,Willey, Mr. Edward,male,,MarketDrayton,England,Southampton,,no
+650,3,Stanley, Miss. Amy Zillah Elsie,female,23,Wallingford,England,Southampton,C,yes
+651,3,Mitkoff, Mr. Mito,male,,Unknown,Bulgaria,Southampton,,no
+652,2,Doling, Miss. Elsie,female,18,Southampton,England,Southampton,?,yes
+653,3,Kalvik, Mr. Johannes Halvorsen,male,21,Etnesjøen,Norway,Southampton,,no
+654,3,"O'Leary, Miss. Hanora ""Norah""",female,,Kingwilliamstown,Ireland,Queenstown,13,yes
+655,3,"Hegarty, Miss. Hanora ""Nora""",female,18,Whitechurch,Ireland,Queenstown,,no
+656,2,Hickman, Mr. Leonard Mark,male,24,Fritham,England,Southampton,,no
+657,3,Radeff, Mr. Alexander,male,,Unknown,Bulgaria,Southampton,,no
+658,3,Bourke, Mrs. John (Catherine),female,32,Carrowskehine,Ireland,Queenstown,,no
+659,2,Eitemiller, Mr. George Floyd,male,23,London,UK,Southampton,,no
+660,1,Newell, Mr. Arthur Webster,male,58,Lexington,US,Cherbourg,,no
+661,1,Frauenthal, Dr. Henry William,male,50,London,UK,Southampton,5,yes
+662,3,Badt, Mr. Mohamed,male,40,Tripoli,Lebanon,Cherbourg,,no
+663,1,Colley, Mr. Edward Pomeroy,male,47,Dublin,Ireland,Southampton,,no
+664,3,Coleff, Mr. Peju,male,36,Gumostnik,Bulgaria,Southampton,,no
+665,3,Lindqvist, Mr. Eino William,male,20,Taalintehdas,Finland,Southampton,15,yes
+666,2,Hickman, Mr. Lewis,male,32,Fritham,England,Southampton,,no
+667,2,Butler, Mr. Reginald Fenton,male,25,Southsea,England,Southampton,,no
+668,3,Rommetvedt, Mr. Knud Paust,male,,Hogstad,Norway,Southampton,,no
+669,3,Cook, Mr. Jacob,male,43,Unknown(Estonia?),Russia,Southampton,,no
+670,1,Taylor, Mrs. Elmer Zebley (Juliet Cummins Wright),female,,London,UK,Southampton,5,yes
+671,2,Brown, Mrs. Thomas William Solomon (Elizabeth Catherine Ford),female,40,CapeTown,UK,Southampton,14,yes
+672,1,Davidson, Mr. Thornton,male,31,Montreal,Canada,Southampton,,no
+673,2,Mitchell, Mr. Henry Michael,male,70,Guernsey,ChannelIslands,Southampton,,no
+674,2,Wilhelms, Mr. Charles,male,31,London,England,Southampton,9,yes
+675,2,Watson, Mr. Ennis Hastings,male,,Belfast,UK,Belfast,,no
+676,3,Edvardsson, Mr. Gustaf Hjalmar,male,18,Tofta,Sweden,Southampton,,no
+677,3,Sawyer, Mr. Frederick Charles,male,44340,Basingstoke,England,Southampton,,no
+678,3,Turja, Miss. Anna Sofia,female,18,Oulainen,Finland,Southampton,15,yes
+679,3,Goodwin, Mrs. Frederick (Augusta Tyler),female,43,Fulham,England,Southampton,,no
+680,1,Cardeza, Mr. Thomas Drake Martinez,male,36,Germantown,US,Cherbourg,3,yes
+681,3,Peters, Miss. Katie,female,,Cahir,Ireland,Queenstown,,no
+682,1,Hassab, Mr. Hammad,male,27,Cairo,Egypt,Cherbourg,3,yes
+683,3,Olsvigen, Mr. Thor Anderson,male,20,Vikersund,Norway,Southampton,,no
+684,3,Goodwin, Mr. Charles Edward,male,14,Fulham,England,Southampton,,no
+685,2,Brown, Mr. Thomas William Solomon,male,60,CapeTown,UK,Southampton,,no
+686,2,Laroche, Mr. Joseph Philippe Lemercier,male,25,Paris,France,Cherbourg,,no
+687,3,Panula, Mr. Jaako Arnold,male,14,Ylihärmä,Finland,Southampton,,no
+688,3,Dakic, Mr. Branko,male,19,GornjiMiholjac,Croatia,Southampton,,no
+689,3,Fischer, Mr. Eberhard Thelander,male,18,Björkeberga,Sweden,Southampton,,no
+690,1,Madill, Miss. Georgette Alexandra,female,15,StLouis,US,Southampton,2,yes
+691,1,Dick, Mr. Albert Adrian,male,31,Calgary,Canada,Southampton,3,yes
+692,3,Karun, Miss. Manca,female,4,Milje,Slovenia,Southampton,15,yes
+693,3,Lam, Mr. Ali,male,,HongKong,China,Southampton,C,yes
+694,3,Saad, Mr. Khalil,male,25,KfarMechi,Syria,Cherbourg,,no
+695,1,Weir, Col. John,male,60,NewYork,US,Southampton,,no
+696,2,Chapman, Mr. Charles Henry,male,52,Bronx,US,Southampton,,no
+697,3,Kelly, Mr. James,male,44,Leixlip,Ireland,Queenstown,,no
+698,3,"Mullens, Miss. Katherine ""Katie""",female,,Esker,Ireland,Queenstown,16,yes
+699,1,Thayer, Mr. John Borland,male,49,Haverford,US,Cherbourg,,no
+700,3,Humblen, Mr. Adolf Mathias Nicolai Olsen,male,42,Borgund,Norway,Southampton,,no
+701,1,Astor, Mrs. John Jacob (Madeleine Talmadge Force),female,18,NewYork,US,Cherbourg,4,yes
+702,1,Silverthorne, Mr. Spencer Victor,male,35,StLouis,US,Southampton,5,yes
+703,3,Barbara, Miss. Saiide,female,18,KafrMishki,Lebanon,Cherbourg,,no
+704,3,Gallagher, Mr. Martin,male,25,Caltra,Ireland,Queenstown,,no
+705,3,Hansen, Mr. Henrik Juul,male,26,Holeby,Denmark,Southampton,,no
+706,2,"Morley, Mr. Henry Samuel (""Mr Henry Marshall"")",male,39,Birmingham,England,Southampton,,no
+707,2,"Kelly, Mrs. Florence ""Fannie""",female,45,London,England,Southampton,9,yes
+708,1,Calderhead, Mr. Edward Pennington,male,42,NewYork,US,Southampton,5,yes
+709,1,Cleaver, Miss. Alice,female,22,London,UK,Southampton,11,yes
+710,3,"Moubarek, Master. Halim Gonios (""William George"")",male,,Hardîne,Lebanon,Cherbourg,C,yes
+711,1,"Mayne, Mlle. Berthe Antonine (""Mrs de Villiers"")",female,24,Brussels,Belgium,Cherbourg,6,yes
+712,1,Klaber, Mr. Herman,male,,Portland,US,Southampton,,no
+713,1,Taylor, Mr. Elmer Zebley,male,48,London,UK,Southampton,5,yes
+714,3,Larsson, Mr. August Viktor,male,29,Stamford,US,Southampton,,no
+715,2,Greenberg, Mr. Samuel,male,52,Bronx,US,Southampton,,no
+716,3,Soholt, Mr. Peter Andreas Lauritz Andersen,male,19,Ålesund,Norway,Southampton,,no
+717,1,Endres, Miss. Caroline Louise,female,38,NewYork,US,Cherbourg,4,yes
+718,2,"Troutt, Miss. Edwina Celia ""Winnie""",female,27,Bath,England,Southampton,16,yes
+719,3,McEvoy, Mr. Michael,male,,Dublin,Ireland,Queenstown,,no
+720,3,Johnson, Mr. Malkolm Joackim,male,33,Minneapolis,US,Southampton,,no
+721,2,"Harper, Miss. Annie Jessie ""Nina""",female,6,London,England,Southampton,11,yes
+722,3,Jensen, Mr. Svend Lauritz,male,17,Eskilstrup,Denmark,Southampton,,no
+723,2,Gillespie, Mr. William Henry,male,34,Abbeyleix,Ireland,Southampton,,no
+724,2,Hodges, Mr. Henry Price,male,50,Southampton,England,Southampton,,no
+725,1,Chambers, Mr. Norman Campbell,male,27,NewYork,US,Southampton,5,yes
+726,3,Oreskovic, Mr. Luka,male,20,KonjskoBrdo,Croatia,Southampton,,no
+727,2,Renouf, Mrs. Peter Henry (Lillian Jefferys),female,30,Elizabeth,US,Southampton,12,yes
+728,3,Mannion, Miss. Margareth,female,,Caltra,Ireland,Queenstown,16,yes
+729,2,Bryhl, Mr. Kurt Arnold Gottfrid,male,25,Skara,Sweden,Southampton,,no
+730,3,Ilmakangas, Miss. Pieta Sofia,female,25,Paavola,Finland,Southampton,,no
+731,1,Allen, Miss. Elisabeth Walton,female,29,StLouis,US,Southampton,2,yes
+732,3,Hassan, Mr. Houssein G N,male,11,Fredericksburg,US,Cherbourg,,no
+733,2,Knight, Mr. Robert J,male,,Belfast,Ireland,Belfast,,no
+734,2,Berriman, Mr. William John,male,23,St.Ives,England,Southampton,,no
+735,2,Troupiansky, Mr. Moses Aaron,male,23,London,England,Southampton,,no
+736,3,Williams, Mr. Leslie,male,44,Tonypandy,Wales,Southampton,,no
+737,3,Ford, Mrs. Edward (Margaret Ann Watson),female,48,Rotherfield,England,Southampton,,no
+738,1,Lesurer, Mr. Gustave J,male,35,Germantown,US,Cherbourg,3,yes
+739,3,Ivanoff, Mr. Kanio,male,,MalkaRibnya,Bulgaria,Southampton,,no
+740,3,Nankoff, Mr. Minko,male,,Unknown,Bulgaria,Southampton,,no
+741,1,Hawksford, Mr. Walter James,male,,Kingston,England,Southampton,3,yes
+742,1,Cavendish, Mr. Tyrell William,male,36,London,UK,Southampton,,no
+743,1,"Ryerson, Miss. Susan Parker ""Suzette""",female,21,Cooperstown,US,Cherbourg,4,yes
+744,3,McNamee, Mr. Neal,male,24,Convoy,Ireland,Southampton,,no
+745,3,Stranden, Mr. Juho,male,31,Muljula,Finland,Southampton,9,yes
+746,1,Crosby, Capt. Edward Gifford,male,70,Milwaukee,US,Southampton,,no
+747,3,Abbott, Mr. Rossmore Edward,male,16,EastProvidence,US,Southampton,,no
+748,2,Sinkkonen, Miss. Anna,female,30,Turku,RussianEmpire,Southampton,10,yes
+749,1,Marvin, Mr. Daniel Warner,male,19,NewYork,US,Southampton,,no
+750,3,Connaghton, Mr. Michael,male,31,Brooklyn,US,Queenstown,,no
+751,2,Wells, Miss. Joan,female,4,Heamoor,England,Southampton,14,yes
+752,3,Moor, Master. Meier,male,6,Unknown,Russia,Southampton,14,yes
+753,3,Vande Velde, Mr. Johannes Joseph,male,33,Denderhoutem,Belgium,Southampton,,no
+754,3,Jonkoff, Mr. Lalio,male,23,Gumostnik,Bulgaria,Southampton,,no
+755,2,Herman, Mrs. Samuel (Jane Laver),female,48,Yeovil,England,Southampton,9,yes
+756,2,Hamalainen, Master. Viljo,male,1,Detroit,US,Southampton,4,yes
+757,3,Carlsson, Mr. August Sigfrid,male,28,Dagsås,Sweden,Southampton,,no
+758,2,Bailey, Mr. Percy Andrew,male,18,Penzance,England,Southampton,,no
+759,3,Theobald, Mr. Thomas Leonard,male,34,Strood,England,Southampton,,no
+760,1,Rothes, the Countess. of (Lucy Noel Martha Dyer-Edwards),female,33,Vancouver,Canada,Southampton,8,yes
+761,3,Garfirth, Mr. John,male,,Wollaston,England,Southampton,,no
+762,3,Nirva, Mr. Iisakki Antino Aijo,male,41,Kauhajoki,Finland,Southampton,,no
+763,3,Barah, Mr. Hanna Assi,male,20,Hardîne,Lebanon,Cherbourg,15,yes
+764,1,Carter, Mrs. William Ernest (Lucile Polk),female,36,BrynMawr,US,Southampton,4,yes
+765,3,Eklund, Mr. Hans Linus,male,16,Kårberg,Sweden,Southampton,,no
+766,1,Hogeboom, Mrs. John C (Anna Andrews),female,51,Hudson,US,Cherbourg,10,yes
+767,1,Brewe, Dr. Arthur Jackson,male,,Philadelphia,US,Cherbourg,,no
+768,3,Mangan, Miss. Mary,female,44,Carrowkehine,Ireland,Queenstown,,no
+769,3,Moran, Mr. Daniel J,male,,Askeaton,Ireland,Queenstown,,no
+770,3,Gronnestad, Mr. Daniel Danielsen,male,32,Bokn,Norway,Southampton,,no
+771,3,Lievens, Mr. Rene Aime,male,24,Haaltert,Belgium,Southampton,,no
+772,3,Jensen, Mr. Niels Peder,male,48,Portland,US,Southampton,,no
+773,2,Mack, Mrs. (Mary),female,57,Southampton,England,Southampton,,no
+774,3,Elias, Mr. Dibo,male,,Unknown,Lebanon,Cherbourg,,no
+775,2,Hocking, Mrs. Elizabeth (Eliza Needs),female,54,Penzance,England,Southampton,4,yes
+776,3,Myhrman, Mr. Pehr Fabian Oliver Malkolm,male,18,Kristinehamn,Sweden,Southampton,,no
+777,3,Tobin, Mr. Roger,male,,Cahir,Ireland,Queenstown,,no
+778,3,Emanuel, Miss. Virginia Ethel,female,5,NewYorkCity,US,Southampton,13,yes
+779,3,Kilgannon, Mr. Thomas J,male,,Currafarry,Ireland,Queenstown,,no
+780,1,Robert, Mrs. Edward Scott (Elisabeth Walton McMillan),female,43,StLouis,US,Southampton,2,yes
+781,3,Ayoub, Miss. Banoura,female,13,Beirut,Lebanon,Cherbourg,C,yes
+782,1,Dick, Mrs. Albert Adrian (Vera Gillespie),female,17,Calgary,Canada,Southampton,3,yes
+783,1,Long, Mr. Milton Clyde,male,29,Springfield,US,Southampton,,no
+784,3,Johnston, Mr. Andrew G,male,,ThorntonHeath,England,Southampton,,no
+785,3,Ali, Mr. William,male,25,BuenosAires,Argentina,Southampton,,no
+786,3,Harmer, Mr. Abraham (David Lishin),male,25,Manchester,England,Southampton,,no
+787,3,Sjoblom, Miss. Anna Sofia,female,18,Munsala,Finland,Southampton,16,yes
+788,3,Rice, Master. George Hugh,male,8,Athlone,Ireland,Queenstown,,no
+789,3,Dean, Master. Bertram Vere,male,1,BartleyFarm,England,Southampton,10,yes
+790,1,Guggenheim, Mr. Benjamin,male,46,Paris,France,Cherbourg,,no
+791,3,"Keane, Mr. Andrew ""Andy""",male,,Athenry,Ireland,Queenstown,,no
+792,2,Gaskell, Mr. Alfred,male,16,Liverpool,England,Southampton,,no
+793,3,Sage, Miss. Stella Anna,female,,Peterborough,England,Southampton,,no
+794,1,Hoyt, Mr. William Fisher,male,,NewYork,US,Cherbourg,14,no
+795,3,Dantcheff, Mr. Ristiu,male,25,Terziysko,Bulgaria,Southampton,,no
+796,2,Otter, Mr. Richard,male,39,MiddleburgHeights,US,Southampton,,no
+797,1,Leader, Dr. Alice (Farnham),female,49,NewYork,US,Southampton,8,yes
+798,3,Osman, Mrs. Mara,female,31,Vagovina,Croatia,Southampton,?,yes
+799,3,Ibrahim Shawah, Mr. Yousseff,male,30,Beirut,Lebanon,Cherbourg,,no
+800,3,Van Impe, Mrs. Jean Baptiste (Rosalie Paula Govaert),female,30,Kerksken,Belgium,Southampton,,no
+801,2,Ponesell, Mr. Martin,male,34,Southampton,England,Southampton,,no
+802,2,Collyer, Mrs. Harvey (Charlotte Annie Tate),female,31,Bishopstoke,England,Southampton,14,yes
+803,1,Carter, Master. William Thornton II,male,11,BrynMawr,US,Southampton,4,yes
+804,3,Thomas, Master. Assad Alexander,male,1,Hardîne,Lebanon,Cherbourg,16,yes
+805,3,Hedman, Mr. Oskar Arvid,male,27,St.Paul,US,Southampton,15,yes
+806,3,Johansson, Mr. Karl Johan,male,31,Duluth,US,Southampton,,no
+807,1,Andrews, Mr. Thomas Jr,male,39,Belfast,UK,Belfast,,no
+808,3,Pettersson, Miss. Ellen Natalia,female,18,Stockholm,Sweden,Southampton,,no
+809,2,Meyer, Mr. August,male,39,Harrow,England,Southampton,,no
+810,1,Chambers, Mrs. Norman Campbell (Bertha Griggs),female,33,NewYork,US,Southampton,5,yes
+811,3,Alexander, Mr. William,male,26,GreatYarmouth,England,Southampton,,no
+812,3,Lester, Mr. James,male,39,WestBromwich,England,Southampton,,no
+813,2,Slemen, Mr. Richard James,male,35,Landrake,England,Southampton,,no
+814,3,Andersson, Miss. Ebba Iris Alfrida,female,6,Kisa,Sweden,Southampton,,no
+815,3,Tomlin, Mr. Ernest Portage,male,44,PortagelaPrairie,Canada,Southampton,,no
+816,1,Fry, Mr. Richard,male,,Liverpool,England,Southampton,,no
+817,3,Heininen, Miss. Wendla Maria,female,23,Turku,Finland,Southampton,,no
+818,2,Mallet, Mr. Albert,male,31,Montreal,Canada,Cherbourg,,no
+819,3,Holm, Mr. John Fredrik Alexander,male,43,Karlshamn,Sweden,Southampton,,no
+820,3,Skoog, Master. Karl Thorsten,male,10,Hällekis,Sweden,Southampton,,no
+821,1,Hays, Mrs. Charles Melville (Clara Jennings Gregg),female,52,Montreal,Canada,Southampton,3,yes
+822,3,Lulic, Mr. Nikola,male,27,KonjskoBrdo,Croatia,Southampton,15,yes
+823,1,Reuchlin, Jonkheer. John George,male,38,Rotterdam,TheNetherlands,Southampton,,no
+824,3,Moor, Mrs. (Beila),female,27,Unknown,Russia,Southampton,14,yes
+825,3,Panula, Master. Urho Abraham,male,2,Ylihärmä,Finland,Southampton,,no
+826,3,Flynn, Mr. John,male,,Clonbur,Ireland,Queenstown,,no
+827,3,Lam, Mr. Len,male,,HongKong,China,Southampton,,no
+828,2,Mallet, Master. Andre,male,1,Montreal,Canada,Cherbourg,10,yes
+829,3,McCormack, Mr. Thomas Joseph,male,,Bayonne,US,Queenstown,15,yes
+830,1,Stone, Mrs. George Nelson (Martha Evelyn),female,62,NewYork,US,Southampton,6,yes
+831,3,Yasbeck, Mrs. Antoni (Selini Alexander),female,15,Unknown,Lebanon,Cherbourg,C,yes
+832,2,Richards, Master. George Sibley,male,1,Penzance,England,Southampton,4,yes
+833,3,Saad, Mr. Amin,male,,Tebnine,Lebanon,Cherbourg,,no
+834,3,Augustsson, Mr. Albert,male,23,Krakoryd,Sweden,Southampton,,no
+835,3,Allum, Mr. Owen George,male,18,Southall,England,Southampton,,no
+836,1,Compton, Miss. Sara Rebecca,female,39,Lakewood,US,Cherbourg,14,yes
+837,3,Pasic, Mr. Jakob,male,21,Streklevac,Slovenia,Southampton,,no
+838,3,Sirota, Mr. Maurice,male,,London,England,Southampton,,no
+839,3,Chip, Mr. Chang,male,32,HongKong,China,Southampton,C,yes
+840,1,Marechal, Mr. Pierre,male,,Paris,France,Cherbourg,7,yes
+841,3,Alhomaki, Mr. Ilmari Rudolf,male,20,Salo,Finland,Southampton,,no
+842,2,Mudd, Mr. Thomas Charles,male,16,Huntingfield,England,Southampton,,no
+843,1,Serepeca, Miss. Augusta,female,30,BrynMawr,US,Southampton,4,yes
+844,3,Lemberopolous, Mr. Peter L,male,34,ÁyiosSóstis,Greece,Cherbourg,,no
+845,3,Culumovic, Mr. Jeso,male,17,LipovaGlavica,Croatia,Southampton,,no
+846,3,Abbing, Mr. Anthony,male,42,Cincinnati,US,Southampton,,no
+847,3,Sage, Mr. Douglas Bullen,male,,Peterborough,England,Southampton,,no
+848,3,Markoff, Mr. Marin,male,35,Gumostnik,Bulgaria,Southampton,,no
+849,2,Harper, Rev. John,male,28,London,England,Southampton,,no
+850,1,Goldenberg, Mrs. Samuel L (Edwiga Grabowska),female,,Paris,France,Cherbourg,5,yes
+851,3,Andersson, Master. Sigvard Harald Elias,male,4,Kisa,Sweden,Southampton,,no
+852,3,Svensson, Mr. Johan,male,74,Reftele,Sweden,Southampton,,no
+853,3,Boulos, Miss. Nourelain,female,9,Unknown,Lebanon,Cherbourg,,no
+854,1,Lines, Miss. Mary Conover,female,16,Paris,France,Cherbourg,9,yes
+855,2,Carter, Mrs. Ernest Courtenay (Lilian Hughes),female,44,London,UK,Southampton,,no
+856,3,Aks, Mrs. Sam (Leah Rosen),female,18,London,England,Southampton,13,yes
+857,1,Wick, Mrs. George Dennick (Mary Hitchcock),female,45,Youngstown,US,Southampton,8,yes
+858,1,Daly, Mr. Peter Denis ,male,51,Lima,Peru,Southampton,A,yes
+859,3,Baclini, Mrs. Solomon (Latifa Qurban),female,24,ḐuhūrashShuwayr,Lebanon,Cherbourg,C,yes
+860,3,Razi, Mr. Raihed,male,,Tebnine,Lebanon,Cherbourg,,no
+861,3,Hansen, Mr. Claus Peter,male,41,Racine,US,Southampton,,no
+862,2,Giles, Mr. Frederick Edward,male,21,Porthleven,England,Southampton,,no
+863,1,Swift, Mrs. Frederick Joel (Margaret Welles Barron),female,48,NewYork,US,Southampton,8,yes
+864,3,"Sage, Miss. Dorothy Edith ""Dolly""",female,,Peterborough,England,Southampton,,no
+865,2,Gill, Mr. John William,male,24,Clevedon,England,Southampton,,no
+866,2,Bystrom, Mrs. (Karolina),female,42,NewYorkCity,US,Southampton,?,yes
+867,2,Duran y More, Miss. Asuncion,female,27,Barcelona,Spain,Cherbourg,12,yes
+868,1,Roebling, Mr. Washington Augustus II,male,31,Trenton,US,Southampton,,no
+869,3,van Melkebeke, Mr. Philemon,male,,Haaltert,Belgium,Southampton,,no
+870,3,Johnson, Master. Harold Theodor,male,4,St.Charles,US,Southampton,15,yes
+871,3,Balkic, Mr. Cerin,male,26,BosanskaKrupa,Bosnia,Southampton,,no
+872,1,Beckwith, Mrs. Richard Leonard (Sallie Monypeny),female,47,NewYork,US,Southampton,5,yes
+873,1,Carlsson, Mr. Frans Olof,male,33,NewYork,US,Southampton,,no
+874,3,Vander Cruyssen, Mr. Victor,male,47,Zwevezele,Belgium,Southampton,,no
+875,2,Abelson, Mrs. Samuel (Hannah Wizosky),female,28,Russia,Russia,Cherbourg,10,yes
+876,3,"Najib, Miss. Adele Kiamie ""Jane""",female,15,ElShweir,Lebanon,Cherbourg,C,yes
+877,3,Gustafsson, Mr. Alfred Ossian,male,20,Kokkola,Finland,Southampton,,no
+878,3,Petroff, Mr. Nedelio,male,19,Gumostnik,Bulgaria,Southampton,,no
+879,3,Laleff, Mr. Kristo,male,,KnezhniLak,Bulgaria,Southampton,,no
+880,1,Potter, Mrs. Thomas Jr (Lily Alexenia Wilson),female,56,Philadelphia,US,Cherbourg,7,yes
+881,2,Shelley, Mrs. William (Imanita Parrish Hall),female,25,DeerLodge,US,Southampton,12,yes
+882,3,Markun, Mr. Johann,male,33,Milje,Slovenia,Cherbourg,,no
+883,3,Dahlberg, Miss. Gerda Ulrika,female,22,Stockholm,Sweden,Southampton,,no
+884,2,Banfield, Mr. Frederick James,male,28,Plymouth,England,Southampton,,no
+885,3,Sutehall, Mr. Henry Jr,male,25,London,England,Southampton,,no
+886,3,Rice, Mrs. William (Margaret Norton),female,39,Athlone,Ireland,Queenstown,,no
+887,2,Montvila, Rev. Juozas,male,27,Gudinė,Lithuania,Southampton,,no
+888,1,Graham, Miss. Margaret Edith,female,19,Greenwich,US,Southampton,3,yes
+889,3,"Johnston, Miss. Catherine Helen ""Carrie""",female,,ThorntonHeath,England,Southampton,,no
+890,1,Behr, Mr. Karl Howell,male,26,NewYork,US,Cherbourg,5,yes
+891,3,Dooley, Mr. Patrick,male,32,Patrickswell,Ireland,Queenstown,,no
+892,3,Kelly, Mr. James,male,34,Unknown,Ireland,Southampton,,no
+893,3,Wilkes, Mrs. James (Ellen Needs),female,47,Penzance,England,Southampton,16,yes
+894,2,Myles, Mr. Thomas Francis,male,62,Fermoy,Ireland,Queenstown,,no
+895,3,Wirz, Mr. Albert,male,27,Uster,Switzerland,Southampton,,no
+896,3,Hirvonen, Mrs. Alexander (Helga E Lindqvist),female,22,Taalintehdas,Finland,Southampton,15,yes
+897,3,Svensson, Mr. Johan Cervin,male,14,Knäred,Sweden,Southampton,13,yes
+898,3,Connolly, Miss. Kate,female,30,BankPlace,Ireland,Queenstown,,no
+899,2,Caldwell, Mr. Albert Francis,male,26,Bangkok,Siam,Southampton,13,yes
+900,3,Abrahim, Mrs. Joseph (Sophie Halaut Easu),female,18,Shwayhad,Syria,Cherbourg,C,yes
+901,3,Davies, Mr. John Samuel,male,21,WestBromwich,England,Southampton,,no
+902,3,Ilieff, Mr. Ylio,male,,Unknown,Bulgaria,Southampton,,no
+903,1,Jones, Mr. Charles Cresson,male,46,Bennington,US,Southampton,,no
+904,1,Snyder, Mrs. John Pillsbury (Nelle Stevenson),female,23,Minneapolis,US,Southampton,7,yes
+905,2,Howard, Mr. Benjamin,male,63,Swindon,England,Southampton,,no
+906,1,Chaffee, Mrs. Herbert Fuller (Carrie Constance Toogood),female,47,Amenia,US,Southampton,4,yes
+907,2,del Carlo, Mrs. Sebastiano (Argenia Genovesi),female,24,Lucca,Italy,Cherbourg,11,yes
+908,2,Keane, Mr. Daniel,male,35,Limerick,Ireland,Queenstown,,no
+909,3,Assaf, Mr. Gerios,male,21,KafrMishki,Lebanon,Cherbourg,,no
+910,3,Ilmakangas, Miss. Ida Livija,female,27,NewYorkCity,US,Southampton,,no
+911,3,"Assaf Khalil, Mrs. Mariana (Miriam"")""",female,45,KafrMishki,Lebanon,Cherbourg,C,yes
+912,1,Rothschild, Mr. Martin,male,55,NewYork,US,Cherbourg,,no
+913,3,Olsen, Master. Artur Karl,male,9,Trondheim,Norway,Southampton,13,yes
+914,1,Flegenheim, Mrs. Alfred (Antoinette),female,,NewYork,US,Cherbourg,7,yes
+915,1,Williams, Mr. Richard Norris II,male,21,Geneva,Switzerland,Cherbourg,A,yes
+916,1,Ryerson, Mrs. Arthur Larned (Emily Maria Borie),female,48,Cooperstown,US,Cherbourg,4,yes
+917,3,Robins, Mr. Alexander A,male,50,StAustell,England,Southampton,,no
+918,1,Ostby, Miss. Helene Ragnhild,female,22,Providence,US,Southampton,5,yes
+919,3,Daher, Mr. Shedid,male,44,Ibrin[85],Syria,Cherbourg,,no
+920,1,Brady, Mr. John Bertram,male,41,Pomeroy,US,Southampton,,no
+921,3,Samaan, Mr. Elias,male,,Hardîne,Lebanon,Cherbourg,,no
+922,2,Louch, Mr. Charles Alexander,male,50,Weston-super-Mare,England,Southampton,,no
+923,2,Jefferys, Mr. Clifford Thomas,male,24,Guernsey,England,Southampton,,no
+924,3,Dean, Mrs. Bertram (Eva Georgetta Light),female,33,BartleyFarm,England,Southampton,10,yes
+925,3,"Johnston, Mrs. Andrew G (Elizabeth Lily"" Watson)""",female,,ThorntonHeath,England,Southampton,,no
+926,1,Mock, Mr. Philipp Edmund,male,30,NewYork,US,Cherbourg,11,yes
+927,3,"Katavelas, Mr. Vassilios (Catavelas Vassilios"")""",male,44,AgiosSostis,Greece,Cherbourg,,no
+928,3,Roth, Miss. Sarah A,female,,London,England,Southampton,C,yes
+929,3,Cacic, Miss. Manda,female,21,ŠirokaKula,Croatia,Southampton,,no
+930,3,Sap, Mr. Julius,male,25,Zwevezele,Belgium,Southampton,11,yes
+931,3,Hee, Mr. Ling,male,,HongKong,China,Southampton,,no
+932,3,Karun, Mr. Franz,male,39,Milje,Slovenia,Southampton,15,yes
+933,1,Franklin, Mr. Thomas Parham,male,,London,England,Southampton,,no
+934,3,Goldsmith, Mr. Nathan,male,41,Unknown,Russia,Southampton,,no
+935,2,Corbett, Mrs. Walter H (Irene Colvin),female,30,Provo,US,Southampton,,no
+936,1,Kimball, Mrs. Edwin Nelson Jr (Gertrude Parsons),female,45,Boston,US,Southampton,5,yes
+937,3,Peltomaki, Mr. Nikolai Johannes,male,25,Helsinki,Finland,Southampton,,no
+938,1,Chevre, Mr. Paul Romaine,male,45,Paris,France,Cherbourg,7,yes
+939,3,Shaughnessy, Mr. Patrick,male,,Tynagh,Ireland,Queenstown,,no
+940,1,Bucknell, Mrs. William Robert (Emma Eliza Ward),female,60,Philadelphia,US,Cherbourg,8,yes
+941,3,"Coutts, Mrs. William (Winnie Minnie"" Treanor)""",female,36,London,England,Southampton,2,yes
+942,1,Smith, Mr. Lucien Philip,male,24,Huntington,US,Cherbourg,,no
+943,2,Pulbaum, Mr. Franz,male,27,NewYorkCity,US,Southampton,,no
+944,2,"Hocking, Miss. Ellen Nellie""""",female,20,Penzance,England,Southampton,4,yes
+945,1,Fortune, Miss. Ethel Flora,female,28,Winnipeg,Canada,Southampton,10,yes
+946,2,Mangiavacchi, Mr. Serafino Emilio,male,,Paris,France,Cherbourg,,no
+947,3,Rice, Master. Albert,male,10,Athlone,Ireland,Queenstown,,no
+948,3,Cor, Mr. Bartol,male,35,Kricina,Croatia,Southampton,,no
+949,3,Abelseth, Mr. Olaus Jorgensen,male,25,PerkinsCounty,US,Southampton,A,yes
+950,3,Davison, Mr. Thomas Henry,male,,Liverpool,England,Southampton,,no
+951,1,Chaudanson, Miss. Victorine,female,36,Cooperstown,US,Cherbourg,4,yes
+952,3,Dika, Mr. Mirko,male,17,Podgora,Croatia,Southampton,,no
+953,2,McCrae, Mr. Arthur Gordon,male,32,Sydney,Australia,Southampton,,no
+954,3,Bjorklund, Mr. Ernst Herbert,male,18,Stockholm,Sweden,Southampton,,no
+955,3,Bradley, Miss. Bridget Delia,female,22,Kingwilliamstown,Ireland,Queenstown,13,yes
+956,1,Ryerson, Master. John Borie,male,13,Cooperstown,US,Cherbourg,4,yes
+957,2,Corey, Mrs. Percy C (Mary Phyllis Elizabeth Miller),female,,Pittsburgh,US,Southampton,,no
+958,3,Burns, Miss. Mary Delia,female,18,Kilmacowen,Ireland,Queenstown,,no
+959,1,Moore, Mr. Clarence Bloomfield,male,47,Washington,US,Southampton,,no
+960,1,Tucker, Mr. Gilbert Milligan Jr,male,31,Albany,US,Cherbourg,7,yes
+961,1,Fortune, Mrs. Mark (Mary McDougald),female,60,Winnipeg,Canada,Southampton,10,yes
+962,3,Mulvihill, Miss. Bertha E,female,24,Athlone,Ireland,Queenstown,15,yes
+963,3,Minkoff, Mr. Lazar,male,21,Gumostnik,Bulgaria,Southampton,,no
+964,3,Nieminen, Miss. Manta Josefina,female,29,Karinainen,Finland,Southampton,,no
+965,1,Ovies y Rodriguez, Mr. Servando,male,44344,Havana,Cuba,Cherbourg,,no
+966,1,Geiger, Miss. Amalie,female,35,Philadelphia,US,Southampton,4,yes
+967,1,Keeping, Mr. Edwin,male,32,Philadelphia,US,Southampton,,no
+968,3,Miles, Mr. Frank,male,,Greenwich,England,Southampton,,no
+969,1,Cornell, Mrs. Robert Clifford (Malvina Helen Lamson),female,55,NewYork,US,Southampton,2,yes
+970,2,Aldworth, Mr. Charles Augustus,male,30,BrynMawr,US,Southampton,,no
+971,3,Doyle, Miss. Elizabeth,female,24,Bree,Ireland,Queenstown,,no
+972,3,Boulos, Master. Akar,male,6,Unknown,Lebanon,Cherbourg,,no
+973,1,Straus, Mr. Isidor,male,67,NewYork,US,Southampton,,no
+974,1,Case, Mr. Howard Brown,male,49,Ascot,England,Southampton,,no
+975,3,Demetri, Mr. Marinko,male,,Unknown,Macedonia,Southampton,,no
+976,2,Lamb, Mr. John Joseph,male,,Glencree,Ireland,Queenstown,,no
+977,3,Khalil, Mr. Betros,male,,Hardîne,Lebanon,Cherbourg,,no
+978,3,Barry, Miss. Julia,female,27,NewYorkCity,US,Queenstown,,no
+979,3,Badman, Miss. Emily Louisa,female,18,Clevedon,England,Southampton,C,yes
+980,3,O'Donoghue, Ms. Bridget,female,,Cum,Ireland,Queenstown,,no
+981,2,Wells, Master. Ralph Lester,male,2,Heamoor,England,Southampton,14,yes
+982,3,Dyker, Mrs. Adolf Fredrik (Anna Elisabeth Judith Andersson),female,22,NewHaven,US,Southampton,16,yes
+983,3,Pedersen, Mr. Olaf,male,,Sandefjord,Norway,Southampton,,no
+984,1,Davidson, Mrs. Thornton (Orian Hays),female,27,Montreal,Canada,Southampton,3,yes
+985,3,Guest, Mr. Robert,male,,London,England,Southampton,,no
+986,1,Birnbaum, Mr. Jakob,male,25,Antwerp,Belgium,Cherbourg,,no
+987,3,Tenglin, Mr. Gunnar Isidor,male,25,Stockholm,Sweden,Southampton,13,yes
+988,1,Cavendish, Mrs. Tyrell William (Julia Florence Siegel),female,76,London,UK,Southampton,6,yes
+989,3,Makinen, Mr. Kalle Edvard,male,29,Ikaalinen,Finland,Southampton,,no
+990,3,Braf, Miss. Elin Ester Maria,female,20,Medeltorp,Sweden,Southampton,,no
+991,3,Nancarrow, Mr. William Henry,male,33,StAustell,England,Southampton,,no
+992,1,Stengel, Mrs. Charles Emil Henry (Annie May Morris),female,43,Newark,US,Cherbourg,5,yes
+993,2,Weisz, Mr. Leopold,male,27,Bromsgrove,England,Southampton,,no
+994,3,Foley, Mr. William,male,,Donoughmore,Ireland,Queenstown,,no
+995,3,Johansson Palmquist, Mr. Oskar Leander,male,26,Kvarnaryd,Sweden,Southampton,15,yes
+996,3,"Thomas, Mrs. Alexander (Thamine Thelma"")""",female,16,Hardîne,Lebanon,Cherbourg,14,yes
+997,3,Holthen, Mr. Johan Martin,male,28,Bergen,Norway,Southampton,,no
+998,3,Buckley, Mr. Daniel,male,21,Kingwilliamstown,Ireland,Queenstown,13,yes
+999,3,Ryan, Mr. Edward,male,,Ballinascreen,Ireland,Queenstown,14,yes
+1000,3,"Willer, Mr. Aaron (Abi Weller"")""",male,,Unknown,Russia,Cherbourg,,no
+1001,2,Swane, Mr. George,male,44334,Montreal,Canada,Southampton,,no
+1002,2,Stanton, Mr. Samuel Ward,male,41,NewYorkCity,US,Southampton,,no
+1003,3,Shine, Miss. Ellen Natalia,female,,Cork,Ireland,Queenstown,?,yes
+1004,1,Evans, Miss. Edith Corse,female,36,NewYork,US,Cherbourg,,no
+1005,3,Buckley, Miss. Katherine,female,44334,Ovens,Ireland,Queenstown,,no
+1006,1,Straus, Mrs. Isidor (Rosalie Ida Blun),female,63,NewYork,US,Southampton,,no
+1007,3,Chronopoulos, Mr. Demetrios,male,18,AgiosSostis,Greece,Cherbourg,,no
+1008,3,Thomas, Mr. John,male,,Unknown,,Cherbourg,,no
+1009,3,Sandstrom, Miss. Beatrice Irene,female,1,Motala,Sweden,Southampton,13,yes
+1010,1,Beattie, Mr. Thomson,male,36,Fergus,Canada,Southampton,A,yes
+1011,2,Chapman, Mrs. John Henry (Sara Elizabeth Lawry),female,29,Liskeard,England,Southampton,,no
+1012,2,Watt, Miss. Bertha J,female,12,Aberdeen,Scotland,Southampton,9,yes
+1013,3,Kiernan, Mr. John,male,,JerseyCity,US,Queenstown,,no
+1014,1,Schabert, Mrs. Paul (Emma Mock),female,35,Hamburg,Germany,Southampton,11,yes
+1015,3,Carver, Mr. Alfred John,male,28,Southampton,England,Southampton,,no
+1016,3,Kennedy, Mr. John,male,,Watergate,Ireland,Queenstown,15,yes
+1017,3,Cribb, Miss. Laura Alice,female,17,Bournemouth,England,Southampton,12,yes
+1018,3,Brobeck, Mr. Karl Rudolf,male,22,Norrköping,Sweden,Southampton,,no
+1019,3,McCoy, Miss. Alicia,female,,Carrickatane,Ireland,Queenstown,16,yes
+1020,2,Bowenur, Mr. Solomon,male,42,London,England,Southampton,,no
+1021,3,Petersen, Mr. Marius,male,24,London,England,Southampton,,no
+1022,3,Spinner, Mr. Henry John,male,32,Arboretum,England,Southampton,,no
+1023,1,Gracie, Col. Archibald IV,male,53,Washington,US,Southampton,B,yes
+1024,3,Lefebre, Mrs. Frank (Frances),female,,Liévin,France,Southampton,,no
+1025,3,Thomas, Mr. Charles P,male,,Hardîne,Lebanon,Cherbourg,,no
+1026,3,Dintcheff, Mr. Valtcho,male,43,Unknown,Bulgaria,Southampton,,no
+1027,3,Carlsson, Mr. Carl Robert,male,24,Göteborg,Sweden,Southampton,,no
+1028,3,Zakarian, Mr. Mapriededer,male,44,Kiğı,Turkey,Cherbourg,,no
+1029,2,Schmidt, Mr. August,male,26,Newark,US,Southampton,,no
+1030,3,Drapkin, Miss. Jennie,female,23,Mogilev,Belarus,Southampton,13,yes
+1031,3,Goodwin, Mr. Charles Frederick,male,40,Fulham,England,Southampton,,no
+1032,3,Goodwin, Miss. Jessie Allis,female,10,Fulham,England,Southampton,,no
+1033,1,Daniels, Miss. Sarah,female,33,Montreal,Canada,Southampton,8,yes
+1034,1,Ryerson, Mr. Arthur Larned,male,61,Cooperstown,US,Cherbourg,,no
+1035,2,Beauchamp, Mr. Henry James,male,28,London,UK,Southampton,,no
+1036,1,"Lindeberg-Lind, Mr. Erik Gustaf (Mr Edward Lingrey"")""",male,42,Jordanstorp,Sweden,Southampton,,no
+1037,3,Vander Planke, Mr. Julius,male,31,Zwevezele,Belgium,Southampton,,no
+1038,1,Hilliard, Mr. Herbert Henry,male,,Brighton,US,Southampton,,no
+1039,3,Davies, Mr. Evan,male,22,Pontardawe,Wales,Southampton,,no
+1040,1,Crafton, Mr. John Bertram,male,,Roachdale,US,Southampton,,no
+1041,2,Lahtinen, Rev. William,male,30,Minneapolis,US,Southampton,,no
+1042,1,Earnshaw, Mrs. Boulton (Olive Potter),female,23,,,,,no
+1043,3,Matinoff, Mr. Nicola,male,,Gabrovo,,Cherbourg,,no
+1044,3,Storey, Mr. Thomas,male,60,Liverpool,England,Southampton,,no
+1045,3,Klasen, Mrs. (Hulda Kristina Eugenia Lofqvist),female,36,Salmunds,Sweden,Southampton,,no
+1046,3,Asplund, Master. Filip Oscar,male,13,Alseda,Sweden,Southampton,,no
+1047,3,Duquemin, Mr. Joseph,male,24,SaintSampson,England,Southampton,D,yes
+1048,1,Bird, Miss. Ellen,female,29,NewYork,US,Southampton,8,yes
+1049,3,Lundin, Miss. Olga Elida,female,23,,,,,no
+1050,1,Borebank, Mr. John James,male,42,London,UK,Southampton,,no
+1051,3,Peacock, Mrs. Benjamin (Edith Nile),female,26,Southampton,England,Southampton,,no
+1052,3,Smyth, Miss. Julia,female,,Kilcogy,Ireland,Queenstown,13,yes
+1053,3,Touma, Master. Georges Youssef,male,7,Tibnin,Lebanon,Cherbourg,C,yes
+1054,2,Wright, Miss. Marion,female,26,Yeovil,England,Southampton,9,yes
+1055,3,Pearce, Mr. Ernest,male,,London,England,Southampton,,no
+1056,2,Peruschitz, Rev. Joseph Maria,male,41,Scheyern,Germany,Southampton,,no
+1057,3,Kink-Heilmann, Mrs. Anton (Luise Heilmann),female,26,Zürich,Switzerland,Southampton,2,yes
+1058,1,Brandeis, Mr. Emil,male,48,Omaha,US,Cherbourg,,no
+1059,3,Ford, Mr. Edward Watson,male,18,Rotherfield,England,Southampton,,no
+1060,1,Cassebeer, Mrs. Henry Arthur Jr (Eleanor Genevieve Fosdick),female,,NewYork,US,Cherbourg,5,yes
+1061,3,Hellstrom, Miss. Hilda Maria,female,22,StoraTuna,Sweden,Southampton,C,yes
+1062,3,Lithman, Mr. Simon,male,,Edinburgh,Scotland,Southampton,,no
+1063,3,Zakarian, Mr. Ortin,male,27,Kiğı,Turkey,Cherbourg,,no
+1064,3,Dyker, Mr. Adolf Fredrik,male,23,NewHaven,US,Southampton,,no
+1065,3,Torfa, Mr. Assad,male,,Unknown,Syria,Cherbourg,,no
+1066,3,Asplund, Mr. Carl Oscar Vilhelm Gustafsson,male,40,Alseda,Sweden,Southampton,,no
+1067,2,Brown, Miss. Edith Eileen,female,15,CapeTown,UK,Southampton,14,yes
+1068,2,Sincock, Miss. Maude,female,20,St.Ives,England,Southampton,11,yes
+1069,1,Stengel, Mr. Charles Emil Henry,male,54,Newark,US,Cherbourg,1,yes
+1070,2,Becker, Mrs. Allen Oliver (Nellie E Baumgardner),female,36,Guntur,BritishIndia,Southampton,11,yes
+1071,1,Compton, Mrs. Alexander Taylor (Mary Eliza Ingersoll),female,64,Lakewood,US,Cherbourg,14,yes
+1072,2,McCrie, Mr. James Matthew,male,30,Sarnia,Canada,Southampton,,no
+1073,1,Compton, Mr. Alexander Taylor Jr,male,37,Lakewood,US,Cherbourg,,no
+1074,1,Marvin, Mrs. Daniel Warner (Mary Graham Carmichael Farquarson),female,18,NewYork,US,Southampton,10,yes
+1075,3,Lane, Mr. Patrick,male,,Limerick,Ireland,Queenstown,,no
+1076,1,Douglas, Mrs. Frederick Charles (Mary Helene Baxter),female,27,Montreal,Canada,Cherbourg,6,yes
+1077,2,Maybery, Mr. Frank Hubert,male,40,Weston-super-Mare,England,Southampton,,no
+1078,2,Phillips, Miss. Alice Frances Louisa,female,21,Ilfracombe,England,Southampton,12,yes
+1079,3,Davies, Mr. Joseph,male,17,WestBromwich,England,Southampton,,no
+1080,3,Sage, Miss. Ada,female,,Peterborough,England,Southampton,,no
+1081,2,Veal, Mr. James,male,40,Barre,US,Southampton,,no
+1082,2,Angle, Mr. William A,male,34,Warwick,England,Southampton,,no
+1083,1,Salomon, Mr. Abraham L,male,,NewYork,US,Cherbourg,1,yes
+1084,3,van Billiard, Master. Walter John,male,44327,London,England,Southampton,,no
+1085,2,Lingane, Mr. John,male,61,Chelsea,US,Southampton,,no
+1086,2,Drew, Master. Marshall Brines,male,8,Greenport,US,Southampton,10,yes
+1087,3,Karlsson, Mr. Julius Konrad Eugen,male,33,Göteborg,Sweden,Southampton,,no
+1088,1,Spedden, Master. Robert Douglas,male,6,TuxedoPark,US,Cherbourg,3,yes
+1089,3,Nilsson, Miss. Berta Olivia,female,18,Lysvik,Sweden,Southampton,D,yes
+1090,2,Baimbrigge, Mr. Charles Robert,male,23,SaintPeterPort,ChannelIslands,Southampton,,no
+1091,3,Rasmussen, Mrs. (Lena Jacobsen Solvang),female,,Haugesund,Norway,Southampton,,no
+1092,3,Murphy, Miss. Nora,female,,Dublin,Ireland,Queenstown,16,yes
+1093,3,Danbom, Master. Gilbert Sigvard Emanuel,male,0.33,Göteborg,Sweden,Southampton,,no
+1094,1,Astor, Col. John Jacob,male,47,NewYork,US,Cherbourg,,no
+1095,2,Quick, Miss. Winifred Vera,female,8,Plymouth,England,Southampton,11,yes
+1096,2,Andrew, Mr. Frank Thomas,male,25,Redruth,England,Southampton,,no
+1097,1,Omont, Mr. Alfred Fernand,male,,LeHavre,France,Cherbourg,7,yes
+1098,3,McGowan, Miss. Katherine,female,35,Terry,Ireland,Queenstown,,no
+1099,2,Collett, Mr. Sidney C Stuart,male,24,London,England,Southampton,9,yes
+1100,1,Rosenbaum, Miss. Edith Louise,female,33,Paris,France,Cherbourg,11,yes
+1101,3,Delalic, Mr. Redjo,male,25,Bakić,Bosnia,Southampton,,no
+1102,3,Andersen, Mr. Albert Karvin,male,32,Bergen,Norway,Southampton,,no
+1103,3,Finoli, Mr. Luigi,male,,Philadelphia,US,Southampton,15,yes
+1104,2,Deacon, Mr. Percy William,male,17,Fritham,England,Southampton,,no
+1105,2,Howard, Mrs. Benjamin (Ellen Truelove Arman),female,60,Swindon,England,Southampton,,no
+1106,3,Andersson, Miss. Ida Augusta Margareta,female,38,Vadsbro,Sweden,Southampton,,no
+1107,1,Head, Mr. Christopher,male,42,Chelsea,England,Southampton,,no
+1108,3,Mahon, Miss. Bridget Delia,female,,Derrymartin,Ireland,Queenstown,,no
+1109,1,Wick, Mr. George Dennick,male,57,Youngstown,US,Southampton,,no
+1110,1,Widener, Mrs. George Dunton (Eleanor Elkins),female,50,Philadelphia,US,Southampton,4,yes
+1111,3,Thomson, Mr. Alexander Morrison,male,,Unknown,Scotland,Southampton,,no
+1112,2,Duran y More, Miss. Florentina,female,30,Barcelona,Spain,Cherbourg,12,yes
+1113,3,Reynolds, Mr. Harold J,male,21,London,England,Southampton,,no
+1114,2,Cook, Mrs. (Selena Rogers),female,22,Oxford,England,Southampton,14,yes
+1115,3,Karlsson, Mr. Einar Gervasius,male,21,Oskarshamn,Sweden,Southampton,13,yes
+1116,1,Candee, Mrs. Edward (Helen Churchill Hungerford),female,53,Washington,US,Cherbourg,6,yes
+1117,3,"Moubarek, Mrs. George (Omine Amenia"" Alexander)""",female,,Hardîne,Lebanon,Cherbourg,C,yes
+1118,3,Asplund, Mr. Johan Charles,male,23,Oskarshamn,Sweden,Southampton,13,yes
+1119,3,McNeill, Miss. Bridget,female,,Trien,Ireland,Queenstown,,no
+1120,3,Everett, Mr. Thomas James,male,40,Bristol,England,Southampton,,no
+1121,2,Hocking, Mr. Samuel James Metcalfe,male,36,Devonport,England,Southampton,,no
+1122,2,Sweet, Mr. George Frederick,male,14,Yeovil,England,Southampton,,no
+1123,1,Willard, Miss. Constance,female,21,Duluth,US,Southampton,8,yes
+1124,3,Wiklund, Mr. Karl Johan,male,21,Vaasa,Finland,Southampton,,no
+1125,3,Linehan, Mr. Michael,male,,Boherbue,Ireland,Queenstown,,no
+1126,1,Cumings, Mr. John Bradley,male,39,NewYork,US,Cherbourg,,no
+1127,3,Vendel, Mr. Olof Edvin,male,20,ÖstraSallerup,Sweden,Southampton,,no
+1128,1,Warren, Mr. Frank Manley,male,64,Portland,US,Cherbourg,,no
+1129,3,Baccos, Mr. Raffull,male,20,Unknown,Lebanon,Cherbourg,,no
+1130,2,Hiltunen, Miss. Marta,female,18,Joensuu,RussianEmpire,Southampton,,no
+1131,1,Douglas, Mrs. Walter Donald (Mahala Dutton),female,48,Minneapolis,US,Cherbourg,2,yes
+1132,1,Lindstrom, Mrs. Carl Johan (Sigrid Posse),female,55,Stockholm,Sweden,Cherbourg,6,yes
+1133,2,Christy, Mrs. (Alice Frances),female,45,London,UK,Southampton,12,yes
+1134,1,Spedden, Mr. Frederic Oakley,male,45,TuxedoPark,US,Cherbourg,3,yes
+1135,3,Hyman, Mr. Abraham,male,,Manchester,England,Southampton,C,yes
+1136,3,"Johnston, Master. William Arthur Willie""""",male,,ThorntonHeath,England,Southampton,,no
+1137,1,Kenyon, Mr. Frederick R,male,41,Pittsburgh,US,Southampton,,no
+1138,2,Karnes, Mrs. J Frank (Claire Bennett),female,22,Pittsburgh,US,Southampton,,no
+1139,2,Drew, Mr. James Vivian,male,42,Greenport,US,Southampton,,no
+1140,2,Hold, Mrs. Stephen (Annie Margaret Hill),female,29,Porthoustock,England,Southampton,10,yes
+1141,3,"Khalil, Mrs. Betros (Zahie Maria"" Elias)""",female,,Hardîne,Lebanon,Cherbourg,,no
+1142,2,West, Miss. Barbara J,female,0.92,Bournemouth,England,Southampton,10,yes
+1143,3,Abrahamsson, Mr. Abraham August Johannes,male,20,Dalsbruk,Finland,Southampton,15,yes
+1144,1,Clark, Mr. Walter Miller,male,27,LosAngeles,US,Cherbourg,,no
+1145,3,Salander, Mr. Karl Johan,male,24,Genevad,Sweden,Southampton,,no
+1146,3,Wenzel, Mr. Linhart,male,32,Vienna,Austria,Southampton,,no
+1147,3,MacKay, Mr. George William,male,,London,England,Southampton,,no
+1148,3,Mahon, Mr. John,male,,Currowhunane,Ireland,Queenstown,,no
+1149,3,Niklasson, Mr. Samuel,male,28,VästraBogane,Sweden,Southampton,,no
+1150,2,Bentham, Miss. Lilian W,female,19,Rochester,US,Southampton,12,yes
+1151,3,Midtsjo, Mr. Karl Albert,male,21,Krøkstad,Norway,Southampton,15,yes
+1152,3,de Messemaeker, Mr. Guillaume Joseph,male,36,Tampico,US,Southampton,15,yes
+1153,3,Nilsson, Mr. August Ferdinand,male,21,Hörby,Sweden,Southampton,,no
+1154,2,"Wells, Mrs. Arthur Henry (Addie"" Dart Trevaskis)""",female,29,Heamoor,England,Southampton,14,yes
+1155,3,Klasen, Miss. Gertrud Emilia,female,1,Grimshut,Sweden,Southampton,,no
+1156,2,Portaluppi, Mr. Emilio Ilario Giuseppe,male,30,Milford,US,Southampton,14,yes
+1157,3,Lyntakoff, Mr. Stanko,male,,Unknown,Bulgaria,Southampton,,no
+1158,1,Chisholm, Mr. Roderick Robert Crispin,male,,Belfast,UK,Belfast,,no
+1159,3,Warren, Mr. Charles William,male,,Portsmouth,England,Southampton,,no
+1160,3,Howard, Miss. May Elizabeth,female,,NorthWalsham,England,Southampton,C,yes
+1161,3,Pokrnic, Mr. Mate,male,17,Bukovac,Croatia,Southampton,,no
+1162,1,McCaffry, Mr. Thomas Francis,male,46,Vancouver,Canada,Southampton,,no
+1163,3,Fox, Mr. Patrick,male,,Mullingar,Ireland,Queenstown,,no
+1164,1,Clark, Mrs. Walter Miller (Virginia McDowell),female,26,LosAngeles,US,Cherbourg,4,yes
+1165,3,Lennon, Miss. Mary,female,,Ballymahon,Ireland,Queenstown,,no
+1166,3,Saade, Mr. Jean Nassr,male,,Sir'Al,Lebanon,Cherbourg,,no
+1167,2,Bryhl, Miss. Dagmar Jenny Ingeborg ,female,20,Skara,Sweden,Southampton,12,yes
+1168,2,Parker, Mr. Clifford Richard,male,28,Guernsey,England,Southampton,,no
+1169,2,Faunthorpe, Mr. Harry,male,40,Liverpool,England,Southampton,,no
+1170,2,Ware, Mr. John James,male,30,Bristol,England,Southampton,,no
+1171,2,Oxenham, Mr. Percy Thomas,male,22,London,England,Southampton,13,yes
+1172,3,Oreskovic, Miss. Jelka,female,23,KonjskoBrdo,Croatia,Southampton,,no
+1173,3,Peacock, Master. Alfred Edward,male,1,Southampton,England,Southampton,,no
+1174,3,Fleming, Miss. Honora,female,,Carrowskehine,Ireland,Queenstown,,no
+1175,3,Touma, Miss. Maria Youssef,female,9,Tibnin,Lebanon,Cherbourg,C,yes
+1176,3,Rosblom, Miss. Salli Helena,female,2,Suistamo,Finland,Southampton,,no
+1177,3,Dennis, Mr. William,male,36,WeekStMary,England,Southampton,,no
+1178,3,Franklin, Mr. Charles (Charles Fardon),male,,Wellingborough,England,Cherbourg,,no
+1179,1,Snyder, Mr. John Pillsbury,male,24,Minneapolis,US,Southampton,7,yes
+1180,3,Mardirosian, Mr. Sarkis,male,,Kiğı,Turkey,Cherbourg,,no
+1181,3,Ford, Mr. Arthur,male,,Bridgwater,England,Southampton,,no
+1182,1,Rheims, Mr. George Alexander Lucien,male,,Paris,France,Southampton,A,yes
+1183,3,"Daly, Miss. Margaret Marcella Maggie""""",female,30,Athlone,Ireland,Queenstown,15,yes
+1184,3,Nasr, Mr. Mustafa,male,,Tebnine,Lebanon,Cherbourg,,no
+1185,1,Dodge, Dr. Washington,male,53,SanFrancisco,US,Southampton,13,yes
+1186,3,Wittevrongel, Mr. Camille,male,36,Westrozebeke,Belgium,Southampton,,no
+1187,3,Angheloff, Mr. Minko,male,26,Terziysko,Bulgaria,Southampton,,no
+1188,2,Laroche, Miss. Louise,female,1,Paris,France,Cherbourg,14,yes
+1189,3,Samaan, Mr. Hanna,male,,Hardîne,Lebanon,Cherbourg,,no
+1190,1,Loring, Mr. Joseph Holland,male,30,London,Englad,Southampton,,no
+1191,3,Johansson, Mr. Nils,male,29,Chicago,US,Southampton,,no
+1192,3,Olsson, Mr. Oscar Wilhelm,male,32,Lunna,Sweden,Southampton,A,yes
+1193,2,Malachard, Mr. Noel,male,,Paris,France,Cherbourg,,no
+1194,2,Phillips, Mr. Escott Robert,male,43,Ilfracombe,England,Southampton,,no
+1195,3,Pokrnic, Mr. Tome,male,24,Bukovac,Croatia,Southampton,,no
+1196,3,"McCarthy, Miss. Catherine Katie""""",female,,Tipperary,Ireland,Queenstown,?,yes
+1197,1,Crosby, Mrs. Edward Gifford (Catherine Elizabeth Halstead),female,64,Milwaukee,US,Southampton,7,yes
+1198,1,Allison, Mr. Hudson Joshua Creighton,male,30,Montreal,Canada,Southampton,,no
+1199,3,Aks, Master. Philip Frank,male,1,London,England,Southampton,11,yes
+1200,1,Hays, Mr. Charles Melville,male,55,Montreal,Canada,Southampton,,no
+1201,3,Hansen, Mrs. Claus Peter (Jennie L Howard),female,45,Racine,US,Southampton,11,yes
+1202,3,Cacic, Mr. Jego Grga,male,18,ŠirokaKula,Croatia,Southampton,,no
+1203,3,Vartanian, Mr. David,male,22,Kiğı,Turkey,Cherbourg,13,yes
+1204,3,Sadowitz, Mr. Harry,male,,London,England,Southampton,,no
+1205,3,Carr, Miss. Jeannie,female,37,Aclare,Ireland,Queenstown,,no
+1206,1,White, Mrs. John Stuart (Ella Holmes),female,55,NewYork,US,Cherbourg,8,yes
+1207,3,Hagardon, Miss. Kate,female,17,Ballysadare,Ireland,Queenstown,,no
+1208,1,Spencer, Mr. William Augustus,male,57,NewYork,US,Cherbourg,,no
+1209,2,Rogers, Mr. Reginald Harry,male,19,Tavistock,England,Southampton,,no
+1210,3,Jonsson, Mr. Nils Hilding,male,27,Tågarp,Sweden,Southampton,,no
+1211,2,Jefferys, Mr. Ernest Wilfred,male,22,Guernsey,England,Southampton,,no
+1212,3,Andersson, Mr. Johan Samuel,male,26,Hartford,US,Southampton,,no
+1213,3,Krekorian, Mr. Neshan,male,25,Kiğı,Turkey,Cherbourg,10,yes
+1214,2,Nesson, Mr. Israel,male,26,London,England,Southampton,,no
+1215,1,Rowe, Mr. Alfred G,male,33,Liverpool,England,Southampton,,no
+1216,1,Kreuchen, Miss. Emilie,female,39,StLouis,US,Southampton,2,yes
+1217,3,Assam, Mr. Ali,male,23,BuenosAires,Argentina,Southampton,,no
+1218,2,Becker, Miss. Ruth Elizabeth,female,12,Guntur,BritishIndia,Southampton,13,yes
+1219,1,"Rosenshine, Mr. George (Mr George Thorne"")""",male,46,NewYork,US,Cherbourg,,no
+1220,2,Clarke, Mr. Charles Valentine,male,29,NetleyAbbey,England,Southampton,,no
+1221,2,Enander, Mr. Ingvar,male,21,Göteborg,Sweden,Southampton,,no
+1222,2,Davies, Mrs. John Morgan (Elizabeth Agnes Mary White) ,female,48,St.Ives,England,Southampton,14,yes
+1223,1,Dulles, Mr. William Crothers,male,39,Philadelphia,US,Cherbourg,,no
+1224,3,Thomas, Mr. Tannous,male,,Unknown,Lebanon,Cherbourg,,no
+1225,3,"Nakid, Mrs. Said (Waika Mary"" Mowad)""",female,19,Zgharta,Lebanon,Cherbourg,C,yes
+1226,3,Cor, Mr. Ivan,male,27,Kricina,Croatia,Southampton,,no
+1227,1,Maguire, Mr. John Edward,male,30,Brockton,US,Southampton,,no
+1228,2,de Brito, Mr. Jose Joaquim,male,32,Madeira,Portugal,Southampton,,no
+1229,3,Elias, Mr. Joseph,male,39,,,,,no
+1230,2,Denbury, Mr. Herbert,male,25,Guernsey,UK,Southampton,,no
+1231,3,Betros, Master. Seman,male,,Hardîne,Lebanon,Cherbourg,,no
+1232,2,Fillbrook, Mr. Joseph Charles,male,18,Truro,England,Southampton,,no
+1233,3,Lundstrom, Mr. Thure Edvin,male,32,Simrishamn,Sweden,Southampton,15,yes
+1234,3,Sage, Mr. John George,male,,Peterborough,England,Southampton,,no
+1235,1,Cardeza, Mrs. James Warburton Martinez (Charlotte Wardle Drake),female,58,Germantown,US,Cherbourg,3,yes
+1236,3,van Billiard, Master. James William,male,,London,England,Southampton,,no
+1237,3,Abelseth, Miss. Karen Marie,female,16,Sondmore,Norway,Southampton,16,yes
+1238,2,Botsford, Mr. William Hull,male,26,Orange,US,Southampton,,no
+1239,3,Whabee, Mrs. George Joseph (Shawneene Abi-Saab),female,38,Youngstown,US,Cherbourg,C,yes
+1240,2,Giles, Mr. Ralph,male,24,London,England,Southampton,,no
+1241,2,Walcroft, Miss. Nellie,female,31,Maidenhead,England,Southampton,14,yes
+1242,1,Greenfield, Mrs. Leo David (Blanche Strouse),female,45,NewYork,US,Cherbourg,7,yes
+1243,2,Stokes, Mr. Philip Joseph,male,25,London,England,Southampton,,no
+1244,2,Dibden, Mr. William,male,18,Lyndhurst,England,Southampton,,no
+1245,2,Herman, Mr. Samuel,male,49,Yeovil,England,Southampton,,no
+1246,3,"Dean, Miss. Elizabeth Gladys Millvina""""",female,1,BartleyFarm,England,Southampton,10,yes
+1247,1,Julian, Mr. Henry Forbes,male,50,Torquay,England,Southampton,,no
+1248,1,Brown, Mrs. John Murray (Caroline Lane Lamson),female,59,Belmont,US,Southampton,D,yes
+1249,3,Lockyer, Mr. Edward,male,,Sandhurst,England,Southampton,,no
+1250,3,O'Keefe, Mr. Patrick,male,,Waterford,Ireland,Queenstown,B,yes
+1251,3,Lindell, Mrs. Edvard Bengtsson (Elin Gerda Persson),female,30,Helsingborg,Sweden,Southampton,A,yes
+1252,3,Sage, Master. William Henry,male,44,Peterborough,England,Southampton,,no
+1253,2,Mallet, Mrs. Albert (Antoinette Magnin),female,24,Montreal,Canada,Cherbourg,10,yes
+1254,2,Ware, Mrs. John James (Florence Louise Long),female,31,Bristol,England,Southampton,10,yes
+1255,3,Strilic, Mr. Ivan,male,27,ŠirokaKula,Croatia,Southampton,,no
+1256,1,Harder, Mrs. George Achilles (Dorothy Annan),female,25,NewYork,US,Cherbourg,5,yes
+1257,3,Sage, Mrs. John (Annie Bullen),female,,Peterborough,England,Southampton,,no
+1258,3,Caram, Mr. Joseph,male,,KfarMechi,Syria,Cherbourg,,no
+1259,3,"Riihivouri, Miss. Susanna Juhantytar Sanni""""",female,22,Ylihärmä,Finland,Southampton,,no
+1260,1,Gibson, Mrs. Leonard (Pauline C Boeson),female,45,NewYork,US,Cherbourg,7,yes
+1261,2,Pallas y Castello, Mr. Emilio,male,29,Barcelona,Spain,Cherbourg,9,yes
+1262,2,Giles, Mr. Edgar,male,21,Porthleven,England,Southampton,,no
+1263,1,Wilson, Miss. Helen Alice,female,31,TuxedoPark,US,Cherbourg,3,yes
+1264,1,Ismay, Mr. Joseph Bruce,male,49,Liverpool,England,Southampton,C,yes
+1265,2,Harbeck, Mr. William H,male,44,Toledo,US,Southampton,,no
+1266,1,Dodge, Mrs. Washington (Ruth Vidaver),female,54,SanFrancisco,US,Southampton,5,yes
+1267,1,Bowen, Miss. Grace Scott,female,45,Cooperstown,US,Cherbourg,4,yes
+1268,3,Kink, Miss. Maria,female,22,Zürich,Switzerland,Southampton,,no
+1269,2,"Cotterill, Mr. Henry Harry""""",male,21,Penzance,England,Southampton,,no
+1270,1,Hipkins, Mr. William Edward,male,55,Birmingham,England,Southampton,,no
+1271,3,Asplund, Master. Carl Edgar,male,5,Alseda,Sweden,Southampton,,no
+1272,3,O'Connor, Mr. Patrick,male,,Kingwilliamstown,Ireland,Queenstown,,no
+1273,3,Foley, Mr. Joseph,male,26,Broadford,Ireland,Queenstown,,no
+1274,3,Risien, Mrs. Samuel (Emma),female,,Durban,SouthAfrica,Southampton,,no
+1275,3,McNamee, Mrs. Neal (Eileen O'Leary),female,19,Salisbury,England,Southampton,,no
+1276,2,"Wheeler, Mr. Edwin Frederick""""",male,,Bath,England,Southampton,,no
+1277,2,Herman, Miss. Kate,female,24,Yeovil,England,Southampton,9,yes
+1278,3,Aronsson, Mr. Ernst Axel Algot,male,24,Horset,Sweden,Southampton,,no
+1279,2,Ashby, Mr. John,male,57,WestHoboken,US,Southampton,,no
+1280,3,Canavan, Mr. Patrick,male,21,Knockmaria,Ireland,Queenstown,,no
+1281,3,Palsson, Master. Paul Folke,male,6,Bjuv,Sweden,Southampton,,no
+1282,1,Payne, Mr. Vivian Ponsonby,male,23,Montreal,Canada,Southampton,,no
+1283,1,Lines, Mrs. Ernest H (Elizabeth Lindsey James),female,51,Paris,France,Cherbourg,9,yes
+1284,3,Abbott, Master. Eugene Joseph,male,13,EastProvidence,US,Southampton,,no
+1285,2,Gilbert, Mr. William,male,47,Carleens,England,Southampton,,no
+1286,3,Kink-Heilmann, Mr. Anton,male,29,Zürich,Switzerland,Southampton,2,yes
+1287,1,Smith, Mrs. Lucien Philip (Mary Eloise Hughes),female,18,Huntington,US,Cherbourg,6,yes
+1288,3,Colbert, Mr. Patrick,male,24,Kilkinlea,Ireland,Queenstown,,no
+1289,1,Frolicher-Stehli, Mrs. Maxmillian (Margaretha Emerentia Stehli),female,48,Zürich,Switzerland,Cherbourg,5,yes
+1290,3,Larsson-Rondberg, Mr. Edvard A,male,22,Lysvik,Sweden,Southampton,,no
+1291,3,Conlon, Mr. Thomas Henry,male,31,Philadelphia,US,Queenstown,,no
+1292,1,Bonnell, Miss. Caroline,female,30,Youngstown,US,Southampton,8,yes
+1293,2,Gale, Mr. Harry,male,38,Harrowbarrow,England,Southampton,,no
+1294,1,Gibson, Miss. Dorothy Winifred,female,22,NewYork,US,Cherbourg,7,yes
+1295,1,Carrau, Mr. Jose Pedro,male,17,Montevideo,Uruguay,Southampton,,no
+1296,1,Frauenthal, Mr. Isaac Gerald,male,43,London,UK,Southampton,5,yes
+1297,2,"Nourney, Mr. Alfred (Baron von Drachstedt"")""",male,20,Cologne,Germany,Cherbourg,7,yes
+1298,2,Ware, Mr. William Jeffery,male,23,Gunnislake,England,Southampton,,no
+1299,1,Widener, Mr. George Dunton,male,50,Philadelphia,US,Southampton,,no
+1300,3,"Riordan, Miss. Johanna Hannah""""",female,,Glenlougha,Ireland,Queenstown,13,yes
+1301,3,Peacock, Miss. Treasteall,female,3,Southampton,England,Southampton,,no
+1302,3,Naughton, Miss. Hannah,female,,Donoughmore,Ireland,Queenstown,,no
+1303,1,Minahan, Mrs. William Edward (Lillian E Thorpe),female,37,FondduLac,US,Southampton,14,yes
+1304,3,Henriksson, Miss. Jenny Lovisa,female,28,Stockholm,Sweden,Southampton,,no
+1305,3,Spector, Mr. Woolf,male,,London,England,Southampton,,no
+1306,1,Oliva y Ocana, Dona. Fermina,female,39,Madrid,Spain,Cherbourg,8,yes
+1307,3,Saether, Mr. Simon Sivertsen,male,38,Skaun,Norway,Southampton,,no
+1308,3,Ware, Mr. Frederick,male,,Greenwich,England,Southampton,,no
+1309,3,Peter, Master. Michael J,male,,Sar'al,Syria,Cherbourg,D,yes
