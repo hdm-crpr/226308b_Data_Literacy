@@ -13,7 +13,8 @@ position2 = zweite Rolle/Position im Feld
 position3 = dritte Rolle/Position im Feld  
 age = Alter  
 hits = Tore  
-potentional = Wachstumgspotenzial  
+overall = Ranking des "Werts" des Spielers  
+potentional = Wachstumgspotenzial des Spielers
 team = Team Saison 2020/2021
 
 ### Positionen
