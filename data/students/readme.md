@@ -23,12 +23,21 @@ Welche Studienrichtung haben Sie vertieft?
 1 = CR  
 2 = PR
 
+**height**
+Größe in cm  
+
+**weight**
+Gewicht in kg  
+
 **age**   
 Bitte geben Sie Ihr Alter an:  
 1 = bis 20 Jahre    
 2 = 21 bis 22 Jahre    
 3 = 23 bis 24 Jahre  
-4 = 25 und älter  
+4 = 25 und älter
+
+**age_real**   
+Alter in natürlichen Zahlen.   
 
 **smoke**    
 Rauchen Sie mindestens ein Mal pro Woche?  
