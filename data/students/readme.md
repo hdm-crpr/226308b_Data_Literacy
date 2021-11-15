@@ -18,15 +18,15 @@ Bitte geben Sie ihr Geschlecht an:
 2 = männlich  
 3 = divers
   
-**crpr***    
+**crpr**     
 Welche Studienrichtung haben Sie vertieft?  
 1 = CR  
 2 = PR
 
-**height**
+**height**  
 Größe in cm  
 
-**weight**
+**weight**  
 Gewicht in kg  
 
 **age**   
