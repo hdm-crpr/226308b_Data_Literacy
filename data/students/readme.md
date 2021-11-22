@@ -1,16 +1,16 @@
 # Students Training Dataset
 
 ## Codebuch
-Datensatz von 38 Studierenden aus dem Studiengang CR/PR (anonymisierte und fiktive Daten)
+Datensatz von 38 Studierenden aus dem Studiengang CR/PR (anonymisierte und fiktive Daten). Dieser synthetische Datensatz wird als Trainingsdatensatz für Data Literacy verwendet.
   
 **id**  
-Identische ID wie aus der edgelist zur Identifikation der Knoten. In diesem Fall sind alle personenbezogenen Daten anonymisiert von 1 bis 38.
+Eindeutige ID als numerische ID codiert
 
-**name**
-numerische ID
+**name**  
+numerische ID zur Identifikation des Datensatzes. Hier identisch mit **id**.  
 
-**name_first**
-Vorname abgekürzt, z.B. für Visualiserung, falls der Name zu lange ist
+**name_first**  
+Vorname abgekürzt, z.B. für Visualiserung, falls der Name zu lange ist.  
 
 **sex**    
 Bitte geben Sie ihr Geschlecht an:  
@@ -67,8 +67,8 @@ Welche Haarfarbe?
 3 = blond,    
 4 = rot.    
 
-**location** 
-Wohnort, als string/characters codiert  
+**location**  
+Wohnort, als string/characters codiert   
 
-**county**  
-Bundesland, als string/characters codiert 
+**county**   
+Bundesland, als string/characters codiert  
