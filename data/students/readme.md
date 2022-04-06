@@ -10,7 +10,7 @@ Eindeutige ID als numerische ID codiert
 numerische ID zur Identifikation des Datensatzes. Hier identisch mit **id**.  
 
 **name_first**  
-Vorname abgekürzt, z.B. für Visualiserung, falls der Name zu lange ist.  
+Vorname abgekürzt, z.B. für Visualisierung, falls der Name zu lange ist.  
 
 **sex**    
 Bitte geben Sie ihr Geschlecht an:  
