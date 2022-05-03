@@ -58,7 +58,7 @@ Welche Augenfarbe?
 1 = grün,   
 2 = blau,   
 3 = braun,   
-4 = blau.     
+4 = grau.     
 
 **hair**  
 Welche Haarfarbe?  
