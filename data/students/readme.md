@@ -44,8 +44,8 @@ Rauchen Sie mindestens ein Mal pro Woche?
 1 = nein   
 2 = ja  
   
-**tatoo**    
-Tatoo vorhanden?   
+**tattoo**    
+Tattoo vorhanden?   
 1 = nein  
 2 = ja  
 
