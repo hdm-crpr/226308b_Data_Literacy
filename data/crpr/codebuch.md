@@ -7,7 +7,7 @@ name: Vorname (character)
 gender: Geschlecht als männlich, weiblich, divers (character)
 study: Vertiefungsrichtung, CR oder PR  
 study_weekly: Zeit fürs Studium in Stunden (numeric)  
-work_weekly: Zeit für Nebenjob in Stunden (numeric)
+work_weekly: Zeit für Nebenjob in Stunden (numeric)  
 income: verfügbares Geld in Euro (numeric)  
 rent: Miete in Euro (numeric)  
 abitur: Notenschnitt des Abiturs (decimal)  
