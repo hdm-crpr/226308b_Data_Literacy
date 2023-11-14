@@ -1,7 +1,7 @@
 # Students Training Dataset
 
 ## Codebuch
-Datensatz von 38 Studierenden aus dem Studiengang CR/PR (anonymisierte und fiktive Daten). Dieser synthetische Datensatz wird als Trainingsdatensatz für Data Literacy verwendet.
+Datensatz von 38 Studierenden aus dem Studiengang CR/PR (anonymisierte und fiktive Daten). Dieser synthetische Datensatz wird als Trainingsdatensatz für Data Literacy verwendet. Zudem gibt es einen größeren Datensatz students_international, der mehr Variablen hat. Dieser kann zu vertiefenden Übungen eingesetzt werden.
   
 **id**  
 Eindeutige ID als numerische ID codiert
