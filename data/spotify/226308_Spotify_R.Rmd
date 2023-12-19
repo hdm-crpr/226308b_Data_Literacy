@@ -1,0 +1,95 @@
+---
+title: "Spotify Datensatz erstellen"
+author: "Swaran Sandhu"
+date: "`r Sys.Date()`"
+output: html_document
+---
+
+# Spotify an R anbinden
+
+Credentials and Idea: <https://schuster-j.github.io/spotify-api-tutorial/> sowie <https://msmith7161.github.io/what-is-speechiness/>\
+Anpassung und Umsetzung: Marie Starzmann und Jacqueline Trautmann
+
+## Setup
+
+Mit diesem Skript können Sie auf ihre Spotify-Daten zugreifen und diese auswerten. Wer keinen Spotify Zugriff hat bekommt für die Übung einen Beispieldatensatz von uns auf Moodle.
+
+## Spotify vorbereiten
+
+Dazu braucht es einen Sp**otify-Account** auf dem Desktop. Dort einloggen.
+
+1.  Auf Spotify im Browser einloggen, dann den Link unten öffnen.
+2.  <https://developer.spotify.com/dashboard/login> \
+    -\> Dort mit dem eigenen Spotify-Account anmelden, es sind die gleichen Passwörter
+3.  Auf Reiter "**Create App**" gehen
+4.  Bei "**app name**" einen sinnvollen Namen geben, z.B. "Spotify API for R", schreibt bei "app description" einen kurzen Text (z.B. „Spotify API für R" und euer Kürzel) und kopiert bei "**redirect URL**" folgende URL : [http://localhost:1410/](#0){.uri}
+5.  Dann geht ihr auf "**Settings**" und lasst das Fenster offen, damit die Daten in Euer R-Skript integriert werden können.
+
+```{r Setup für Spotify, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+
+# Pakete installieren (nur ein Mal notwendig, danach ignorieren)
+install.packages("spotifyr") 
+install.packages("purrr") 
+
+# Programmbibliotheken laden
+library(tidyverse) 
+library(dplyr) 
+library(purrr) 
+library(spotifyr)
+library(ggplot2) 
+```
+
+## R und Spotify verbinden
+
+Auf Spotify muss zunächst die Schnittstelle aktiviert werden, dazu die Daten aus der oben erstellten APP auf Spotify eintragen:
+
+SPOTIFY_CLIENT_ID = "XXXXXXXXXXXX"\
+SPOTIFY_CLIENT_SECRET = "XXXXXXXXXXX"\
+\
+Das XX ersetzen durch die eigene ID.
+
+```{r Access Token für Spotiy setzen}
+
+Sys.setenv(SPOTIFY_CLIENT_ID = "XXXXXXXXXXXX") 
+Sys.setenv(SPOTIFY_CLIENT_SECRET = "XXXXXXXXXXX") 
+access_token <- get_spotify_access_token() access_token
+```
+
+## Playlist suchen und importieren
+
+Eine beliebige (öffentliche) Spotify-Playlist im Browser suchen.\
+Aus der URL-Anzeige im Browser den Teil zwischen dem letzten Schrägstrich und dem Fragezeichen (inklusive Fragezeichen)
+
+Beispiel: ...open.spotify.com/playlist**/37i9dQZEVXbMDoHDwVN2tF?**si=95eadb888fe644fc\
+Kopieren: **37i9dQZEVXbMDoHDwVN2tF?**
+
+```{r Spotify Playlist als Datensatz importieren}
+
+# Username "Platzhalter" ersetzen durch Name des Users der Playlist
+playlist_user <- "Platzhalter"
+
+# Playlist erstellen
+playlist_name <- c("XXXXXXXXXXXXXXXX")
+
+# Dataframe pl erzeugen
+# wir fügen jetzt die Playlist und den Nutzer in einem dataframe zusammen
+pl <- get_playlist_audio_features(playlist_user, playlist_name)
+
+# Datensatz aufrufen
+pl
+
+# Übersicht über den Datensatz verschaffen
+glimpse(pl)
+skimr(pl)
+```
+
+## Spotify-Datensatz analysieren
+
+Siehe dazu folgende ausgezeichnete Tutorials:
+
+-   Jonathan Schuster: [Spotify Analyse und Auswertung](https://schuster-j.github.io/spotify-api-tutorial/)
+
+-   Joffrey Mayer: [Datengenerierung und -verarbeitung mit Spotify](https://www.joffreymayer.com/de/projekt/spotify-datengenerierung-und-verarbeitung/)
+
+-   
