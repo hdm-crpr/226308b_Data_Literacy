@@ -21,7 +21,7 @@ Geschlecht:
 **crpr**     
 Welche Studienrichtung haben Sie vertieft?  
 1 = CR  
-2 = PR
+2 = PR  
 INT = International Semester
 
 **semester**  
