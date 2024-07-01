@@ -1,0 +1,624 @@
+Name,Position,Age,Club,Height,Foot,Caps,Goals,MarketValue,Country
+Marc-André ter Stegen,Goalkeeper,32,FC Barcelona,187,right,40,0,28000000,Germany
+Manuel Neuer,Goalkeeper,38,Bayern Munich,193,right,119,0,4000000,Germany
+Oliver Baumann,Goalkeeper,34,TSG 1899 Hoffenheim,187,right,0,0,3000000,Germany
+Nico Schlotterbeck,Centre-Back,24,Borussia Dortmund,191,left,12,0,40000000,Germany
+Jonathan Tah,Centre-Back,28,Bayer 04 Leverkusen,195,right,25,0,30000000,Germany
+Antonio Rüdiger,Centre-Back,31,Real Madrid,190,right,69,3,25000000,Germany
+Waldemar Anton,Centre-Back,27,VfB Stuttgart,189,right,2,0,20000000,Germany
+Robin Koch,Centre-Back,27,Eintracht Frankfurt,191,right,9,0,18000000,Germany
+David Raum,Left-Back,26,RB Leipzig,180,left,21,0,20000000,Germany
+Maximilian Mittelstädt,Left-Back,27,VfB Stuttgart,180,left,4,1,17000000,Germany
+Joshua Kimmich,Right-Back,29,Bayern Munich,177,right,86,6,50000000,Germany
+Benjamin Henrichs,Right-Back,27,RB Leipzig,185,right,15,0,20000000,Germany
+Aleksandar Pavlovic,Defensive Midfield,20,Bayern Munich,188,both,1,0,30000000,Germany
+Robert Andrich,Defensive Midfield,29,Bayer 04 Leverkusen,187,right,5,0,17000000,Germany
+İlkay Gündoğan,Central Midfield,33,FC Barcelona,180,right,77,18,15000000,Germany
+Toni Kroos,Central Midfield,34,Real Madrid,183,right,109,17,10000000,Germany
+Pascal Groß,Central Midfield,32,Brighton & Hove Albion,181,right,7,1,8000000,Germany
+Florian Wirtz,Attacking Midfield,21,Bayer 04 Leverkusen,177,right,18,1,130000000,Germany
+Jamal Musiala,Attacking Midfield,21,Bayern Munich,184,right,29,2,120000000,Germany
+Kai Havertz,Attacking Midfield,24,Arsenal FC,193,left,46,16,70000000,Germany
+Chris Führich,Left Winger,26,VfB Stuttgart,181,right,4,0,28000000,Germany
+Leroy Sané,Right Winger,28,Bayern Munich,183,left,60,13,70000000,Germany
+Thomas Müller,Second Striker,34,Bayern Munich,185,right,129,45,8000000,Germany
+Maximilian Beier,Centre-Forward,21,TSG 1899 Hoffenheim,185,right,1,0,30000000,Germany
+Deniz Undav,Centre-Forward,27,VfB Stuttgart,179,right,2,0,25000000,Germany
+Niclas Füllkrug,Centre-Forward,31,Borussia Dortmund,189,right,16,11,15000000,Germany
+Angus Gunn,Goalkeeper,28,Norwich City,196,right,7,0,2500000,Scotland
+Liam Kelly,Goalkeeper,28,Motherwell FC,184,right,1,0,800000,Scotland
+Zander Clark,Goalkeeper,31,Heart of Midlothian FC,191,right,3,0,700000,Scotland
+Scott McKenna,Centre-Back,27,FC Copenhagen,189,left,33,1,10000000,Scotland
+Jack Hendry,Centre-Back,29,Al-Ettifaq FC,192,right,24,3,3000000,Scotland
+Ryan Porteous,Centre-Back,25,Watford FC,188,right,6,0,3000000,Scotland
+Liam Cooper,Centre-Back,32,Leeds United,186,left,17,0,1000000,Scotland
+Grant Hanley,Centre-Back,32,Norwich City,188,right,48,2,900000,Scotland
+Andrew Robertson,Left-Back,30,Liverpool FC,178,left,69,3,30000000,Scotland
+Kieran Tierney,Left-Back,27,Real Sociedad,180,left,43,1,12000000,Scotland
+Greg Taylor,Left-Back,26,Celtic FC,171,left,11,0,7500000,Scotland
+Anthony Ralston,Right-Back,25,Celtic FC,178,right,6,1,1800000,Scotland
+Ross McCrorie,Right-Back,26,Bristol City,187,right,0,0,1800000,Scotland
+Scott McTominay,Defensive Midfield,27,Manchester United,191,right,41,6,32000000,Scotland
+Billy Gilmour,Defensive Midfield,22,Brighton & Hove Albion,170,right,19,1,18000000,Scotland
+John McGinn,Central Midfield,29,Aston Villa,178,left,57,17,30000000,Scotland
+Callum McGregor,Central Midfield,30,Celtic FC,178,left,53,2,8500000,Scotland
+Stuart Armstrong,Central Midfield,32,Southampton FC,183,right,44,2,2000000,Scotland
+Ryan Jack,Central Midfield,32,Rangers FC,182,right,15,0,1000000,Scotland
+Kenny McLean,Central Midfield,32,Norwich City,180,left,32,2,900000,Scotland
+Ryan Christie,Attacking Midfield,29,AFC Bournemouth,178,left,40,5,12000000,Scotland
+Lewis Morgan,Left Winger,27,New York Red Bulls,178,both,2,0,4000000,Scotland
+James Forrest,Right Winger,32,Celtic FC,175,right,38,5,1000000,Scotland
+Ché Adams,Centre-Forward,27,Southampton FC,179,right,25,6,15000000,Scotland
+Lawrence Shankland,Centre-Forward,28,Heart of Midlothian FC,185,right,9,2,4000000,Scotland
+Tommy Conway,Centre-Forward,21,Bristol City,185,right,0,0,4000000,Scotland
+Péter Gulácsi,Goalkeeper,34,RB Leipzig,190,right,53,0,3000000,Hungary
+Dénes Dibusz,Goalkeeper,33,Ferencvárosi TC,188,right,36,0,2500000,Hungary
+Péter Szappanos,Goalkeeper,33,Paksi FC,194,right,1,0,500000,Hungary
+Willi Orbán,Centre-Back,31,RB Leipzig,186,right,43,6,10000000,Hungary
+Attila Szalai,Centre-Back,26,SC Freiburg,192,left,43,1,4000000,Hungary
+Márton Dárdai,Centre-Back,22,Hertha BSC,188,left,3,0,2500000,Hungary
+Botond Balogh,Centre-Back,22,Parma Calcio 1913,189,right,4,0,1800000,Hungary
+Ádám Lang,Centre-Back,31,Omonia Nicosia,186,right,68,2,450000,Hungary
+Milos Kerkez,Left-Back,20,AFC Bournemouth,180,left,15,0,20000000,Hungary
+Zsolt Nagy,Left-Back,31,Puskás Akadémia FC,188,both,19,3,1000000,Hungary
+Bendegúz Bolla,Right-Back,24,Servette FC,179,right,16,0,2000000,Hungary
+Endre Botka,Right-Back,29,Ferencvárosi TC,178,right,26,1,1000000,Hungary
+Loïc Nego,Right-Back,33,Le Havre AC,181,right,36,2,900000,Hungary
+Attila Fiola,Right-Back,34,Fehérvár FC,183,right,56,2,400000,Hungary
+Ádám Nagy,Defensive Midfield,28,Spezia Calcio,178,right,80,2,900000,Hungary
+Dominik Szoboszlai,Central Midfield,23,Liverpool FC,187,right,41,12,75000000,Hungary
+András Schäfer,Central Midfield,25,1.FC Union Berlin,178,right,25,3,5000000,Hungary
+Callum Styles,Central Midfield,24,Barnsley FC,167,left,21,0,2500000,Hungary
+Mihály Kata,Central Midfield,22,MTK Budapest,176,right,3,0,1000000,Hungary
+Dániel Gazdag,Attacking Midfield,28,Philadelphia Union,178,right,24,4,8000000,Hungary
+László Kleinheisler,Attacking Midfield,30,HNK Hajduk Split,173,right,50,3,1500000,Hungary
+Krisztofer Horváth,Attacking Midfield,22,Kecskeméti TE,185,right,2,0,1200000,Hungary
+Roland Sallai,Right Winger,27,SC Freiburg,183,both,48,12,15000000,Hungary
+Kevin Csoboth,Right Winger,23,Újpest FC,174,right,7,0,1000000,Hungary
+Barnabás Varga,Centre-Forward,29,Ferencvárosi TC,181,right,10,4,2500000,Hungary
+Martin Ádám,Centre-Forward,29,Ulsan HD FC,191,left,20,3,800000,Hungary
+Gregor Kobel,Goalkeeper,26,Borussia Dortmund,196,right,5,0,40000000,Switzerland
+Yann Sommer,Goalkeeper,35,Inter Milan,183,right,88,0,5000000,Switzerland
+Yvon Mvogo,Goalkeeper,30,FC Lorient,190,right,9,0,3000000,Switzerland
+Manuel Akanji,Centre-Back,28,Manchester City,188,right,59,3,45000000,Switzerland
+Nico Elvedi,Centre-Back,27,Borussia Mönchengladbach,189,right,52,2,10000000,Switzerland
+Fabian Schär,Centre-Back,32,Newcastle United,186,right,81,8,10000000,Switzerland
+Leonidas Stergiou,Centre-Back,22,VfB Stuttgart,181,right,2,0,5000000,Switzerland
+Cédric Zesiger,Centre-Back,25,VfL Wolfsburg,194,left,3,0,5000000,Switzerland
+Ricardo Rodríguez,Centre-Back,31,Torino FC,182,left,114,9,3500000,Switzerland
+Silvan Widmer,Right-Back,31,1.FSV Mainz 05,183,right,42,3,3000000,Switzerland
+Denis Zakaria,Defensive Midfield,27,AS Monaco,190,right,54,3,25000000,Switzerland
+Granit Xhaka,Defensive Midfield,31,Bayer 04 Leverkusen,186,left,124,14,20000000,Switzerland
+Ardon Jashari,Defensive Midfield,21,FC Luzern,181,left,2,0,6000000,Switzerland
+Michel Aebischer,Central Midfield,27,Bologna FC 1909,183,right,19,0,9000000,Switzerland
+Remo Freuler,Central Midfield,32,Bologna FC 1909,180,right,66,8,6500000,Switzerland
+Vincent Sierro,Central Midfield,28,FC Toulouse,185,right,2,0,4000000,Switzerland
+Fabian Rieder,Attacking Midfield,22,Stade Rennais FC,179,left,5,0,8000000,Switzerland
+Xherdan Shaqiri,Attacking Midfield,32,Chicago Fire FC,169,left,122,31,2500000,Switzerland
+Noah Okafor,Left Winger,24,AC Milan,185,right,21,2,20000000,Switzerland
+Steven Zuber,Left Winger,32,AEK Athens,182,right,53,11,2000000,Switzerland
+Dan Ndoye,Right Winger,23,Bologna FC 1909,184,right,10,0,14000000,Switzerland
+Rubén Vargas,Right Winger,25,FC Augsburg,179,right,42,7,7500000,Switzerland
+Renato Steffen,Right Winger,32,FC Lugano,170,left,39,4,1000000,Switzerland
+Breel Embolo,Centre-Forward,27,AS Monaco,187,right,63,13,12000000,Switzerland
+Zeki Amdouni,Centre-Forward,23,Burnley FC,185,both,14,7,12000000,Switzerland
+Kwadwo Duah,Centre-Forward,27,Ludogorets Razgrad,185,right,1,0,3000000,Switzerland
+David Raya,Goalkeeper,28,Arsenal FC,183,right,5,0,35000000,Spain
+Unai Simón,Goalkeeper,26,Athletic Bilbao,190,right,39,0,30000000,Spain
+Álex Remiro,Goalkeeper,29,Real Sociedad,191,right,1,0,25000000,Spain
+Robin Le Normand,Centre-Back,27,Real Sociedad,187,right,10,1,40000000,Spain
+Dani Vivian,Centre-Back,24,Athletic Bilbao,184,right,2,0,25000000,Spain
+Aymeric Laporte,Centre-Back,30,Al-Nassr FC,191,left,28,1,20000000,Spain
+Nacho Fernández,Centre-Back,34,Real Madrid,180,right,24,1,3000000,Spain
+Alejandro Grimaldo,Left-Back,28,Bayer 04 Leverkusen,171,left,3,0,45000000,Spain
+Marc Cucurella,Left-Back,25,Chelsea FC,173,left,3,0,25000000,Spain
+Daniel Carvajal,Right-Back,32,Real Madrid,173,right,43,0,12000000,Spain
+Jesús Navas,Right-Back,38,Sevilla FC,170,right,52,5,2500000,Spain
+Rodri,Defensive Midfield,27,Manchester City,191,right,49,3,120000000,Spain
+Martín Zubimendi,Defensive Midfield,25,Real Sociedad,181,right,6,0,50000000,Spain
+Pedri,Central Midfield,21,FC Barcelona,174,right,19,0,80000000,Spain
+Mikel Merino,Central Midfield,27,Real Sociedad,189,left,20,1,50000000,Spain
+Fabián Ruiz,Central Midfield,28,Paris Saint-Germain,189,left,22,1,30000000,Spain
+Fermín López,Central Midfield,21,FC Barcelona,174,right,1,0,30000000,Spain
+Dani Olmo,Attacking Midfield,26,RB Leipzig,179,right,33,8,50000000,Spain
+Álex Baena,Attacking Midfield,22,Villarreal CF,174,right,3,1,40000000,Spain
+Nico Williams,Left Winger,21,Athletic Bilbao,181,right,13,2,60000000,Spain
+Ferran Torres,Left Winger,24,FC Barcelona,184,right,41,19,30000000,Spain
+Ayoze Pérez,Left Winger,30,Real Betis Balompié,178,right,1,1,7000000,Spain
+Lamine Yamal,Right Winger,16,FC Barcelona,178,left,6,2,90000000,Spain
+Mikel Oyarzabal,Centre-Forward,27,Real Sociedad,181,left,29,10,45000000,Spain
+Álvaro Morata,Centre-Forward,31,Atlético de Madrid,189,right,72,34,16000000,Spain
+Joselu,Centre-Forward,34,Real Madrid,191,right,10,5,5000000,Spain
+Dominik Livakovic,Goalkeeper,29,Fenerbahce,188,right,53,0,11000000,Croatia
+Nediljko Labrovic,Goalkeeper,24,HNK Rijeka,196,right,1,0,4500000,Croatia
+Ivica Ivusic,Goalkeeper,29,Pafos FC,195,right,6,0,2500000,Croatia
+Josip Stanisic,Centre-Back,24,Bayer 04 Leverkusen,187,both,17,0,28000000,Croatia
+Josip Sutalo,Centre-Back,24,Ajax Amsterdam,190,right,13,0,15000000,Croatia
+Marin Pongracic,Centre-Back,26,US Lecce,193,right,7,0,7000000,Croatia
+Martin Erlić,Centre-Back,26,US Sassuolo,193,right,9,0,3000000,Croatia
+Domagoj Vida,Centre-Back,35,AEK Athens,184,right,105,4,1200000,Croatia
+Josko Gvardiol,Left-Back,22,Manchester City,185,left,29,2,75000000,Croatia
+Borna Sosa,Left-Back,26,Ajax Amsterdam,187,left,20,1,7500000,Croatia
+Josip Juranovic,Right-Back,28,1.FC Union Berlin,173,right,37,0,7500000,Croatia
+Marcelo Brozovic,Defensive Midfield,31,Al-Nassr FC,181,both,95,7,16000000,Croatia
+Mateo Kovacic,Central Midfield,30,Manchester City,177,right,100,5,30000000,Croatia
+Luka Sucic,Central Midfield,21,Red Bull Salzburg,185,left,6,0,15000000,Croatia
+Mario Pasalic,Central Midfield,29,Atalanta BC,188,right,62,10,13000000,Croatia
+Luka Modric,Central Midfield,38,Real Madrid,172,right,174,24,6000000,Croatia
+Lovro Majer,Attacking Midfield,26,VfL Wolfsburg,178,left,30,8,20000000,Croatia
+Martin Baturina,Attacking Midfield,21,GNK Dinamo Zagreb,172,right,3,0,20000000,Croatia
+Nikola Vlašić,Attacking Midfield,26,Torino FC,179,right,55,8,10000000,Croatia
+Luka Ivanusec,Left Winger,25,Feyenoord Rotterdam,175,right,20,2,12000000,Croatia
+Marko Pjaca,Left Winger,29,HNK Rijeka,186,right,26,1,2500000,Croatia
+Ivan Perisic,Left Winger,35,HNK Hajduk Split,186,both,130,33,2000000,Croatia
+Marco Pasalic,Right Winger,23,HNK Rijeka,177,left,5,1,4000000,Croatia
+Andrej Kramaric,Centre-Forward,32,TSG 1899 Hoffenheim,177,right,92,28,5000000,Croatia
+Ante Budimir,Centre-Forward,32,CA Osasuna,190,left,20,2,5000000,Croatia
+Bruno Petkovic,Centre-Forward,29,GNK Dinamo Zagreb,193,right,37,11,5000000,Croatia
+Thomas Strakosha,Goalkeeper,29,Brentford FC,193,right,28,0,3000000,Albania
+Elhan Kastrati,Goalkeeper,27,AS Cittadella,189,right,2,0,1300000,Albania
+Etrit Berisha,Goalkeeper,35,FC Empoli,194,left,80,0,500000,Albania
+Berat Djimsiti,Centre-Back,31,Atalanta BC,190,right,57,1,10000000,Albania
+Marash Kumbulla,Centre-Back,24,US Sassuolo,191,right,19,0,4500000,Albania
+Ardian Ismajli,Centre-Back,27,FC Empoli,187,right,38,2,3000000,Albania
+Enea Mihaj,Centre-Back,25,FC Famalicão,186,right,19,0,1500000,Albania
+Arlind Ajeti,Centre-Back,30,CFR Cluj,184,right,25,1,1000000,Albania
+Mario Mitaj,Left-Back,20,Lokomotiv Moscow,180,left,13,0,2000000,Albania
+Naser Aliji,Left-Back,30,FC Voluntari,177,left,13,0,400000,Albania
+Elseid Hysaj,Right-Back,30,SS Lazio,182,right,83,2,2500000,Albania
+Iván Balliu,Right-Back,32,Rayo Vallecano,172,right,13,0,2000000,Albania
+Kristjan Asllani,Defensive Midfield,22,Inter Milan,175,right,20,2,18000000,Albania
+Ylber Ramadani,Defensive Midfield,28,US Lecce,185,right,35,1,4000000,Albania
+Klaus Gjasula,Defensive Midfield,34,SV Darmstadt 98,190,both,28,0,400000,Albania
+Amir Abrashi,Defensive Midfield,34,Grasshopper Club Zurich,172,right,50,1,200000,Albania
+Qazim Laci,Central Midfield,28,AC Sparta Prague,173,right,27,3,2500000,Albania
+Medon Berisha,Central Midfield,20,US Lecce,186,right,1,0,1000000,Albania
+Ernest Muci,Attacking Midfield,23,Besiktas JK,180,both,10,3,13000000,Albania
+Nedim Bajrami,Attacking Midfield,25,US Sassuolo,179,right,23,4,4500000,Albania
+Arbër Hoxha,Left Winger,25,GNK Dinamo Zagreb,185,right,4,0,1800000,Albania
+Jasir Asani,Right Winger,29,Gwangju FC,175,left,13,4,1000000,Albania
+Armando Broja,Centre-Forward,22,Chelsea FC,191,right,21,5,22000000,Albania
+Rey Manaj,Centre-Forward,27,Sivasspor,182,right,33,7,5000000,Albania
+Taulant Seferi,Centre-Forward,27,FC Baniyas,184,right,19,3,3500000,Albania
+Mirlind Daku,Centre-Forward,26,Rubin Kazan,192,right,5,1,3000000,Albania
+Gianluigi Donnarumma,Goalkeeper,25,Paris Saint-Germain,196,right,61,0,40000000,Italy
+Guglielmo Vicario,Goalkeeper,27,Tottenham Hotspur,194,right,2,0,35000000,Italy
+Alex Meret,Goalkeeper,27,SSC Napoli,190,left,3,0,12000000,Italy
+Alessandro Bastoni,Centre-Back,25,Inter Milan,190,left,23,1,70000000,Italy
+Alessandro Buongiorno,Centre-Back,25,Torino FC,190,left,3,0,35000000,Italy
+Riccardo Calafiori,Centre-Back,22,Bologna FC 1909,188,left,1,0,30000000,Italy
+Gianluca Mancini,Centre-Back,28,AS Roma,190,right,13,0,25000000,Italy
+Federico Gatti,Centre-Back,25,Juventus FC,190,right,3,0,18000000,Italy
+Federico Dimarco,Left-Back,26,Inter Milan,175,left,18,2,50000000,Italy
+Andrea Cambiaso,Left-Back,24,Juventus FC,182,both,3,0,25000000,Italy
+Giovanni Di Lorenzo,Right-Back,30,SSC Napoli,183,right,35,3,15000000,Italy
+Raoul Bellanova,Right-Back,24,Torino FC,188,right,1,0,15000000,Italy
+Matteo Darmian,Right-Back,34,Inter Milan,183,right,42,2,4000000,Italy
+Bryan Cristante,Defensive Midfield,29,AS Roma,186,right,39,2,20000000,Italy
+Jorginho,Defensive Midfield,32,Arsenal FC,178,right,53,5,12000000,Italy
+Nicolò Barella,Central Midfield,27,Inter Milan,175,right,53,9,80000000,Italy
+Davide Frattesi,Central Midfield,24,Inter Milan,178,right,14,4,35000000,Italy
+Nicolò Fagioli,Central Midfield,23,Juventus FC,178,right,2,0,15000000,Italy
+Michael Folorunsho,Central Midfield,26,Hellas Verona,190,right,0,0,8500000,Italy
+Lorenzo Pellegrini,Attacking Midfield,27,AS Roma,186,right,29,6,25000000,Italy
+Federico Chiesa,Left Winger,26,Juventus FC,175,right,46,7,35000000,Italy
+Mattia Zaccagni,Left Winger,28,SS Lazio,177,right,5,0,20000000,Italy
+Stephan El Shaarawy,Left Winger,31,AS Roma,178,right,31,7,5000000,Italy
+Giacomo Raspadori,Second Striker,24,SSC Napoli,172,right,27,6,25000000,Italy
+Gianluca Scamacca,Centre-Forward,25,Atalanta BC,195,right,15,1,35000000,Italy
+Mateo Retegui,Centre-Forward,25,Genoa CFC,186,right,7,4,16000000,Italy
+Jan Oblak,Goalkeeper,31,Atlético de Madrid,188,right,64,0,28000000,Slovenia
+Vid Belec,Goalkeeper,34,APOEL Nicosia,192,right,21,0,500000,Slovenia
+Igor Vekic,Goalkeeper,26,Vejle Boldklub,192,right,1,0,300000,Slovenia
+Jaka Bijol,Centre-Back,25,Udinese Calcio,190,right,48,1,10000000,Slovenia
+David Brekalo,Centre-Back,25,Orlando City SC,188,right,12,1,3500000,Slovenia
+Vanja Drkusic,Centre-Back,24,FC Sochi,188,right,7,0,2800000,Slovenia
+Zan Zaletel,Centre-Back,24,Viborg FF,185,right,2,0,1200000,Slovenia
+Jure Balkovec,Left-Back,29,Alanyaspor,185,left,32,0,1200000,Slovenia
+Erik Janza,Left-Back,30,Górnik Zabrze,175,left,9,2,600000,Slovenia
+Petar Stojanović,Right-Back,28,UC Sampdoria,178,right,52,3,1300000,Slovenia
+Zan Karnicnik,Right-Back,29,NK Celje,184,right,27,1,1000000,Slovenia
+Jon Gorenc Stankovic,Defensive Midfield,28,SK Sturm Graz,190,right,23,1,4500000,Slovenia
+Adrian Zeljkovic,Defensive Midfield,21,Spartak Trnava,192,right,1,0,2000000,Slovenia
+Sandi Lovric,Central Midfield,26,Udinese Calcio,180,right,34,4,8000000,Slovenia
+Adam Gnezda Cerin,Central Midfield,24,Panathinaikos FC,180,right,30,4,3500000,Slovenia
+Miha Zajc,Central Midfield,29,Fenerbahce,178,right,39,8,2400000,Slovenia
+Timi Max Elsnik,Central Midfield,26,NK Olimpija Ljubljana,182,left,14,1,1500000,Slovenia
+Jasmin Kurtic,Central Midfield,35,FC Südtirol,186,right,91,2,500000,Slovenia
+Tomi Horvat,Right Midfield,25,SK Sturm Graz,176,left,6,0,5000000,Slovenia
+Josip Ilicic,Attacking Midfield,36,NK Maribor,190,left,80,17,300000,Slovenia
+Benjamin Verbic,Left Winger,30,Panathinaikos FC,183,right,58,6,2000000,Slovenia
+Benjamin Sesko,Centre-Forward,21,RB Leipzig,195,right,28,11,50000000,Slovenia
+Andraz Sporar,Centre-Forward,30,Panathinaikos FC,186,right,52,11,4000000,Slovenia
+Jan Mlakar,Centre-Forward,25,Pisa Sporting Club,183,right,16,3,2500000,Slovenia
+Zan Vipotnik,Centre-Forward,22,FC Girondins Bordeaux,185,both,9,2,2500000,Slovenia
+Luka Zahovic,Centre-Forward,28,Pogon Szczecin,177,right,15,0,400000,Slovenia
+Aaron Ramsdale,Goalkeeper,26,Arsenal FC,190,right,5,0,25000000,England
+Jordan Pickford,Goalkeeper,30,Everton FC,185,left,61,0,22000000,England
+Dean Henderson,Goalkeeper,27,Crystal Palace,188,right,1,0,12000000,England
+John Stones,Centre-Back,30,Manchester City,188,right,72,3,38000000,England
+Marc Guéhi,Centre-Back,23,Crystal Palace,182,right,11,0,38000000,England
+Ezri Konsa,Centre-Back,26,Aston Villa,183,right,4,0,35000000,England
+Joe Gomez,Centre-Back,27,Liverpool FC,188,right,15,0,28000000,England
+Lewis Dunk,Centre-Back,32,Brighton & Hove Albion,192,right,6,0,12000000,England
+Luke Shaw,Left-Back,28,Manchester United,178,left,31,3,32000000,England
+Trent Alexander-Arnold,Right-Back,25,Liverpool FC,180,right,25,3,70000000,England
+Kyle Walker,Right-Back,34,Manchester City,178,right,83,1,13000000,England
+Kieran Trippier,Right-Back,33,Newcastle United,173,right,48,1,10000000,England
+Declan Rice,Defensive Midfield,25,Arsenal FC,188,right,51,3,120000000,England
+Conor Gallagher,Central Midfield,24,Chelsea FC,182,right,13,0,50000000,England
+Kobbie Mainoo,Central Midfield,19,Manchester United,175,right,3,0,50000000,England
+Adam Wharton,Central Midfield,20,Crystal Palace,182,left,1,0,30000000,England
+Jude Bellingham,Attacking Midfield,20,Real Madrid,186,right,29,3,180000000,England
+Cole Palmer,Attacking Midfield,22,Chelsea FC,189,left,4,1,80000000,England
+Eberechi Eze,Attacking Midfield,25,Crystal Palace,178,right,4,0,55000000,England
+Anthony Gordon,Left Winger,23,Newcastle United,182,right,3,0,60000000,England
+Phil Foden,Right Winger,24,Manchester City,171,left,34,4,150000000,England
+Bukayo Saka,Right Winger,22,Arsenal FC,178,left,33,11,140000000,England
+Jarrod Bowen,Right Winger,27,West Ham United,175,left,8,0,50000000,England
+Harry Kane,Centre-Forward,30,Bayern Munich,188,right,91,63,100000000,England
+Ollie Watkins,Centre-Forward,28,Aston Villa,180,right,12,3,65000000,England
+Ivan Toney,Centre-Forward,28,Brentford FC,185,right,3,1,50000000,England
+Mads Hermansen,Goalkeeper,23,Leicester City,187,right,0,0,9000000,Denmark
+Frederik Rönnow,Goalkeeper,31,1.FC Union Berlin,188,right,10,0,4500000,Denmark
+Kasper Schmeichel,Goalkeeper,37,RSC Anderlecht,189,right,100,0,1000000,Denmark
+Andreas Christensen,Centre-Back,28,FC Barcelona,187,right,69,3,40000000,Denmark
+Joachim Andersen,Centre-Back,28,Crystal Palace,192,right,31,0,35000000,Denmark
+Jannik Vestergaard,Centre-Back,31,Leicester City,199,both,40,2,3000000,Denmark
+Simon Kjær,Centre-Back,35,AC Milan,191,right,131,5,1500000,Denmark
+Zanka,Centre-Back,34,Brentford FC,189,right,37,2,1000000,Denmark
+Victor Kristiansen,Left-Back,21,Bologna FC 1909,181,left,7,0,15000000,Denmark
+Joakim Maehle,Right-Back,27,VfL Wolfsburg,185,right,44,11,14000000,Denmark
+Alexander Bah,Right-Back,26,SL Benfica,183,right,10,1,13000000,Denmark
+Rasmus Kristensen,Right-Back,26,AS Roma,187,right,21,0,10000000,Denmark
+Morten Hjulmand,Defensive Midfield,24,Sporting CP,185,right,6,0,40000000,Denmark
+Christian Nørgaard,Defensive Midfield,30,Brentford FC,187,right,25,1,18000000,Denmark
+Pierre-Emile Højbjerg,Defensive Midfield,28,Tottenham Hotspur,185,right,76,9,18000000,Denmark
+Mathias Jensen,Central Midfield,28,Brentford FC,180,right,30,1,28000000,Denmark
+Christian Eriksen,Central Midfield,32,Manchester United,182,right,129,41,8000000,Denmark
+Thomas Delaney,Central Midfield,32,RSC Anderlecht,182,left,77,8,2500000,Denmark
+Mikkel Damsgaard,Left Winger,23,Brentford FC,180,right,26,4,10000000,Denmark
+Jacob Bruun Larsen,Left Winger,25,Burnley FC,183,right,6,1,8000000,Denmark
+Andreas Skov Olsen,Right Winger,24,Club Brugge KV,187,left,29,8,18000000,Denmark
+Anders Dreyer,Right Winger,26,RSC Anderlecht,174,left,3,0,15000000,Denmark
+Rasmus Højlund,Centre-Forward,21,Manchester United,191,left,13,7,65000000,Denmark
+Jonas Wind,Centre-Forward,25,VfL Wolfsburg,190,right,27,8,20000000,Denmark
+Kasper Dolberg,Centre-Forward,26,RSC Anderlecht,187,right,46,11,12000000,Denmark
+Yussuf Poulsen,Centre-Forward,29,RB Leipzig,192,right,78,12,6000000,Denmark
+Djordje Petrovic,Goalkeeper,24,Chelsea FC,194,right,3,0,20000000,Serbia
+Predrag Rajkovic,Goalkeeper,28,RCD Mallorca,191,right,31,0,10000000,Serbia
+Vanja Milinković-Savić,Goalkeeper,27,Torino FC,202,right,19,0,5000000,Serbia
+Strahinja Pavlovic,Centre-Back,23,Red Bull Salzburg,194,left,34,4,25000000,Serbia
+Nikola Milenković,Centre-Back,26,ACF Fiorentina,195,right,52,3,15000000,Serbia
+Milos Veljkovic,Centre-Back,28,SV Werder Bremen,188,right,30,1,4500000,Serbia
+Srdjan Babic,Centre-Back,28,Spartak Moscow,194,left,8,1,4000000,Serbia
+Nemanja Gudelj,Centre-Back,32,Sevilla FC,187,right,61,1,3500000,Serbia
+Nemanja Stojic,Centre-Back,26,FK TSC Backa Topola,190,right,1,0,2000000,Serbia
+Uros Spajic,Centre-Back,31,Red Star Belgrade,188,right,21,0,1200000,Serbia
+Filip Mladenovic,Left-Back,32,Panathinaikos FC,180,left,30,1,900000,Serbia
+Srdjan Mijailovic,Defensive Midfield,30,Red Star Belgrade,178,right,7,0,1700000,Serbia
+Sergej Milinković-Savić,Central Midfield,29,Al-Hilal SFC,192,right,50,8,30000000,Serbia
+Lazar Samardžić,Central Midfield,22,Udinese Calcio,184,left,8,0,20000000,Serbia
+Ivan Ilić,Central Midfield,23,Torino FC,186,left,15,0,18000000,Serbia
+Saša Lukić,Central Midfield,27,Fulham FC,182,right,45,2,10000000,Serbia
+Nemanja Maksimovic,Central Midfield,29,Getafe CF,189,right,49,0,6000000,Serbia
+Filip Kostić,Left Midfield,31,Juventus FC,184,left,62,3,6500000,Serbia
+Mijat Gacinovic,Attacking Midfield,29,AEK Athens,175,right,27,2,3000000,Serbia
+Veljko Birmancevic,Left Winger,26,AC Sparta Prague,179,right,4,0,9000000,Serbia
+Dusan Tadic,Left Winger,35,Fenerbahce,181,left,107,22,3500000,Serbia
+Andrija Zivkovic,Right Winger,27,PAOK Thessaloniki,169,left,45,1,8000000,Serbia
+Dušan Vlahović,Centre-Forward,24,Juventus FC,190,left,26,13,65000000,Serbia
+Aleksandar Mitrovic,Centre-Forward,29,Al-Hilal SFC,189,right,90,57,28000000,Serbia
+Luka Jović,Centre-Forward,26,AC Milan,182,right,34,10,7000000,Serbia
+Petar Ratkov,Centre-Forward,20,Red Bull Salzburg,193,right,1,0,5000000,Serbia
+Marcin Bulka,Goalkeeper,24,OGC Nice,199,right,1,0,20000000,Poland
+Wojciech Szczęsny,Goalkeeper,34,Juventus FC,196,right,81,0,6000000,Poland
+Lukasz Skorupski,Goalkeeper,33,Bologna FC 1909,188,right,10,0,3500000,Poland
+Jan Bednarek,Centre-Back,28,Southampton FC,189,right,56,1,11000000,Poland
+Paweł Dawidowicz,Centre-Back,29,Hellas Verona,189,both,10,0,3000000,Poland
+Sebastian Walukiewicz,Centre-Back,24,FC Empoli,188,right,4,1,2500000,Poland
+Bartosz Salamon,Centre-Back,33,Lech Poznan,194,right,13,0,500000,Poland
+Jakub Kiwior,Left-Back,24,Arsenal FC,189,left,22,1,30000000,Poland
+Tymoteusz Puchacz,Left-Back,25,1.FC Kaiserslautern,180,left,14,0,2000000,Poland
+Bartosz Bereszyński,Right-Back,31,FC Empoli,183,right,55,0,1300000,Poland
+Jakub Piotrowski,Defensive Midfield,26,Ludogorets Razgrad,188,right,5,2,5000000,Poland
+Bartosz Slisz,Defensive Midfield,25,Atlanta United FC,179,right,8,0,5000000,Poland
+Damian Szymanski,Defensive Midfield,28,AEK Athens,185,right,17,2,3500000,Poland
+Jakub Kaluzinski,Defensive Midfield,21,Antalyaspor,184,both,1,0,2100000,Poland
+Taras Romanczuk,Defensive Midfield,32,Jagiellonia Bialystok,186,left,3,1,500000,Poland
+Piotr Zieliński,Central Midfield,30,SSC Napoli,180,both,89,12,22000000,Poland
+Jakub Moder,Central Midfield,25,Brighton & Hove Albion,191,right,22,2,10000000,Poland
+Kacper Urbanski,Central Midfield,19,Bologna FC 1909,183,right,1,0,7000000,Poland
+Przemyslaw Frankowski,Right Midfield,29,RC Lens,175,right,40,3,9000000,Poland
+Nicola Zalewski,Left Midfield,22,AS Roma,175,both,17,0,12000000,Poland
+Sebastian Szymanski,Attacking Midfield,25,Fenerbahce,174,left,33,3,19000000,Poland
+Michal Skoras,Left Winger,24,Club Brugge KV,172,right,8,0,5000000,Poland
+Kamil Grosicki,Left Winger,36,Pogon Szczecin,180,right,93,17,500000,Poland
+Robert Lewandowski,Centre-Forward,35,FC Barcelona,185,right,149,82,15000000,Poland
+Adam Buksa,Centre-Forward,27,Antalyaspor,191,left,15,6,6000000,Poland
+Krzysztof Piatek,Centre-Forward,28,Basaksehir FK,183,right,28,11,6000000,Poland
+Karol Świderski,Centre-Forward,27,Hellas Verona,184,left,30,10,5000000,Poland
+Bart Verbruggen,Goalkeeper,21,Brighton & Hove Albion,194,right,6,0,18000000,Netherlands
+Justin Bijlow,Goalkeeper,26,Feyenoord Rotterdam,188,right,8,0,13000000,Netherlands
+Mark Flekken,Goalkeeper,30,Brentford FC,195,both,7,0,12000000,Netherlands
+Matthijs de Ligt,Centre-Back,24,Bayern Munich,189,right,45,2,65000000,Netherlands
+Micky van de Ven,Centre-Back,23,Tottenham Hotspur,193,left,3,0,55000000,Netherlands
+Nathan Aké,Centre-Back,29,Manchester City,180,left,44,5,40000000,Netherlands
+Virgil van Dijk,Centre-Back,32,Liverpool FC,195,right,67,8,30000000,Netherlands
+Stefan de Vrij,Centre-Back,32,Inter Milan,189,right,63,3,7000000,Netherlands
+Daley Blind,Centre-Back,34,Girona FC,180,left,107,3,3000000,Netherlands
+Lutsharel Geertruida,Right-Back,23,Feyenoord Rotterdam,184,right,8,0,32000000,Netherlands
+Jerdy Schouten,Defensive Midfield,27,PSV Eindhoven,185,right,4,0,28000000,Netherlands
+Frenkie de Jong,Central Midfield,27,FC Barcelona,181,right,54,2,70000000,Netherlands
+Joey Veerman,Central Midfield,25,PSV Eindhoven,185,right,9,1,40000000,Netherlands
+Ryan Gravenberch,Central Midfield,22,Liverpool FC,190,right,12,1,35000000,Netherlands
+Tijjani Reijnders,Central Midfield,25,AC Milan,185,right,8,1,30000000,Netherlands
+Georginio Wijnaldum,Central Midfield,33,Al-Ettifaq FC,175,right,92,28,4000000,Netherlands
+Jeremie Frimpong,Right Midfield,23,Bayer 04 Leverkusen,172,right,3,1,50000000,Netherlands
+Denzel Dumfries,Right Midfield,28,Inter Milan,188,right,52,6,24000000,Netherlands
+Xavi Simons,Attacking Midfield,21,RB Leipzig,179,right,13,0,80000000,Netherlands
+Teun Koopmeiners,Attacking Midfield,26,Atalanta BC,184,left,21,2,50000000,Netherlands
+Cody Gakpo,Left Winger,25,Liverpool FC,193,right,23,9,50000000,Netherlands
+Steven Bergwijn,Left Winger,26,Ajax Amsterdam,178,right,33,8,18000000,Netherlands
+Donyell Malen,Right Winger,25,Borussia Dortmund,176,right,31,6,40000000,Netherlands
+Brian Brobbey,Centre-Forward,22,Ajax Amsterdam,182,right,2,0,35000000,Netherlands
+Memphis Depay,Centre-Forward,30,Atlético de Madrid,178,right,91,45,10000000,Netherlands
+Wout Weghorst,Centre-Forward,31,TSG 1899 Hoffenheim,197,right,32,10,6000000,Netherlands
+Niklas Hedl,Goalkeeper,23,Rapid Vienna,190,right,1,0,2000000,Austria
+Patrick Pentz,Goalkeeper,27,Bröndby IF,183,left,5,0,1500000,Austria
+Heinz Lindner,Goalkeeper,33,Union Saint-Gilloise,187,right,36,0,300000,Austria
+Kevin Danso,Centre-Back,25,RC Lens,190,right,18,0,25000000,Austria
+Philipp Lienhart,Centre-Back,27,SC Freiburg,189,right,19,1,15000000,Austria
+Maximilian Wöber,Centre-Back,26,Borussia Mönchengladbach,188,left,23,0,10000000,Austria
+Flavius Daniliuc,Centre-Back,23,Red Bull Salzburg,188,right,2,0,6000000,Austria
+Leopold Querfeld,Centre-Back,20,Rapid Vienna,190,right,1,0,5000000,Austria
+Gernot Trauner,Centre-Back,32,Feyenoord Rotterdam,183,right,10,1,3500000,Austria
+Phillipp Mwene,Left-Back,30,1.FSV Mainz 05,170,right,11,0,1800000,Austria
+Stefan Posch,Right-Back,27,Bologna FC 1909,190,right,30,1,14000000,Austria
+Florian Grillitsch,Defensive Midfield,28,TSG 1899 Hoffenheim,187,right,41,1,6500000,Austria
+Konrad Laimer,Central Midfield,27,Bayern Munich,180,right,34,4,30000000,Austria
+Marcel Sabitzer,Central Midfield,30,Borussia Dortmund,178,right,78,17,20000000,Austria
+Nicolas Seiwald,Central Midfield,23,RB Leipzig,179,right,22,0,16000000,Austria
+Alexander Prass,Left Midfield,23,SK Sturm Graz,180,left,4,0,12000000,Austria
+Christoph Baumgartner,Attacking Midfield,24,RB Leipzig,180,right,36,13,18000000,Austria
+Romano Schmid,Attacking Midfield,24,SV Werder Bremen,168,right,9,0,10000000,Austria
+Florian Kainz,Attacking Midfield,31,1.FC Köln,176,both,27,1,2500000,Austria
+Matthias Seidl,Attacking Midfield,23,Rapid Vienna,175,both,3,0,2500000,Austria
+Andreas Weimann,Attacking Midfield,32,Bristol City,179,right,23,2,900000,Austria
+Marco Grüll,Left Winger,25,Rapid Vienna,182,both,4,0,4000000,Austria
+Patrick Wimmer,Right Winger,23,VfL Wolfsburg,182,right,10,0,15000000,Austria
+Michael Gregoritsch,Centre-Forward,30,SC Freiburg,193,left,53,15,8000000,Austria
+Marko Arnautovic,Centre-Forward,35,Inter Milan,190,both,111,36,4000000,Austria
+Maximilian Entrup,Centre-Forward,26,TSV Hartberg,186,,2,1,2000000,Austria
+Mike Maignan,Goalkeeper,28,AC Milan,191,right,15,0,38000000,France
+Brice Samba,Goalkeeper,30,RC Lens,187,left,3,0,15000000,France
+Alphonse Areola,Goalkeeper,31,West Ham United,195,right,5,0,10000000,France
+William Saliba,Centre-Back,23,Arsenal FC,192,right,14,0,80000000,France
+Benjamin Pavard,Centre-Back,28,Inter Milan,186,right,54,5,50000000,France
+Dayot Upamecano,Centre-Back,25,Bayern Munich,186,right,19,2,45000000,France
+Jules Koundé,Centre-Back,25,FC Barcelona,180,right,27,0,45000000,France
+Ibrahima Konaté,Centre-Back,25,Liverpool FC,194,right,14,0,45000000,France
+Theo Hernández,Left-Back,26,AC Milan,184,left,26,2,60000000,France
+Ferland Mendy,Left-Back,29,Real Madrid,180,left,9,0,22000000,France
+Jonathan Clauss,Right-Back,31,Olympique Marseille,178,right,13,2,12000000,France
+Aurélien Tchouaméni,Defensive Midfield,24,Real Madrid,188,right,31,3,100000000,France
+N'Golo Kanté,Defensive Midfield,33,Al-Ittihad Club,171,right,54,2,9000000,France
+Eduardo Camavinga,Central Midfield,21,Real Madrid,182,left,16,1,100000000,France
+Warren Zaïre-Emery,Central Midfield,18,Paris Saint-Germain,178,right,3,1,60000000,France
+Adrien Rabiot,Central Midfield,29,Juventus FC,188,left,43,4,35000000,France
+Youssouf Fofana,Central Midfield,25,AS Monaco,185,right,18,3,30000000,France
+Kingsley Coman,Left Winger,27,Bayern Munich,181,right,55,8,50000000,France
+Bradley Barcola,Left Winger,21,Paris Saint-Germain,182,right,1,0,50000000,France
+Ousmane Dembélé,Right Winger,27,Paris Saint-Germain,178,both,43,5,60000000,France
+Kylian Mbappé,Centre-Forward,25,Paris Saint-Germain,178,right,78,47,180000000,France
+Marcus Thuram,Centre-Forward,26,Inter Milan,192,right,19,2,65000000,France
+Randal Kolo Muani,Centre-Forward,25,Paris Saint-Germain,187,right,16,4,45000000,France
+Antoine Griezmann,Centre-Forward,33,Atlético de Madrid,176,left,128,44,25000000,France
+Olivier Giroud,Centre-Forward,37,AC Milan,192,left,132,57,3000000,France
+Matz Sels,Goalkeeper,32,Nottingham Forest,188,right,8,0,7000000,Belgium
+Koen Casteels,Goalkeeper,31,VfL Wolfsburg,197,left,9,0,6000000,Belgium
+Thomas Kaminski,Goalkeeper,31,Luton Town,190,,1,0,3000000,Belgium
+Arthur Theate,Centre-Back,24,Stade Rennais FC,185,left,15,0,20000000,Belgium
+Wout Faes,Centre-Back,26,Leicester City,187,right,14,0,20000000,Belgium
+Zeno Debast,Centre-Back,20,RSC Anderlecht,191,right,7,0,18000000,Belgium
+Axel Witsel,Centre-Back,35,Atlético de Madrid,186,right,131,12,3500000,Belgium
+Jan Vertonghen,Centre-Back,37,RSC Anderlecht,189,left,154,10,1500000,Belgium
+Maxim De Cuyper,Left-Back,23,Club Brugge KV,182,left,1,0,9000000,Belgium
+Timothy Castagne,Right-Back,28,Fulham FC,185,right,42,2,17000000,Belgium
+Thomas Meunier,Right-Back,32,Trabzonspor,191,right,65,8,2500000,Belgium
+Amadou Onana,Defensive Midfield,22,Everton FC,195,right,12,0,50000000,Belgium
+Youri Tielemans,Central Midfield,27,Aston Villa,177,right,67,7,25000000,Belgium
+Arthur Vermeeren,Central Midfield,19,Atlético de Madrid,180,right,4,0,25000000,Belgium
+Orel Mangala,Central Midfield,26,Olympique Lyon,178,right,14,0,20000000,Belgium
+Aster Vranckx,Central Midfield,21,VfL Wolfsburg,183,right,7,0,12000000,Belgium
+Kevin De Bruyne,Attacking Midfield,32,Manchester City,181,right,100,27,50000000,Belgium
+Charles De Ketelaere,Attacking Midfield,23,Atalanta BC,192,left,14,2,34000000,Belgium
+Jérémy Doku,Left Winger,22,Manchester City,173,right,21,2,65000000,Belgium
+Leandro Trossard,Left Winger,29,Arsenal FC,172,right,33,8,35000000,Belgium
+Yannick Carrasco,Left Winger,30,Al-Shabab FC,181,right,73,11,14000000,Belgium
+Johan Bakayoko,Right Winger,21,PSV Eindhoven,179,left,11,1,45000000,Belgium
+Dodi Lukébakio,Right Winger,26,Sevilla FC,187,left,15,2,12000000,Belgium
+Loïs Openda,Centre-Forward,24,RB Leipzig,177,right,17,2,60000000,Belgium
+Romelu Lukaku,Centre-Forward,31,AS Roma,191,left,114,83,30000000,Belgium
+Marek Rodak,Goalkeeper,27,Fulham FC,194,right,22,0,3000000,Slovakia
+Henrich Ravas,Goalkeeper,26,New England Revolution,195,right,0,0,1500000,Slovakia
+Martin Dubravka,Goalkeeper,35,Newcastle United,191,right,42,0,1000000,Slovakia
+David Hancko,Centre-Back,26,Feyenoord Rotterdam,188,left,37,4,35000000,Slovakia
+Milan Skriniar,Centre-Back,29,Paris Saint-Germain,188,right,67,3,30000000,Slovakia
+Denis Vavro,Centre-Back,28,FC Copenhagen,189,right,19,2,4000000,Slovakia
+Adam Obert,Centre-Back,21,Cagliari Calcio,188,left,4,0,3500000,Slovakia
+Norbert Gyomber,Centre-Back,31,US Salernitana 1919,189,right,39,0,1300000,Slovakia
+Sebastian Kosa,Centre-Back,20,Spartak Trnava,191,right,1,0,1200000,Slovakia
+Vernon De Marco,Centre-Back,31,Hatta Club,186,left,9,1,500000,Slovakia
+Peter Pekarik,Right-Back,37,Hertha BSC,177,right,126,2,300000,Slovakia
+Stanislav Lobotka,Defensive Midfield,29,SSC Napoli,168,right,54,4,28000000,Slovakia
+Laszlo Benes,Central Midfield,26,Hamburger SV,181,left,21,1,5000000,Slovakia
+Ondrej Duda,Central Midfield,29,Hellas Verona,180,right,71,13,4000000,Slovakia
+Patrik Hrosovsky,Central Midfield,32,KRC Genk,173,right,55,0,3500000,Slovakia
+Matus Bero,Central Midfield,28,VfL Bochum,181,right,29,1,3500000,Slovakia
+Tomas Rigo,Central Midfield,21,FC Banik Ostrava,184,right,1,1,2200000,Slovakia
+Juraj Kucka,Central Midfield,37,Slovan Bratislava,186,right,106,13,500000,Slovakia
+Tomas Suslov,Attacking Midfield,22,Hellas Verona,174,left,27,3,7000000,Slovakia
+Lukas Haraslin,Left Winger,28,AC Sparta Prague,182,right,35,6,5500000,Slovakia
+Leo Sauer,Left Winger,18,Feyenoord Rotterdam,184,right,2,0,5000000,Slovakia
+Ivan Schranz,Left Winger,30,SK Slavia Prague,185,right,21,3,2000000,Slovakia
+Lubomir Tupta,Left Winger,26,FC Slovan Liberec,182,right,5,0,800000,Slovakia
+David Duris,Left Winger,25,Ascoli Calcio,186,right,12,1,600000,Slovakia
+Robert Bozenik,Centre-Forward,24,Boavista FC,188,right,39,6,5000000,Slovakia
+David Strelec,Centre-Forward,23,Slovan Bratislava,185,left,18,3,2800000,Slovakia
+Ștefan Târnovanu,Goalkeeper,24,FCSB,197,right,1,0,3000000,Romania
+Horațiu Moldovan,Goalkeeper,26,Atlético de Madrid,189,right,11,0,2500000,Romania
+Florin Niță,Goalkeeper,36,Gaziantep FK,184,right,21,0,225000,Romania
+Radu Drăgușin,Centre-Back,22,Tottenham Hotspur,191,right,17,0,25000000,Romania
+Andrei Burcă,Centre-Back,31,Al-Okhdood Club,188,right,27,1,3000000,Romania
+Bogdan Racovițan,Centre-Back,24,Raków Częstochowa,187,,2,0,1800000,Romania
+Ionuț Nedelcearu,Centre-Back,28,Palermo FC,190,right,27,2,1000000,Romania
+Adrian Rus,Centre-Back,28,Pafos FC,188,right,20,1,700000,Romania
+Nicuşor Bancu,Left-Back,31,CS Universitatea Craiova,182,left,36,2,1500000,Romania
+Andrei Rațiu,Right-Back,25,Rayo Vallecano,183,right,17,1,1400000,Romania
+Vasile Mogoș,Right-Back,31,CFR Cluj,186,right,7,0,900000,Romania
+Adrian Șut,Defensive Midfield,25,FCSB,186,right,2,0,2700000,Romania
+Răzvan Marin,Central Midfield,28,FC Empoli,178,right,55,3,2700000,Romania
+Marius Marin,Central Midfield,25,Pisa Sporting Club,180,right,18,0,1600000,Romania
+Darius Olaru,Attacking Midfield,26,FCSB,177,both,18,0,7000000,Romania
+Nicolae Stanciu,Attacking Midfield,31,Damac FC,170,right,70,14,4500000,Romania
+Alexandru Cicâldău,Attacking Midfield,26,Konyaspor,178,right,37,4,3000000,Romania
+Ianis Hagi,Attacking Midfield,25,Deportivo Alavés,182,both,35,5,2000000,Romania
+Florinel Coman,Left Winger,26,FCSB,182,right,15,1,7000000,Romania
+Valentin Mihăilă,Left Winger,24,Parma Calcio 1913,180,right,21,4,2800000,Romania
+Dennis Man,Right Winger,25,Parma Calcio 1913,183,left,24,7,9000000,Romania
+Deian Sorescu,Right Winger,26,Gaziantep FK,175,right,17,0,1000000,Romania
+Denis Drăguș,Centre-Forward,24,Gaziantep FK,185,right,11,2,4000000,Romania
+Daniel Bîrligea,Centre-Forward,24,CFR Cluj,184,right,2,0,1600000,Romania
+George Pușcaș,Centre-Forward,28,SSC Bari,188,right,42,11,1500000,Romania
+Denis Alibec,Centre-Forward,33,Muaither SC,187,left,37,5,700000,Romania
+Anatoliy Trubin,Goalkeeper,22,SL Benfica,199,right,11,0,25000000,Ukraine
+Andriy Lunin,Goalkeeper,25,Real Madrid,191,right,11,0,25000000,Ukraine
+Georgiy Bushchan,Goalkeeper,30,Dynamo Kyiv,196,right,18,0,7000000,Ukraine
+Ilya Zabarnyi,Centre-Back,21,AFC Bournemouth,189,right,35,1,32000000,Ukraine
+Mykola Matvienko,Centre-Back,28,Shakhtar Donetsk,182,left,64,0,18000000,Ukraine
+Valeriy Bondar,Centre-Back,25,Shakhtar Donetsk,185,right,4,0,5000000,Ukraine
+Maksym Taloverov,Centre-Back,23,LASK,196,right,3,0,2500000,Ukraine
+Oleksandr Svatok,Centre-Back,29,SK Dnipro-1,186,right,6,0,2000000,Ukraine
+Oleksandr Zinchenko,Left-Back,27,Arsenal FC,175,left,62,9,38000000,Ukraine
+Vitaliy Mykolenko,Left-Back,25,Everton FC,180,left,40,1,28000000,Ukraine
+Bogdan Mykhaylichenko,Left-Back,27,Polissya Zhytomyr,178,left,8,0,2500000,Ukraine
+Yukhym Konoplya,Right-Back,24,Shakhtar Donetsk,180,right,13,1,6000000,Ukraine
+Oleksandr Tymchyk,Right-Back,27,Dynamo Kyiv,180,right,17,1,4000000,Ukraine
+Volodymyr Brazhko,Defensive Midfield,22,Dynamo Kyiv,184,right,3,0,5000000,Ukraine
+Taras Stepanenko,Defensive Midfield,34,Shakhtar Donetsk,181,left,82,4,2500000,Ukraine
+Sergiy Sydorchuk,Defensive Midfield,33,KVC Westerlo,189,right,61,3,2000000,Ukraine
+Mykola Shaparenko,Central Midfield,25,Dynamo Kyiv,178,right,30,1,9000000,Ukraine
+Georgiy Sudakov,Attacking Midfield,21,Shakhtar Donetsk,177,both,16,1,35000000,Ukraine
+Ruslan Malinovskyi,Attacking Midfield,31,Genoa CFC,181,left,60,7,8000000,Ukraine
+Mykhaylo Mudryk,Left Winger,23,Chelsea FC,175,right,20,2,35000000,Ukraine
+Viktor Tsygankov,Right Winger,26,Girona FC,178,left,53,12,30000000,Ukraine
+Oleksandr Zubkov,Right Winger,27,Shakhtar Donetsk,182,left,32,2,7000000,Ukraine
+Andriy Yarmolenko,Right Winger,34,Dynamo Kyiv,189,left,118,46,2000000,Ukraine
+Artem Dovbyk,Centre-Forward,26,Girona FC,189,left,27,9,35000000,Ukraine
+Vladyslav Vanat,Centre-Forward,22,Dynamo Kyiv,182,left,6,0,10000000,Ukraine
+Roman Yaremchuk,Centre-Forward,28,Valencia CF,191,right,49,14,3500000,Ukraine
+Altay Bayındır,Goalkeeper,26,Manchester United,198,right,9,0,10000000,Turkiye
+Uğurcan Çakır,Goalkeeper,28,Trabzonspor,191,right,27,0,8000000,Turkiye
+Mert Günok,Goalkeeper,35,Besiktas JK,196,right,28,0,1200000,Turkiye
+Merih Demiral,Centre-Back,26,Al-Ahli SFC,190,right,43,2,16000000,Turkiye
+Ahmetcan Kaplan,Centre-Back,21,Ajax Amsterdam,189,left,0,0,10000000,Turkiye
+Abdülkerim Bardakcı,Centre-Back,29,Galatasaray,185,left,7,1,9000000,Turkiye
+Kaan Ayhan,Centre-Back,29,Galatasaray,185,right,57,5,4700000,Turkiye
+Samet Akaydin,Centre-Back,30,Panathinaikos FC,190,right,5,0,2500000,Turkiye
+Ferdi Kadıoğlu,Left-Back,24,Fenerbahce,174,right,15,1,21000000,Turkiye
+Zeki Çelik,Right-Back,27,AS Roma,180,right,45,2,6000000,Turkiye
+Mert Müldür,Right-Back,25,Fenerbahce,184,right,23,1,4200000,Turkiye
+Hakan Çalhanoğlu,Defensive Midfield,30,Inter Milan,178,right,85,18,45000000,Turkiye
+İsmail Yüksek,Defensive Midfield,25,Fenerbahce,183,right,14,1,12000000,Turkiye
+Salih Özcan,Defensive Midfield,26,Borussia Dortmund,183,right,17,0,10000000,Turkiye
+Okay Yokuşlu,Defensive Midfield,30,West Bromwich Albion,191,right,39,1,3000000,Turkiye
+Orkun Kökçü,Central Midfield,23,SL Benfica,175,both,27,2,27000000,Turkiye
+Arda Güler,Attacking Midfield,19,Real Madrid,175,left,6,1,30000000,Turkiye
+Yusuf Yazıcı,Attacking Midfield,27,LOSC Lille,184,left,43,3,10000000,Turkiye
+Kerem Aktürkoğlu,Left Winger,25,Galatasaray,173,right,28,5,15000000,Turkiye
+Barış Alper Yılmaz,Right Winger,24,Galatasaray,186,right,14,1,17000000,Turkiye
+İrfan Can Kahveci,Right Winger,28,Fenerbahce,180,left,31,2,10000000,Turkiye
+Yunus Akgün,Right Winger,23,Leicester City,173,left,9,2,5000000,Turkiye
+Kenan Yıldız,Second Striker,19,Juventus FC,187,both,6,1,30000000,Turkiye
+Semih Kılıçsoy,Centre-Forward,18,Besiktas JK,178,right,1,0,12000000,Turkiye
+Bertuğ Yıldırım,Centre-Forward,21,Stade Rennais FC,191,right,3,2,3500000,Turkiye
+Cenk Tosun,Centre-Forward,33,Besiktas JK,183,right,50,20,2000000,Turkiye
+Giorgi Mamardashvili,Goalkeeper,23,Valencia CF,197,left,16,0,35000000,Georgia
+Luka Gugeshashvili,Goalkeeper,25,Qarabağ FK,196,left,1,0,600000,Georgia
+Giorgi Loria,Goalkeeper,38,Dinamo Tbilisi,197,right,77,0,50000,Georgia
+Luka Lochoshvili,Centre-Back,26,US Cremonese,192,left,10,1,1100000,Georgia
+Lasha Dvali,Centre-Back,29,APOEL Nicosia,191,left,31,1,900000,Georgia
+Solomon Kvirkvelia,Centre-Back,32,Al-Okhdood Club,196,right,58,0,700000,Georgia
+Jemal Tabidze,Centre-Back,28,Panetolikos GFS,187,left,15,1,500000,Georgia
+Giorgi Gvelesiani,Centre-Back,33,Persepolis FC,193,right,0,0,400000,Georgia
+Guram Kashia,Centre-Back,36,Slovan Bratislava,185,right,112,3,250000,Georgia
+Giorgi Gocholeishvili,Right-Back,23,Shakhtar Donetsk,178,right,8,0,2500000,Georgia
+Anzor Mekvabishvili,Defensive Midfield,23,CS Universitatea Craiova,174,right,13,0,1200000,Georgia
+Nika Kvekveskiri,Defensive Midfield,32,Lech Poznan,186,right,59,0,500000,Georgia
+Gabriel Sigua,Central Midfield,18,FC Basel 1893,190,right,2,0,2500000,Georgia
+Giorgi Kochorashvili,Central Midfield,24,Levante UD,178,right,7,0,1000000,Georgia
+Sandro Altunashvili,Central Midfield,27,Wolfsberger AC,169,right,4,0,800000,Georgia
+Otar Kakabadze,Right Midfield,28,Cracovia,186,right,60,0,600000,Georgia
+Otar Kiteishvili,Attacking Midfield,28,SK Sturm Graz,173,both,36,2,5000000,Georgia
+Giorgi Chakvetadze,Attacking Midfield,24,Watford FC,183,right,24,8,2500000,Georgia
+Khvicha Kvaratskhelia,Left Winger,23,SSC Napoli,183,both,29,15,80000000,Georgia
+Saba Lobjanidze,Left Winger,29,Atlanta United FC,175,left,36,3,2000000,Georgia
+Georgiy Tsitaishvili,Left Winger,23,Dinamo Batumi,171,left,16,1,800000,Georgia
+Zuriko Davitashvili,Right Winger,23,FC Girondins Bordeaux,175,right,34,6,3000000,Georgia
+Levan Shengelia,Right Winger,28,Panetolikos GFS,184,left,16,1,750000,Georgia
+Georges Mikautadze,Centre-Forward,23,FC Metz,176,right,24,9,15000000,Georgia
+Giorgi Kvilitaia,Centre-Forward,30,APOEL Nicosia,193,right,37,6,1600000,Georgia
+Budu Zivzivadze,Centre-Forward,30,Karlsruher SC,189,both,25,7,900000,Georgia
+Diogo Costa,Goalkeeper,24,FC Porto,186,right,20,0,40000000,Portugal
+José Sá,Goalkeeper,31,Wolverhampton Wanderers,192,right,2,0,14000000,Portugal
+Rui Patrício,Goalkeeper,36,AS Roma,190,left,108,0,1000000,Portugal
+Rúben Dias,Centre-Back,27,Manchester City,187,right,55,3,80000000,Portugal
+Gonçalo Inácio,Centre-Back,22,Sporting CP,186,left,7,2,45000000,Portugal
+António Silva,Centre-Back,20,SL Benfica,187,right,10,0,45000000,Portugal
+Pepe,Centre-Back,41,FC Porto,187,right,136,8,500000,Portugal
+Nuno Mendes,Left-Back,21,Paris Saint-Germain,183,left,21,0,55000000,Portugal
+Diogo Dalot,Right-Back,25,Manchester United,184,right,18,2,35000000,Portugal
+João Cancelo,Right-Back,30,FC Barcelona,182,right,52,10,25000000,Portugal
+Nélson Semedo,Right-Back,30,Wolverhampton Wanderers,177,right,28,0,12000000,Portugal
+João Palhinha,Defensive Midfield,28,Fulham FC,190,right,26,2,55000000,Portugal
+João Neves,Defensive Midfield,19,SL Benfica,174,right,6,0,55000000,Portugal
+Rúben Neves,Defensive Midfield,27,Al-Hilal SFC,180,right,46,0,32000000,Portugal
+Danilo Pereira,Defensive Midfield,32,Paris Saint-Germain,188,right,72,2,8000000,Portugal
+Matheus Nunes,Central Midfield,25,Manchester City,183,right,12,2,50000000,Portugal
+Vitinha,Central Midfield,24,Paris Saint-Germain,172,right,16,0,50000000,Portugal
+Bruno Fernandes,Attacking Midfield,29,Manchester United,179,right,65,22,70000000,Portugal
+Bernardo Silva,Attacking Midfield,29,Manchester City,173,left,88,11,70000000,Portugal
+Rafael Leão,Left Winger,24,AC Milan,188,right,25,4,90000000,Portugal
+Diogo Jota,Left Winger,27,Liverpool FC,178,right,37,13,50000000,Portugal
+Pedro Neto,Right Winger,24,Wolverhampton Wanderers,172,left,6,1,55000000,Portugal
+Francisco Conceição,Right Winger,21,FC Porto,170,left,2,0,22000000,Portugal
+João Félix,Second Striker,24,FC Barcelona,181,right,37,7,30000000,Portugal
+Gonçalo Ramos,Centre-Forward,22,Paris Saint-Germain,185,right,12,8,50000000,Portugal
+Cristiano Ronaldo,Centre-Forward,39,Al-Nassr FC,188,right,206,128,15000000,Portugal
+Matej Kovar,Goalkeeper,24,Bayer 04 Leverkusen,196,right,1,0,7000000,Czech Republic
+Vitezslav Jaros,Goalkeeper,22,SK Sturm Graz,190,right,0,0,5000000,Czech Republic
+Jindrich Stanek,Goalkeeper,28,SK Slavia Prague,192,right,9,0,3500000,Czech Republic
+Martin Vitík,Centre-Back,21,AC Sparta Prague,193,right,1,0,12000000,Czech Republic
+Ladislav Krejci,Centre-Back,25,AC Sparta Prague,191,left,9,3,10000000,Czech Republic
+Tomas Vlcek,Centre-Back,23,SK Slavia Prague,181,right,1,0,6000000,Czech Republic
+Robin Hranac,Centre-Back,24,FC Viktoria Plzen,190,right,1,0,5000000,Czech Republic
+David Zima,Centre-Back,23,SK Slavia Prague,192,right,20,1,4000000,Czech Republic
+Tomas Holes,Centre-Back,31,SK Slavia Prague,180,right,27,2,2200000,Czech Republic
+David Jurásek,Left-Back,23,TSG 1899 Hoffenheim,183,left,7,0,8000000,Czech Republic
+Vladimír Coufal,Right-Back,31,West Ham United,174,right,40,1,8000000,Czech Republic
+Tomas Soucek,Defensive Midfield,29,West Ham United,192,right,68,12,30000000,Czech Republic
+Michal Sadílek,Central Midfield,25,Twente Enschede FC,169,left,23,1,8000000,Czech Republic
+Lukas Cerv,Central Midfield,23,FC Viktoria Plzen,182,-,0,0,1500000,Czech Republic
+David Doudera,Right Midfield,26,SK Slavia Prague,175,right,8,1,3000000,Czech Republic
+Lukas Provod,Left Midfield,27,SK Slavia Prague,189,left,18,2,3000000,Czech Republic
+Pavel Sulc,Attacking Midfield,23,FC Viktoria Plzen,177,right,1,0,6000000,Czech Republic
+Antonín Barák,Attacking Midfield,29,ACF Fiorentina,190,left,39,8,4500000,Czech Republic
+Ondrej Lingr,Attacking Midfield,25,Feyenoord Rotterdam,175,right,13,0,3500000,Czech Republic
+Matej Jurasek,Right Winger,20,SK Slavia Prague,181,-,1,0,8000000,Czech Republic
+Vaclav Cerny,Right Winger,26,VfL Wolfsburg,182,left,15,5,7000000,Czech Republic
+Adam Hlozek,Second Striker,21,Bayer 04 Leverkusen,188,right,31,2,12000000,Czech Republic
+Patrik Schick,Centre-Forward,28,Bayer 04 Leverkusen,191,left,37,18,22000000,Czech Republic
+Mojmír Chytil,Centre-Forward,25,SK Slavia Prague,187,-,12,4,6500000,Czech Republic
+Jan Kuchta,Centre-Forward,27,AC Sparta Prague,185,right,20,3,5000000,Czech Republic
+Tomas Chory,Centre-Forward,29,FC Viktoria Plzen,199,right,3,2,3200000,Czech Republic
